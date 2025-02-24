@@ -1,0 +1,105 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Directories and temp files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+.env
+.envrc
+*.venv
+
+# Poetry / Pipenv
+.poetry/
+Pipfile
+Pipfile.lock
+
+# Conda
+*.conda
+*.lock
+conda-meta/
+conda-env.yaml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.egg-info/
+
+# VSCode and PyCharm related
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+
+# Log files
+logs/
+*.log
+*.out
+*.err
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Datasets and model weights
+data/
+datasets/
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.sqlite
+*.db
+*.npy
+*.npz
+*.bin
+
+# Hugging Face related
+*.safetensors
+*.msgpack
+*.pt
+*.ckpt
+*.onnx
+*.tflite
+*.pb
+hf_cache/
+transformers_cache/
+models/
+
+# Checkpoints and TensorBoard logs
+checkpoints/
+tensorboard/
+lightning_logs/
+wandb/
+*.wandb
+
+# FastAPI related
+instance/
+*.pid
+
+# LLaMA Factory, LoRA, Fine-tuning related
+output/
+lora_adapters/
+training_results/
+fine_tuned_models/
+
+# AutoDL and cloud computing related
+autodl-tmp/
+cloud_tmp/
+
+# ChromaDB related
+chroma/
+chroma_db/
+db/
+vector_db/
+*.chroma
+*.parquet
+*.sqlite
