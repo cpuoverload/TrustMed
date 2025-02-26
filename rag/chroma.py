@@ -10,7 +10,7 @@ from llama_index.embeddings.ollama import OllamaEmbedding
 from config.rag_config import (
     CHROMA_DB_DIR,
     CHROMA_COLLECTION_NAME,
-    DATA_DIR,
+    RAW_DATA_DIR,
     EMBEDDING_MODEL,
 )
 
@@ -35,11 +35,11 @@ def load_or_create_chroma_index():
     else:
         print("ChromaDB is empty, reindex...")
         try:
-            documents = SimpleDirectoryReader(DATA_DIR).load_data()
+            documents = SimpleDirectoryReader(RAW_DATA_DIR).load_data()
             print(f"read {len(documents)} documents")
         except Exception as e:
             print(
-                f"error: failed to read {DATA_DIR} directory, please check {DATA_DIR} directory."
+                f"error: failed to read {RAW_DATA_DIR} directory, please check {RAW_DATA_DIR} directory."
             )
             raise e
         index = VectorStoreIndex.from_documents(
