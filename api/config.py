@@ -9,7 +9,7 @@ from api.services.rag_service import RAGService
 async def lifespan(app: FastAPI):
     # startup
     index = load_or_create_chroma_index()
-    app.state.rag_service = RAGService(index)
+    app.state.rag_service = RAGService(index, streaming=True)
 
     yield
 
