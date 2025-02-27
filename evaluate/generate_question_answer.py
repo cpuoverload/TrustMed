@@ -1,4 +1,4 @@
-# 通过 python -m evaluate.generate_question_answer 运行此文件
+# 通过 python -m 运行，否则 ModuleNotFoundError
 
 from llama_index.core import SimpleDirectoryReader
 from llama_index.llms.dashscope import DashScope, DashScopeGenerationModels
@@ -16,7 +16,9 @@ load_dotenv(".env")
 dashscope_api_key = os.getenv("DASHSCOPE_API_KEY")
 
 llm = DashScope(
-    model_name=DashScopeGenerationModels.QWEN_PLUS, api_key=dashscope_api_key
+    model_name=DashScopeGenerationModels.QWEN_PLUS,
+    api_key=dashscope_api_key,
+    max_tokens=8192,  # 默认 256，会导致输出被截断
 )
 embeddings = DashScopeEmbedding(
     model_name=DashScopeTextEmbeddingModels.TEXT_EMBEDDING_V3, api_key=dashscope_api_key

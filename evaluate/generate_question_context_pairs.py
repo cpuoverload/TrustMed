@@ -1,4 +1,4 @@
-# 通过 python -m evaluate.generate_question_context_pairs 运行此文件，否则有 ModuleNotFoundError
+# 通过 python -m 运行，否则 ModuleNotFoundError
 
 from llama_index.core import SimpleDirectoryReader
 from llama_index.core.evaluation import generate_question_context_pairs
