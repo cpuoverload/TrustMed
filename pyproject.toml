@@ -16,6 +16,10 @@ dependencies = [
     "streamlit (>=1.42.0,<2.0.0)",
     "spacy (>=3.8.4,<4.0.0)",
     "python-dotenv (>=1.0.1,<2.0.0)",
+    "llama-index-llms-dashscope (>=0.3.0,<0.4.0)",
+    "llama-index-embeddings-dashscope (>=0.3.0,<0.4.0)",
+    "ragas (>=0.2.13,<0.3.0)",
+    "rapidfuzz (>=3.12.1,<4.0.0)",
 ]
 
 [tool.poetry]

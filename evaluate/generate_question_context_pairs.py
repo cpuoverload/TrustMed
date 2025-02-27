@@ -23,3 +23,4 @@ qa_dataset = generate_question_context_pairs(nodes, llm=llm, num_questions_per_c
 path = os.path.join(EVALUATE_DATA_DIR, "question_context_pairs.json")
 # 生成的 json 中有乱码，但无需解决：https://github.com/run-llama/llama_index/issues/6415#issuecomment-1639114481
 qa_dataset.save_json(path)
+print(f"generated question context pairs saved to {path}")
