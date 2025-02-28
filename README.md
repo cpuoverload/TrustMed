@@ -20,11 +20,19 @@ poetry install
 backend:
 
 ```bash
-python main.py
+PYTHONPATH=src python src/api/main.py
 ```
 
 frontend:
 
 ```bash
-streamlit run frontend/streamlit_app.py
+streamlit run src/webui/streamlit_app.py
+```
+
+evaluation:
+
+```bash
+PYTHONPATH=src python src/evaluation/generate_qa_testset.py
+PYTHONPATH=src python src/evaluation/create_evaluation_dataset.py
+PYTHONPATH=src python src/evaluation/evaluate_rag.py
 ```

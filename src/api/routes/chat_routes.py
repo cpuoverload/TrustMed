@@ -3,22 +3,22 @@ from fastapi.responses import StreamingResponse
 from typing import Annotated
 import asyncio
 import json
-from api.dependencies import get_rag_service
+from api.dependencies import get_rag_engine
 from api.models import ChatRequest
-from api.services.rag_service import RAGService
+from rag.rag_engine import RAGEngine
 
 router = APIRouter(prefix="/chat", tags=["Chat"])
 
 
 @router.post("/")
 async def chat(
-    request: ChatRequest, rag_service: Annotated[RAGService, Depends(get_rag_service)]
+    request: ChatRequest, rag_engine: Annotated[RAGEngine, Depends(get_rag_engine)]
 ):
     """Chat interface with streaming output"""
     try:
 
         async def generate():
-            response = rag_service.query(request.question)
+            response = rag_engine.query(request.question)
 
             # Send the retrieved related text first
             source_text = "\n=== Retrieved Related Text ===\n\n\n"

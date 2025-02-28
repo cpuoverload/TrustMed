@@ -28,6 +28,3 @@ def extract_articles(raw_data, chunksize=10000):
                 file.write(article)
 
     print("files saved!")
-
-
-extract_articles("train.csv")
