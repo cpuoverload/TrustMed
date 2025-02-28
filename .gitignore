@@ -20,7 +20,6 @@ Pipfile.lock
 
 # Conda
 *.conda
-*.lock
 conda-meta/
 conda-env.yaml
 
