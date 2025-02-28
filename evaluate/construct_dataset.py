@@ -24,7 +24,7 @@ for sample in samples:
         {
             "user_input": sample["user_input"],
             "retrieved_contexts": [n.node.text for n in response.source_nodes],
-            "reference_contexts": sample["reference_contexts"],
+            "reference_contexts": sample["reference_contexts"], # 经测试，加不加这个字段不会影响 evaluate 消耗 token 数，因为 metric 没用到
             "response": response.response,
             "reference": sample["reference"],
         }
