@@ -58,6 +58,6 @@ if __name__ == "__main__":
     output_path = os.path.join(EVALUATION_DATA_DIR, "testset.csv")
     generate_qa_testset(
         articles_dir=articles_dir,
-        testset_size=2,
+        testset_size=100,
         output_path=output_path,
     )
