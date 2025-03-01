@@ -32,7 +32,6 @@ streamlit run src/webui/streamlit_app.py
 evaluation:
 
 ```bash
-PYTHONPATH=src python src/evaluation/generate_qa_testset.py
 PYTHONPATH=src python src/evaluation/create_evaluation_dataset.py
 PYTHONPATH=src python src/evaluation/evaluate_rag.py
 ```

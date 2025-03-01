@@ -18,6 +18,7 @@ from ragas.metrics.base import Metric
 from ragas import EvaluationDataset, evaluate
 from ragas.llms import LlamaIndexLLMWrapper
 from ragas.embeddings import LlamaIndexEmbeddingsWrapper
+from rag.config import EVALUATION_DATA_DIR, PROFILES
 
 
 def evaluate_rag(
@@ -73,14 +74,17 @@ def evaluate_rag(
     )
 
     # Save results
+    os.makedirs(os.path.dirname(result_path), exist_ok=True)
     result.to_pandas().to_csv(result_path, index=False)
     print(f"Evaluation result saved to {result_path}")
 
 
 if __name__ == "__main__":
-    from rag.config import EVALUATION_DATA_DIR
-
-    dataset_path = os.path.join(EVALUATION_DATA_DIR, "evaluation_dataset.csv")
-    result_path = os.path.join(EVALUATION_DATA_DIR, "evaluation_result.csv")
-
+    profile = PROFILES[1]
+    dataset_path = os.path.join(
+        EVALUATION_DATA_DIR, profile["profile_name"], "evaluation_dataset.csv"
+    )
+    result_path = os.path.join(
+        EVALUATION_DATA_DIR, profile["profile_name"], "evaluation_result.csv"
+    )
     evaluate_rag(dataset_path, result_path)

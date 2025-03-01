@@ -7,15 +7,15 @@ from rag.rag_engine import create_rag_engine
 from rag.types import ProfileType
 
 
-def create_evaluation_dataset(profile: ProfileType):
+def create_evaluation_dataset(
+    profile: ProfileType, articles_dir: str, testset_path: str, saved_path: str
+):
     # load testset
-    testset_path = os.path.join(EVALUATION_DATA_DIR, "testset.csv")
     df = pd.read_csv(testset_path)
     df["reference_contexts"] = df["reference_contexts"].apply(ast.literal_eval)
     samples = df.to_dict(orient="records")
 
     # initialize rag engine
-    articles_dir = os.path.join(EVALUATION_DATA_DIR, "articles")
     rag_engine = create_rag_engine(profile, articles_dir)
 
     # generate dataset
@@ -36,10 +36,16 @@ def create_evaluation_dataset(profile: ProfileType):
 
     # Save dataset
     df = pd.DataFrame(dataset)
-    saved_path = os.path.join(EVALUATION_DATA_DIR, "evaluation_dataset.csv")
+    os.makedirs(os.path.dirname(saved_path), exist_ok=True)
     df.to_csv(saved_path, index=False, encoding="utf-8")
     print(f"constructed dataset saved to {saved_path}")
 
 
 if __name__ == "__main__":
-    create_evaluation_dataset(PROFILES[1])
+    profile = PROFILES[1]
+    articles_dir = os.path.join(EVALUATION_DATA_DIR, "articles")
+    testset_path = os.path.join(EVALUATION_DATA_DIR, "testset.csv")
+    saved_path = os.path.join(
+        EVALUATION_DATA_DIR, profile["profile_name"], "evaluation_dataset.csv"
+    )
+    create_evaluation_dataset(profile, articles_dir, testset_path, saved_path)
