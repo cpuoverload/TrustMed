@@ -4,9 +4,10 @@ import os
 from tqdm import tqdm
 from rag.config import EVALUATION_DATA_DIR, PROFILES
 from rag.rag_engine import create_rag_engine
+from rag.types import ProfileType
 
 
-def create_evaluation_dataset(profile: dict):
+def create_evaluation_dataset(profile: ProfileType):
     # load testset
     testset_path = os.path.join(EVALUATION_DATA_DIR, "testset.csv")
     df = pd.read_csv(testset_path)

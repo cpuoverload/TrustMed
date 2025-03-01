@@ -1,14 +1,7 @@
-from typing import TypedDict
 from llama_index.core import VectorStoreIndex
-from llama_index.core.base.embeddings.base import BaseEmbedding
 from llama_index.core.llms.utils import LLMType
 from rag.chroma_index import ChromaIndexManager
-
-
-class ProfileType(TypedDict):
-    collection_name: str
-    embedding_model: BaseEmbedding
-    llm: LLMType
+from rag.types import ProfileType
 
 
 class RAGEngine:
