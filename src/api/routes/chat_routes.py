@@ -21,11 +21,20 @@ async def chat(
             response = rag_engine.query(request.question)
 
             # Send the retrieved related text first
-            source_text = "\n=== Retrieved Related Text ===\n\n\n"
-            for node in response.source_nodes:
-                source_text += f"Content: {node.text}\n\n"
-                source_text += f"Source Information: {node.metadata}\n\n"
-            source_text += "========================================\n\n"
+            source_text = f"Found {len(response.source_nodes)} relevant documents:\n\n"
+            source_text += "----------------------------------------\n"
+
+            for idx, node in enumerate(response.source_nodes, 1):
+                # Truncate text to first 200 characters and add ellipsis if needed
+                truncated_text = node.text[:200]
+                if len(node.text) > 200:
+                    truncated_text += "..."
+
+                source_text += f"Document {idx}:\n"
+                source_text += f"\nContent: {truncated_text}\n"
+                source_text += f"\nSource Information: {node.metadata}\n\n"
+                source_text += "----------------------------------------\n"
+
             yield f"data: {json.dumps({'delta': source_text}, ensure_ascii=False)}\n\n"
             await asyncio.sleep(0.02)
 

@@ -7,4 +7,6 @@ class ProfileType(TypedDict):
     profile_name: str
     collection_name: str
     embedding_model: BaseEmbedding
+    chunk_size: int
+    top_k: int
     llm: LLMType

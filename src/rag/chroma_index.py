@@ -16,9 +16,10 @@ class ChromaIndexManager:
         self,
         collection_name: str,
         embedding_model: BaseEmbedding,
-        # todo: 加 chunk size
+        chunk_size: int = 1024,
     ):
         Settings.embed_model = embedding_model
+        Settings.chunk_size = chunk_size
 
         self.db = chromadb.PersistentClient(path=CHROMA_DB_DIR)
         self.collection = self.db.get_or_create_collection(collection_name)
