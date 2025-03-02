@@ -1,13 +1,8 @@
 from llama_index.core import SimpleDirectoryReader
-from llama_index.llms.dashscope import DashScope, DashScopeGenerationModels
-from llama_index.embeddings.dashscope import (
-    DashScopeEmbedding,
-    DashScopeTextEmbeddingModels,
-)
 from ragas.testset import TestsetGenerator
-from dotenv import load_dotenv
 import os
 from rag.config import EVALUATION_DATA_DIR
+from utils.llm_api import get_llm, get_embedding
 
 
 def generate_qa_testset(
@@ -23,22 +18,10 @@ def generate_qa_testset(
         testset_size: Number of samples to generate
         output_path: Path to save the generated test set CSV
     """
-    load_dotenv(".env")
-    dashscope_api_key = os.getenv("DASHSCOPE_API_KEY")
-
-    llm = DashScope(
-        model_name=DashScopeGenerationModels.QWEN_PLUS,
-        api_key=dashscope_api_key,
-        max_tokens=8192,  # 默认 256，会导致输出被截断
-    )
-    embeddings = DashScopeEmbedding(
-        model_name=DashScopeTextEmbeddingModels.TEXT_EMBEDDING_V3,
-        api_key=dashscope_api_key,
-    )
 
     generator = TestsetGenerator.from_llama_index(
-        llm=llm,
-        embedding_model=embeddings,
+        llm=get_llm(),
+        embedding_model=get_embedding(),
     )
 
     # Load documents and generate samples

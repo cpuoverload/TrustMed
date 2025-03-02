@@ -10,3 +10,4 @@ class ProfileType(TypedDict):
     chunk_size: int
     top_k: int
     llm: LLMType
+    hybrid_search: bool

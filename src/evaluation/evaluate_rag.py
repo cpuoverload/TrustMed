@@ -2,12 +2,6 @@ import os
 import ast
 import pandas as pd
 from typing import Optional, Sequence
-from dotenv import load_dotenv
-from llama_index.llms.dashscope import DashScope, DashScopeGenerationModels
-from llama_index.embeddings.dashscope import (
-    DashScopeEmbedding,
-    DashScopeTextEmbeddingModels,
-)
 from ragas.metrics import (
     Faithfulness,
     AnswerRelevancy,
@@ -19,6 +13,7 @@ from ragas import EvaluationDataset, evaluate
 from ragas.llms import LlamaIndexLLMWrapper
 from ragas.embeddings import LlamaIndexEmbeddingsWrapper
 from rag.config import EVALUATION_DATA_DIR, PROFILES
+from utils.llm_api import get_llm, get_embedding
 
 
 def evaluate_rag(
@@ -34,18 +29,6 @@ def evaluate_rag(
         result_path: Path to save evaluation results
         metrics: List of Ragas metrics to use for evaluation. If None, uses default metrics
     """
-    load_dotenv(".env")
-    dashscope_api_key = os.getenv("DASHSCOPE_API_KEY")
-
-    llm = DashScope(
-        model_name=DashScopeGenerationModels.QWEN_PLUS,
-        api_key=dashscope_api_key,
-        max_tokens=8192,  # 默认 256，会导致输出被截断
-    )
-    embeddings = DashScopeEmbedding(
-        model_name=DashScopeTextEmbeddingModels.TEXT_EMBEDDING_V3,
-        api_key=dashscope_api_key,
-    )
 
     # Use default metrics if none provided
     if metrics is None:
@@ -67,9 +50,9 @@ def evaluate_rag(
     result = evaluate(
         dataset=evaluation_dataset,
         metrics=metrics,
-        llm=LlamaIndexLLMWrapper(llm),
+        llm=LlamaIndexLLMWrapper(get_llm()),
         embeddings=LlamaIndexEmbeddingsWrapper(
-            embeddings
+            get_embedding()
         ),  # 部分 metrics 需要 embeddings
     )
 

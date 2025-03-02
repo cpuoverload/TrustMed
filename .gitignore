@@ -102,3 +102,5 @@ vector_db/
 *.chroma
 *.parquet
 *.sqlite
+
+*_docstore.json
