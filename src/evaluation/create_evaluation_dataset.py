@@ -2,7 +2,7 @@ import pandas as pd
 import ast
 import os
 from tqdm import tqdm
-from rag.config import EVALUATION_DATA_DIR, PROFILES
+from rag.config import EVALUATION_DATA_DIR, EVALUATION_PROFILES
 from rag.rag_engine import create_rag_engine
 from rag.types import ProfileType
 
@@ -42,7 +42,7 @@ def create_evaluation_dataset(
 
 
 if __name__ == "__main__":
-    profile = PROFILES[2]
+    profile = EVALUATION_PROFILES[2]
     articles_dir = os.path.join(EVALUATION_DATA_DIR, "articles")
     testset_path = os.path.join(EVALUATION_DATA_DIR, "testset.csv")
     saved_path = os.path.join(
