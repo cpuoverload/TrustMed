@@ -34,6 +34,7 @@ PROFILES: list[ProfileType] = [
         "top_k": 12,
         "llm": Ollama("llama3.2"),
         "hybrid_search": True,
+        "query_rewrite_num": 3,
     },
     {
         "profile_name": "evaluation_1",

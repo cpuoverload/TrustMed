@@ -11,3 +11,4 @@ class ProfileType(TypedDict):
     top_k: int
     llm: LLMType
     hybrid_search: bool
+    query_rewrite_num: int
