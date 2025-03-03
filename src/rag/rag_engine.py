@@ -38,7 +38,7 @@ def create_rag_engine(profile: ProfileType, data_dir: str, streaming: bool = Fal
     chunk_size = profile["chunk_size"]
     top_k = profile["top_k"]
     llm = profile["llm"]
-    hybrid_search = profile["hybrid_search"]
+    hybrid_search = profile.get("hybrid_search", False)
     docstore_path = profile["profile_name"] + "_docstore.json"
     query_rewrite_num = profile.get("query_rewrite_num", 0)
 
@@ -83,6 +83,15 @@ def create_rag_engine(profile: ProfileType, data_dir: str, streaming: bool = Fal
         retriever = VectorIndexRetriever(
             index=index,
             similarity_top_k=top_k,
+        )
+        retriever = QueryFusionRetriever(
+            [retriever],
+            similarity_top_k=top_k,
+            num_queries=1 + query_rewrite_num,  # set this to 1 to disable query generation
+            llm=get_llm(),
+            mode="reciprocal_rerank",
+            verbose=True, # print generated queries
+            # query_gen_prompt="...",  # we could override the query generation prompt here
         )
 
     # get rag engine
