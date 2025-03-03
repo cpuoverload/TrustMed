@@ -2,7 +2,7 @@ from llama_index.core import SimpleDirectoryReader
 from ragas.testset import TestsetGenerator
 import os
 from rag.config import EVALUATION_DATA_DIR
-from utils.llm_api import get_llm, get_embedding
+from utils.llm_api import qwen_llm, qwen_embedding
 
 
 def generate_qa_testset(
@@ -20,8 +20,8 @@ def generate_qa_testset(
     """
 
     generator = TestsetGenerator.from_llama_index(
-        llm=get_llm(),
-        embedding_model=get_embedding(),
+        llm=qwen_llm(),
+        embedding_model=qwen_embedding(),
     )
 
     # Load documents and generate samples

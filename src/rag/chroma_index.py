@@ -19,12 +19,14 @@ class ChromaIndexManager:
     def __init__(
         self,
         collection_name: str,
+        chunk_size: int,
+        chunk_overlap: int,
         embedding_model: BaseEmbedding,
-        chunk_size: int = 1024,
     ):
         Settings.embed_model = embedding_model
 
         self.chunk_size = chunk_size
+        self.chunk_overlap = chunk_overlap
 
         self.db = chromadb.PersistentClient(path=CHROMA_DB_DIR)
         self.collection = self.db.get_or_create_collection(collection_name)
@@ -49,7 +51,9 @@ class ChromaIndexManager:
             )
             raise e
 
-        parser = SentenceSplitter(chunk_size=self.chunk_size)
+        parser = SentenceSplitter(
+            chunk_size=self.chunk_size, chunk_overlap=self.chunk_overlap
+        )
         nodes = parser.get_nodes_from_documents(documents, show_progress=True)
         return nodes
 

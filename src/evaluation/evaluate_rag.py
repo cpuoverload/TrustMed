@@ -13,7 +13,7 @@ from ragas import EvaluationDataset, evaluate
 from ragas.llms import LlamaIndexLLMWrapper
 from ragas.embeddings import LlamaIndexEmbeddingsWrapper
 from rag.config import EVALUATION_DATA_DIR, PROFILES
-from utils.llm_api import get_llm, get_embedding
+from utils.llm_api import qwen_llm, qwen_embedding
 
 
 def evaluate_rag(
@@ -50,9 +50,9 @@ def evaluate_rag(
     result = evaluate(
         dataset=evaluation_dataset,
         metrics=metrics,
-        llm=LlamaIndexLLMWrapper(get_llm()),
+        llm=LlamaIndexLLMWrapper(qwen_llm()),
         embeddings=LlamaIndexEmbeddingsWrapper(
-            get_embedding()
+            qwen_embedding()
         ),  # 部分 metrics 需要 embeddings
     )
 
