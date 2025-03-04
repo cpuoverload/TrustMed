@@ -3,6 +3,7 @@ from utils.model_provider import (
     ollama_llama_llm,
     ollama_jina_embedding,
     hf_llama_1b_llm,
+    hf_bge_small_embedding,
     bge_rerank_base,
 )
 
@@ -21,20 +22,34 @@ APP_PROFILE: ProfileType = {
     "llm": ollama_llama_llm(),
 }
 
-EVALUATION_PROFILES: list[ProfileType] = [
+# server evaluation
+SERVER_EVALUATION_PROFILES: list[ProfileType] = [
+    {
+        "profile_name": "baseline",
+        "collection_name": "baseline",
+        "embedding_model": hf_bge_small_embedding(),
+        "chunk_size": 1024,
+        "chunk_overlap": 100,
+        "top_k": 3,
+        "llm": hf_llama_1b_llm(),
+    },
+]
+
+# local test
+LOCAL_EVALUATION_PROFILES: list[ProfileType] = [
     {
         "profile_name": "baseline",
         "collection_name": "baseline",
         "embedding_model": ollama_jina_embedding(),
         "chunk_size": 1024,
-        "chunk_overlap": 200,
+        "chunk_overlap": 100,
         "top_k": 3,
         "llm": ollama_llama_llm(),
     },
     {
         "profile_name": "huggingface_llm_test",
         "collection_name": "huggingface_llm_test",
-        "embedding_model": ollama_jina_embedding(),
+        "embedding_model": hf_bge_small_embedding(),
         "chunk_size": 256,
         "chunk_overlap": 20,
         "top_k": 12,

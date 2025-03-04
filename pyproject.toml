@@ -29,6 +29,8 @@ dependencies = [
     "llama-index-llms-huggingface (>=0.4.2,<0.5.0)",
     "transformers[torch] (>=4.49.0,<5.0.0)",
     "huggingface-hub (>=0.29.1,<0.30.0)",
+    "llama-index-embeddings-huggingface (>=0.5.2,<0.6.0)",
+    "sentence-transformers (>=3.4.1,<4.0.0)",
 ]
 
 [tool.poetry]

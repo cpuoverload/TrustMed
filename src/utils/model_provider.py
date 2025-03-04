@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from llama_index.llms.ollama import Ollama
 from llama_index.embeddings.ollama import OllamaEmbedding
 from llama_index.llms.huggingface import HuggingFaceLLM
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.dashscope import DashScope, DashScopeGenerationModels
 from llama_index.embeddings.dashscope import (
     DashScopeEmbedding,
@@ -42,6 +43,11 @@ def hf_llama_1b_llm():
         device_map="auto",
     )
 
+
+def hf_bge_small_embedding():
+    _load_api_key("HF_TOKEN")
+
+    return HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 def qwen_llm():
     return DashScope(
