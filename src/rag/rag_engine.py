@@ -11,7 +11,7 @@ from llama_index.retrievers.bm25 import BM25Retriever
 from llama_index.core.postprocessor.types import BaseNodePostprocessor
 from rag.chroma_index import ChromaIndexManager
 from rag.types import ProfileType
-from utils.llm_api import qwen_llm
+from utils.model_provider import qwen_llm
 
 
 class RAGEngine:

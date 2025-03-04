@@ -1,7 +1,7 @@
 from llama_index.embeddings.ollama import OllamaEmbedding
 from llama_index.llms.ollama import Ollama
 from rag.types import ProfileType
-from utils.llm_api import cohere_rerank
+from utils.model_provider import cohere_rerank, bge_rerank_base
 
 CHROMA_DB_DIR = "./chroma_db"
 RAW_DATA_DIR = "./data/raw"
@@ -48,6 +48,7 @@ EVALUATION_PROFILES: list[ProfileType] = [
         "llm": Ollama("llama3.2"),
         "hybrid_search": True,
         # "query_rewrite_num": 3,
-        "reranker": cohere_rerank(top_n=3),
+        # "reranker": cohere_rerank(top_n=3),
+        "reranker": bge_rerank_base(top_n=3),
     },
 ]
