@@ -1,5 +1,7 @@
 import os
 from dotenv import load_dotenv
+from llama_index.llms.ollama import Ollama
+from llama_index.embeddings.ollama import OllamaEmbedding
 from llama_index.llms.dashscope import DashScope, DashScopeGenerationModels
 from llama_index.embeddings.dashscope import (
     DashScopeEmbedding,
@@ -17,6 +19,14 @@ def _load_api_key(key_name: str):
         load_dotenv(".env")
         api_key = os.getenv(key_name)
     return api_key
+
+
+def ollama_llama_llm():
+    return Ollama("llama3.2")
+
+
+def ollama_jina_embedding():
+    return OllamaEmbedding("jina/jina-embeddings-v2-small-en")
 
 
 def qwen_llm():
