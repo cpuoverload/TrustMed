@@ -49,6 +49,7 @@ def hf_bge_small_embedding():
 
     return HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
+
 def qwen_llm():
     return DashScope(
         model_name=DashScopeGenerationModels.QWEN_PLUS,
