@@ -34,13 +34,38 @@ def ollama_jina_embedding():
 def hf_llama_1b_llm():
     _load_api_key("HF_TOKEN")
 
+    # todo: 添加 completion_to_prompt
+
     return HuggingFaceLLM(
         model_name="meta-llama/Llama-3.2-1B",
         tokenizer_name="meta-llama/Llama-3.2-1B",
         context_window=4000,
         max_new_tokens=256,
         model_kwargs={"torch_dtype": "float16"},
+        generate_kwargs={"temperature": 0.7, "top_k": 50, "top_p": 0.95},
         device_map="auto",
+    )
+
+
+def hf_llama_8b_llm():
+    _load_api_key("HF_TOKEN")
+
+    # HuggingFaceLLM 默认不会改动原始 prompt，所以不符合 llama 所需格式，导致输出中有重复、胡言乱语
+    def completion_to_prompt(completion):
+        return (
+            f"<|start_header_id|>user<|end_header_id|>\n{completion}<|eot_id|>\n"
+            f"<|start_header_id|>assistant<|end_header_id|>\n"
+        )
+
+    return HuggingFaceLLM(
+        model_name="meta-llama/Llama-3.1-8B-Instruct",
+        tokenizer_name="meta-llama/Llama-3.1-8B-Instruct",
+        context_window=8192,
+        max_new_tokens=1024,
+        model_kwargs={"torch_dtype": "float16"},
+        generate_kwargs={"temperature": 0.7, "top_k": 50, "top_p": 0.95},
+        device_map="auto",
+        completion_to_prompt=completion_to_prompt,
     )
 
 

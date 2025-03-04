@@ -2,6 +2,7 @@ from rag.types import ProfileType
 from utils.model_provider import (
     ollama_llama_llm,
     ollama_jina_embedding,
+    hf_llama_8b_llm,
     hf_llama_1b_llm,
     hf_bge_small_embedding,
     bge_rerank_base,
@@ -31,7 +32,7 @@ SERVER_EVALUATION_PROFILES: list[ProfileType] = [
         "chunk_size": 1024,
         "chunk_overlap": 100,
         "top_k": 3,
-        "llm": hf_llama_1b_llm(),
+        "llm": hf_llama_8b_llm(),
     },
 ]
 
