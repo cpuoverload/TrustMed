@@ -11,7 +11,7 @@ from llama_index.core.storage.docstore import SimpleDocumentStore
 from llama_index.core.schema import BaseNode
 from llama_index.core.base.embeddings.base import BaseEmbedding
 import chromadb
-from rag.config import CHROMA_DB_DIR
+from config import CHROMA_DB_DIR
 
 
 class ChromaIndexManager:

@@ -12,7 +12,7 @@ from ragas.metrics.base import Metric
 from ragas import EvaluationDataset, evaluate
 from ragas.llms import LlamaIndexLLMWrapper
 from ragas.embeddings import LlamaIndexEmbeddingsWrapper
-from rag.config import EVALUATION_DATA_DIR, LOCAL_EVALUATION_PROFILES
+from config import EVALUATION_DATA_DIR, LOCAL_EVALUATION_PROFILES
 from utils.model_provider import qwen_llm, qwen_embedding
 
 
