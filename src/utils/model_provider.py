@@ -2,6 +2,7 @@ import os
 from dotenv import load_dotenv
 from llama_index.llms.ollama import Ollama
 from llama_index.embeddings.ollama import OllamaEmbedding
+from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.llms.dashscope import DashScope, DashScopeGenerationModels
 from llama_index.embeddings.dashscope import (
     DashScopeEmbedding,
@@ -27,6 +28,19 @@ def ollama_llama_llm():
 
 def ollama_jina_embedding():
     return OllamaEmbedding("jina/jina-embeddings-v2-small-en")
+
+
+def hf_llama_1b_llm():
+    _load_api_key("HF_TOKEN")
+
+    return HuggingFaceLLM(
+        model_name="meta-llama/Llama-3.2-1B",
+        tokenizer_name="meta-llama/Llama-3.2-1B",
+        context_window=4000,
+        max_new_tokens=256,
+        model_kwargs={"torch_dtype": "float16"},
+        device_map="auto",
+    )
 
 
 def qwen_llm():

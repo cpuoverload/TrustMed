@@ -2608,6 +2608,25 @@ dashscope = ">=1.14.1,<2.0.0"
 llama-index-core = ">=0.12.0,<0.13.0"
 
 [[package]]
+name = "llama-index-llms-huggingface"
+version = "0.4.2"
+description = "llama-index llms huggingface integration"
+optional = false
+python-versions = "<4.0,>=3.9"
+groups = ["main"]
+files = [
+    {file = "llama_index_llms_huggingface-0.4.2-py3-none-any.whl", hash = "sha256:6e9126ebcfa649882e2e6c19d356aaad855d52a9b485ba710b0926fd30a73a36"},
+    {file = "llama_index_llms_huggingface-0.4.2.tar.gz", hash = "sha256:b4e5381d7f8cf115f766a8c4d22d35b774b9b01a741c69047b91def08e7da6e2"},
+]
+
+[package.dependencies]
+huggingface-hub = ">=0.23.0"
+llama-index-core = ">=0.12.0,<0.13.0"
+text-generation = ">=0.7.0,<0.8.0"
+torch = ">=2.1.2,<3.0.0"
+transformers = {version = ">=4.37.0,<5.0.0", extras = ["torch"]}
+
+[[package]]
 name = "llama-index-llms-ollama"
 version = "0.5.2"
 description = "llama-index llms ollama integration"
@@ -6364,6 +6383,23 @@ doc = ["reno", "sphinx"]
 test = ["pytest", "tornado (>=4.5)", "typeguard"]
 
 [[package]]
+name = "text-generation"
+version = "0.7.0"
+description = "Hugging Face Text Generation Python Client"
+optional = false
+python-versions = "<4.0,>=3.7"
+groups = ["main"]
+files = [
+    {file = "text_generation-0.7.0-py3-none-any.whl", hash = "sha256:02ab337a0ee0e7c70e04a607b311c261caae74bde46a7d837c6fdd150108f4d8"},
+    {file = "text_generation-0.7.0.tar.gz", hash = "sha256:689200cd1f0d4141562af2515393c2c21cdbd9fac21c8398bf3043cdcc14184e"},
+]
+
+[package.dependencies]
+aiohttp = ">=3.8,<4.0"
+huggingface-hub = ">=0.12,<1.0"
+pydantic = ">2,<3"
+
+[[package]]
 name = "thinc"
 version = "8.3.4"
 description = "A refreshing functional take on deep learning, compatible with your favorite libraries"
@@ -6692,6 +6728,7 @@ files = [
 ]
 
 [package.dependencies]
+accelerate = {version = ">=0.26.0", optional = true, markers = "extra == \"torch\""}
 filelock = "*"
 huggingface-hub = ">=0.26.0,<1.0"
 numpy = ">=1.17"
@@ -6701,6 +6738,7 @@ regex = "!=2019.12.17"
 requests = "*"
 safetensors = ">=0.4.1"
 tokenizers = ">=0.21,<0.22"
+torch = {version = ">=2.0", optional = true, markers = "extra == \"torch\""}
 tqdm = ">=4.27"
 
 [package.extras]
@@ -7754,4 +7792,4 @@ cffi = ["cffi (>=1.11)"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<3.11"
-content-hash = "b23492bfda3741f485dce3ee1810c50a56cba329cb69b325e4a9a5bf280bd658"
+content-hash = "d9f8bab7d551b85077fca8c5490399299a503b8d94509f295423103f358143fb"

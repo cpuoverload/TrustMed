@@ -2,7 +2,7 @@ from rag.types import ProfileType
 from utils.model_provider import (
     ollama_llama_llm,
     ollama_jina_embedding,
-    cohere_rerank,
+    hf_llama_1b_llm,
     bge_rerank_base,
 )
 
@@ -32,6 +32,15 @@ EVALUATION_PROFILES: list[ProfileType] = [
         "llm": ollama_llama_llm(),
     },
     {
+        "profile_name": "huggingface_llm_test",
+        "collection_name": "huggingface_llm_test",
+        "embedding_model": ollama_jina_embedding(),
+        "chunk_size": 256,
+        "chunk_overlap": 20,
+        "top_k": 12,
+        "llm": hf_llama_1b_llm(),
+    },
+    {
         "profile_name": "vector_search",
         "collection_name": "vector_search",
         "embedding_model": ollama_jina_embedding(),
@@ -51,7 +60,6 @@ EVALUATION_PROFILES: list[ProfileType] = [
         "llm": ollama_llama_llm(),
         "hybrid_search": True,
         # "query_rewrite_num": 3,
-        # "reranker": cohere_rerank(top_n=3),
         "reranker": bge_rerank_base(top_n=3),
     },
 ]

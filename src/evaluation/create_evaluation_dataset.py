@@ -42,7 +42,7 @@ def create_evaluation_dataset(
 
 
 if __name__ == "__main__":
-    profile = EVALUATION_PROFILES[2]
+    profile = EVALUATION_PROFILES[1]
     articles_dir = os.path.join(EVALUATION_DATA_DIR, "articles")
     testset_path = os.path.join(EVALUATION_DATA_DIR, "testset.csv")
     saved_path = os.path.join(
