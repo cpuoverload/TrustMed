@@ -49,7 +49,7 @@ def _get_index_and_docstore(profile: ProfileType, data_dir: str):
         collection_name=collection_name,
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap,
-        embedding_model=embedding_model,
+        embedding_model=embedding_model(),
     )
 
     index = None
@@ -114,6 +114,9 @@ def _create_retriever(
 
 def create_rag_engine(profile: ProfileType, data_dir: str, streaming: bool = False):
     reranker = profile.get("reranker", None)
+    reranker_top_n = profile.get("reranker_top_n", 3)
+    reranker = reranker(reranker_top_n) if reranker else None
+    
     llm = profile["llm"]
 
     index, docstore = _get_index_and_docstore(profile, data_dir)
@@ -123,6 +126,6 @@ def create_rag_engine(profile: ProfileType, data_dir: str, streaming: bool = Fal
     return RAGEngine(
         retriever=retriever,
         reranker=reranker,
-        llm=llm,
+        llm=llm(),
         streaming=streaming,
     )

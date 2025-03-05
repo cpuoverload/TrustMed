@@ -90,7 +90,7 @@ def qwen_embedding():
     )
 
 
-def cohere_rerank(top_n: int = 3):
+def cohere_rerank(top_n: int):
     return CohereRerank(
         api_key=_load_api_key("COHERE_API_KEY"),
         model="rerank-v3.5",
@@ -98,7 +98,7 @@ def cohere_rerank(top_n: int = 3):
     )
 
 
-def bge_rerank_large(top_n: int = 3):
+def bge_rerank_large(top_n: int):
     # Model size: 2.24GB, will be downloaded automatically
     return FlagEmbeddingReranker(
         model="BAAI/bge-reranker-large",
@@ -106,7 +106,7 @@ def bge_rerank_large(top_n: int = 3):
     )
 
 
-def bge_rerank_base(top_n: int = 3):
+def bge_rerank_base(top_n: int):
     # Model size: 1.11GB, will be downloaded automatically
     return FlagEmbeddingReranker(
         model="BAAI/bge-reranker-base",

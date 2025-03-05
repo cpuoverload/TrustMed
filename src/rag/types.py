@@ -1,4 +1,4 @@
-from typing import TypedDict, Optional
+from typing import TypedDict, Optional, Callable
 from llama_index.core.base.embeddings.base import BaseEmbedding
 from llama_index.core.llms.utils import LLMType
 from llama_index.core.postprocessor.types import BaseNodePostprocessor
@@ -9,9 +9,10 @@ class ProfileType(TypedDict):
     collection_name: str
     chunk_size: int
     chunk_overlap: int
-    embedding_model: BaseEmbedding
+    embedding_model: Callable[[], BaseEmbedding]
     top_k: int
-    llm: LLMType
+    llm: Callable[[], LLMType]
     hybrid_search: Optional[bool]
     query_rewrite_num: Optional[int]
-    reranker: Optional[BaseNodePostprocessor]
+    reranker: Optional[Callable[[int], BaseNodePostprocessor]]
+    reranker_top_n: Optional[int]
