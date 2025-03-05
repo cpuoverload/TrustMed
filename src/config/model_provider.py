@@ -83,6 +83,13 @@ def hf_bge_large_embedding():
     return HuggingFaceEmbedding(model_name="BAAI/bge-large-en-v1.5")
 
 
+def hf_mxbai_large_embedding():
+    _load_api_key("HF_TOKEN")
+
+    # HuggingFaceEmbedding has default query instruction: model.encode(query, prompt_name="query")
+    return HuggingFaceEmbedding(model_name="mixedbread-ai/mxbai-embed-large-v1")
+
+
 def qwen_llm():
     return DashScope(
         model_name=DashScopeGenerationModels.QWEN_PLUS,
