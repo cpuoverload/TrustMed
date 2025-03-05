@@ -1,5 +1,5 @@
 import argparse
-from config import LOCAL_EVALUATION_PROFILES, SERVER_EVALUATION_PROFILES
+from config.profile import LOCAL_EVALUATION_PROFILES, SERVER_EVALUATION_PROFILES
 
 
 def get_profile():

@@ -1,8 +1,8 @@
 from llama_index.core import SimpleDirectoryReader
 from ragas.testset import TestsetGenerator
 import os
-from config import EVALUATION_DATA_DIR
-from utils.model_provider import qwen_llm, qwen_embedding
+from config.data_dir import EVALUATION_DATA_DIR
+from config.model_provider import qwen_llm, qwen_embedding
 
 
 def generate_qa_testset(

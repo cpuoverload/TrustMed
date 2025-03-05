@@ -1,5 +1,5 @@
 from rag.types import ProfileType
-from utils.model_provider import (
+from config.model_provider import (
     ollama_llama_llm,
     ollama_jina_embedding,
     hf_llama_8b_llm,
@@ -8,10 +8,6 @@ from utils.model_provider import (
     bge_rerank_base,
 )
 
-CHROMA_DB_DIR = "./chroma_db"
-RAW_DATA_DIR = "./data/raw"
-EVALUATION_DATA_DIR = "./data/evaluation"
-BM25_RETRIEVER_DIR = "./bm25_retriever"
 
 APP_PROFILE: ProfileType = {
     "profile_name": "app",

@@ -1,7 +1,8 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from config import RAW_DATA_DIR, APP_PROFILE
+from config.profile import APP_PROFILE
+from config.data_dir import RAW_DATA_DIR
 from rag.rag_engine import create_rag_engine
 
 

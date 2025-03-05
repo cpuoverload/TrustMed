@@ -12,8 +12,8 @@ from ragas.metrics.base import Metric
 from ragas import EvaluationDataset, evaluate
 from ragas.llms import LlamaIndexLLMWrapper
 from ragas.embeddings import LlamaIndexEmbeddingsWrapper
-from config import EVALUATION_DATA_DIR
-from utils.model_provider import qwen_llm, qwen_embedding
+from config.data_dir import EVALUATION_DATA_DIR
+from config.model_provider import qwen_llm, qwen_embedding
 from utils.get_profile import get_profile
 
 

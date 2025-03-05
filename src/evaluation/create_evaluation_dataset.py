@@ -2,7 +2,7 @@ import pandas as pd
 import ast
 import os
 from tqdm import tqdm
-from config import EVALUATION_DATA_DIR
+from config.data_dir import EVALUATION_DATA_DIR
 from rag.rag_engine import create_rag_engine
 from rag.types import ProfileType
 from utils.get_profile import get_profile
