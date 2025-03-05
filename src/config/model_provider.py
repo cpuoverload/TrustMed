@@ -72,12 +72,14 @@ def hf_llama_8b_llm():
 def hf_bge_small_embedding():
     _load_api_key("HF_TOKEN")
 
+    # HuggingFaceEmbedding has default query instruction for BGE models
     return HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 
 def hf_bge_large_embedding():
     _load_api_key("HF_TOKEN")
 
+    # HuggingFaceEmbedding has default query instruction for BGE models
     return HuggingFaceEmbedding(model_name="BAAI/bge-large-en-v1.5")
 
 
