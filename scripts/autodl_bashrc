@@ -1,0 +1,8 @@
+# poetry
+export PATH="/root/.local/bin:$PATH"
+
+# huggingface cache directory
+export HF_HOME="/root/autodl-tmp/huggingface"
+
+# python
+export PYTHONPATH=src
