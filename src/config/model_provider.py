@@ -75,6 +75,12 @@ def hf_bge_small_embedding():
     return HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 
+def hf_bge_large_embedding():
+    _load_api_key("HF_TOKEN")
+
+    return HuggingFaceEmbedding(model_name="BAAI/bge-large-en-v1.5")
+
+
 def qwen_llm():
     return DashScope(
         model_name=DashScopeGenerationModels.QWEN_PLUS,
@@ -98,17 +104,17 @@ def cohere_rerank(top_n: int):
     )
 
 
-def bge_rerank_large(top_n: int):
-    # Model size: 2.24GB, will be downloaded automatically
-    return FlagEmbeddingReranker(
-        model="BAAI/bge-reranker-large",
-        top_n=top_n,
-    )
-
-
 def bge_rerank_base(top_n: int):
     # Model size: 1.11GB, will be downloaded automatically
     return FlagEmbeddingReranker(
         model="BAAI/bge-reranker-base",
+        top_n=top_n,
+    )
+
+
+def bge_rerank_large(top_n: int):
+    # Model size: 2.24GB, will be downloaded automatically
+    return FlagEmbeddingReranker(
+        model="BAAI/bge-reranker-large",
         top_n=top_n,
     )
