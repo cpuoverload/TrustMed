@@ -145,6 +145,30 @@ SERVER_EVALUATION_PROFILES: list[ProfileType] = [
         "reranker": bge_rerank_large,
         "reranker_top_n": 6,
     },
+    {
+        "profile_name": "mxbai_large_embedding_chunk_size_1024_hybrid_search_rerank",
+        "collection_name": "mxbai_large_embedding_chunk_size_1024_hybrid_search_rerank",
+        "embedding_model": hf_mxbai_large_embedding,
+        "chunk_size": 1024,
+        "chunk_overlap": 100,
+        "top_k": 3,
+        "llm": hf_llama_8b_llm,
+        "hybrid_search": True,
+        "reranker": bge_rerank_large,
+        "reranker_top_n": 3,
+    },
+    {
+        "profile_name": "mxbai_large_embedding_chunk_size_256_hybrid_search_rerank",
+        "collection_name": "mxbai_large_embedding_chunk_size_256_hybrid_search_rerank",
+        "embedding_model": hf_mxbai_large_embedding,
+        "chunk_size": 256,
+        "chunk_overlap": 25,
+        "top_k": 12,
+        "llm": hf_llama_8b_llm,
+        "hybrid_search": True,
+        "reranker": bge_rerank_large,
+        "reranker_top_n": 6,
+    },
 ]
 
 # local test
