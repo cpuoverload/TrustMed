@@ -85,6 +85,18 @@ SERVER_EVALUATION_PROFILES: list[ProfileType] = [
         "reranker_top_n": 6,
     },
     {
+        "profile_name": "hybrid_search_rerank_top_4",
+        "collection_name": "hybrid_search_rerank_top_4",
+        "embedding_model": hf_bge_large_embedding,
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "top_k": 6,
+        "llm": hf_llama_8b_llm,
+        "hybrid_search": True,
+        "reranker": bge_rerank_large,
+        "reranker_top_n": 4,
+    },
+    {
         "profile_name": "query_rewrite_rerank",
         "collection_name": "query_rewrite_rerank",
         "embedding_model": hf_bge_large_embedding,
