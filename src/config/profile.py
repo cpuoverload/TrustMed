@@ -24,8 +24,8 @@ APP_PROFILE: ProfileType = {
 # server evaluation
 SERVER_EVALUATION_PROFILES: list[ProfileType] = [
     {
-        "profile_name": "baseline",
-        "collection_name": "baseline",
+        "profile_name": "chunk_size_1024",
+        "collection_name": "chunk_size_1024",
         "embedding_model": hf_bge_large_embedding,
         "chunk_size": 1024,
         "chunk_overlap": 100,
@@ -119,6 +119,18 @@ SERVER_EVALUATION_PROFILES: list[ProfileType] = [
         "hybrid_search": True,
         "reranker": bge_rerank_large,
         "reranker_top_n": 6,
+    },
+    {
+        "profile_name": "chunk_size_1024_hybrid_search_rerank",
+        "collection_name": "chunk_size_1024_hybrid_search_rerank",
+        "embedding_model": hf_bge_large_embedding,
+        "chunk_size": 1024,
+        "chunk_overlap": 100,
+        "top_k": 3,
+        "llm": hf_llama_8b_llm,
+        "hybrid_search": True,
+        "reranker": bge_rerank_large,
+        "reranker_top_n": 3,
     },
 ]
 
