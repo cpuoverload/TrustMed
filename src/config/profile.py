@@ -73,8 +73,8 @@ SERVER_EVALUATION_PROFILES: list[ProfileType] = [
         "query_rewrite_num": 3,
     },
     {
-        "profile_name": "optimized",
-        "collection_name": "optimized",
+        "profile_name": "query_rewrite_rerank",
+        "collection_name": "query_rewrite_rerank",
         "embedding_model": hf_bge_large_embedding,
         "chunk_size": 512,
         "chunk_overlap": 50,
