@@ -96,7 +96,7 @@ def _create_retriever(
         num_queries=1 + query_rewrite_num,  # set this to 1 to disable query generation
         llm=qwen_llm(),
         mode="reciprocal_rerank",
-        verbose=True,  # print generated queries
+        # verbose=True,  # print generated queries
         # query_gen_prompt="...",  # we could override the query generation prompt here
     )
 
