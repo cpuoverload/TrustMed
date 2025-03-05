@@ -134,8 +134,8 @@ SERVER_EVALUATION_PROFILES: list[ProfileType] = [
         "reranker_top_n": 3,
     },
     {
-        "profile_name": "mxbai_large_embedding",
-        "collection_name": "mxbai_large_embedding",
+        "profile_name": "mxbai_large_embedding_hybrid_search_rerank",
+        "collection_name": "mxbai_large_embedding_hybrid_search_rerank",
         "embedding_model": hf_mxbai_large_embedding,
         "chunk_size": 512,
         "chunk_overlap": 50,
