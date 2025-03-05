@@ -2,9 +2,10 @@ import pandas as pd
 import ast
 import os
 from tqdm import tqdm
-from config import EVALUATION_DATA_DIR, LOCAL_EVALUATION_PROFILES
+from config import EVALUATION_DATA_DIR
 from rag.rag_engine import create_rag_engine
 from rag.types import ProfileType
+from utils.get_profile import get_profile
 
 
 def create_evaluation_dataset(
@@ -42,7 +43,7 @@ def create_evaluation_dataset(
 
 
 if __name__ == "__main__":
-    profile = LOCAL_EVALUATION_PROFILES[1]
+    profile = get_profile()
     articles_dir = os.path.join(EVALUATION_DATA_DIR, "articles")
     testset_path = os.path.join(EVALUATION_DATA_DIR, "testset.csv")
     saved_path = os.path.join(

@@ -12,8 +12,9 @@ from ragas.metrics.base import Metric
 from ragas import EvaluationDataset, evaluate
 from ragas.llms import LlamaIndexLLMWrapper
 from ragas.embeddings import LlamaIndexEmbeddingsWrapper
-from config import EVALUATION_DATA_DIR, LOCAL_EVALUATION_PROFILES
+from config import EVALUATION_DATA_DIR
 from utils.model_provider import qwen_llm, qwen_embedding
+from utils.get_profile import get_profile
 
 
 def evaluate_rag(
@@ -63,7 +64,7 @@ def evaluate_rag(
 
 
 if __name__ == "__main__":
-    profile = LOCAL_EVALUATION_PROFILES[2]
+    profile = get_profile()
     dataset_path = os.path.join(
         EVALUATION_DATA_DIR, profile["profile_name"], "evaluation_dataset.csv"
     )
