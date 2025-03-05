@@ -62,6 +62,17 @@ SERVER_EVALUATION_PROFILES: list[ProfileType] = [
         "hybrid_search": True,
     },
     {
+        "profile_name": "query_rewrite",
+        "collection_name": "query_rewrite",
+        "embedding_model": hf_bge_large_embedding,
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "top_k": 6,
+        "llm": hf_llama_8b_llm,
+        "hybrid_search": True,
+        "query_rewrite_num": 3,
+    },
+    {
         "profile_name": "optimized",
         "collection_name": "optimized",
         "embedding_model": hf_bge_large_embedding,
