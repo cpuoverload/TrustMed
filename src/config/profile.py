@@ -137,13 +137,13 @@ SERVER_EVALUATION_PROFILES: list[ProfileType] = [
         "profile_name": "mxbai_large_embedding",
         "collection_name": "mxbai_large_embedding",
         "embedding_model": hf_mxbai_large_embedding,
-        "chunk_size": 1024,
-        "chunk_overlap": 100,
-        "top_k": 3,
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "top_k": 6,
         "llm": hf_llama_8b_llm,
         "hybrid_search": True,
         "reranker": bge_rerank_large,
-        "reranker_top_n": 3,
+        "reranker_top_n": 6,
     },
 ]
 
