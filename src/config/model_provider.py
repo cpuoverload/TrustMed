@@ -50,7 +50,8 @@ def hf_llama_1b_llm():
 def hf_llama_8b_llm():
     _load_api_key("HF_TOKEN")
 
-    # HuggingFaceLLM 默认不会改动原始 prompt，所以不符合 llama 所需格式，导致输出中有重复、胡言乱语
+    # HuggingFaceLLM 如果没传 is_chat_model 参数，默认会调用内部 complete 函数，使用 completion_to_prompt 格式化输入，无默认值
+    # 若不传递，会导致输出中有重复、胡言乱语，因为无法正确解析输入格式
     def completion_to_prompt(completion):
         return (
             f"<|start_header_id|>user<|end_header_id|>\n{completion}<|eot_id|>\n"
