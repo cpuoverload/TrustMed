@@ -52,11 +52,11 @@ def hf_llama_8b_llm():
 
     # HuggingFaceLLM 如果没传 is_chat_model 参数，默认会调用内部 complete 函数，使用 completion_to_prompt 格式化输入，无默认值
     # 若不传递，会导致输出中有重复、胡言乱语，因为无法正确解析输入格式
-    def completion_to_prompt(completion):
-        return (
-            f"<|start_header_id|>user<|end_header_id|>\n{completion}<|eot_id|>\n"
-            f"<|start_header_id|>assistant<|end_header_id|>\n"
-        )
+    # def completion_to_prompt(completion):
+    #     return (
+    #         f"<|start_header_id|>user<|end_header_id|>\n{completion}<|eot_id|>\n"
+    #         f"<|start_header_id|>assistant<|end_header_id|>\n"
+    #     )
 
     return HuggingFaceLLM(
         model_name="meta-llama/Llama-3.1-8B-Instruct",
@@ -66,7 +66,8 @@ def hf_llama_8b_llm():
         model_kwargs={"torch_dtype": "float16"},
         generate_kwargs={"temperature": 0.7, "top_k": 50, "top_p": 0.95},
         device_map="auto",
-        completion_to_prompt=completion_to_prompt,
+        # completion_to_prompt=completion_to_prompt,
+        is_chat_model=True,  # 速度明显比 completion_to_prompt 快
     )
 
 
