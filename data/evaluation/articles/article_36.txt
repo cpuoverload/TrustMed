@@ -1,0 +1,40 @@
+split - liver   transplantation ( slt ) is an   attractive alternative procedure to expand the donor pool in patients waiting for liver transplantation .
+the standard split - liver procedure for a child and an adult ( adult / pediatric split liver ttransplantation , a / p slt ) , by splitting segment ii - iii for pediatric recipient and segment i - iv - v - vi - vii - viii for an adult , is an accepted surgical option with good results both for the adult and for pediatric recipient .
+biliary complications continue to be the major cause of morbidity after slt with a reported high incidence ranging between 10% and 32% [ 1 , 2 ] . as a consequence of bile duct anatomic variations
+, slt requires a precise knowledge of the liver anatomy [ 3 , 4 ] .
+the challenge of this procedure is represented by a preoperative radiological assessment of the biliary anatomy often unavailable at the donor 's hospital .
+thus the risk of biliary duct injury during the splitting procedure is usually considered higher than during living donor procedure .   in this report
+we describe an uncommon late biliary complication that occurred after slt and was successfully treated by a multidisciplinary approach .  
+a 63-year - old male with hepatitis c - related cirrhosis was referred for liver transplantation to our institution .
+we performed a conventional a / p slt with in situ technique providing the left lateral segment for a child ( segments ii - iii ) and leaving the right lobe graft ( segment i - iv - v - vi - vii - viii ) for an adult recipient .
+the celiac trunk was left on the left graft while the right hepatic artery remained on the right graft .
+the patient was transplanted using the piggy - back technique without a veno - venous bypass .
+the biliary tract was reconstructed performing a duct - to - duct anastomosis using a t - tube by our standard technique previously described .
+a cholangiography through the t - tube was performed on postoperative day 14 , and the t - tube was clamped before patient discharge .
+three months after a / pslt the t - tube was removed after a cholangiography with normal findings .
+one year after transplant the patient showed abnormal liver function tests , hyperbilirubinemia , leukocytosis , and elevated g - glutamyl transpeptidase ( ggt ) , and mild elevation in alanine transaminase ( alt ) .  
+the patient underwent a doppler ultrasound that showed ( a patent hepatic artery )   an intrahepatic bile duct dilatation and an anastomotic biliary stricture .
+the anastomotic stricture was treated by stenting the main biliary duct during an endoscopic retrograde cholangiopancreatoghaphy ( ercp ) without any evidence of intrahepatic biliary dilatation .
+after this procedure the patient was submitted to a percutaneous transhepatic cholangiography ( ptc ) showing a complete obstruction of segments vi and vii biliary branches near the duct - to - duct biliary anastomosis ( figure 1 ) .  
+the patient was discharged leaving the external biliary drain open allowing bile drainage and an easy access for repeated radiologic treatment and an internal stent in the common bile duct .
+three months later the patient underwent a surgical revision because of repeated episodes of cholangitis . during surgery
+an intraoperative cholangiography was performed through the biliary drain   confirming a bile duct dilatation at the level of segments vi and vii .  
+it was impossible to cross the biliary stricture by a torque catheter and by hydrophilic guide wire ( figure 2 ) .
+we supposed that the segmentary bile duct branch of   posterior segments vi and vii draining in the left bile duct was unidentified and tied at the time of the in situ split - liver procedure during the parenchymal transection .
+a primary biliary reconstruction by biliary repair or biliodigestive anastomosis was considered at high risk because of the presence of postsurgical   adhesions   sand due to fibrotic tissue replacing   the parenchymal transected area . a liver resection of the dilated segments vi and vii was considered at high risk of leaving an inadequate liver mass .  
+we decided to perform a permanent intraoperative obliteration of the dilated intrahepatic ducts by a percutaneous embolization using a nonresorbable agent . with a fluoroscopic guidance through the transhepatic access we positioned a 5-french polyethylene catheter inside the ducts , preliminary flushed by a nonionic dextrose solution .
+we then injected the tissue adhesive agent n - butyl cyanoacrylate ( nbca , glubran 2 , gem , viareggio , italy ) mixed with ionized oil ( lipiodol , guebert , aulnay - sous - bois , france )   for opacization in a ratio of 1:5 .
+this solution completely filled the biliary duct , and the occlusion was totally accomplished in a few seconds ( figure 3 ) . during the first 3 days after the chemical bile duct embolization , the patient had a low fever with a slightly abnormal liver function test .
+a computed tomography ( ct ) scan performed 6 months later showed no sign of hepatic abscesses , and the bile duct dilatation was completely occupied by the nbca - lipiodol mixture .
+one year after the procedure patient showed normal liver function tests without no episodes of cholangitis .
+chemical bile duct embolization treatment could represent a valuable   solution to treat uncommon biliary complications .
+these tissue adhesive glues are low - viscosity liquid monomers that undergo rapid polymerization and solidification when they come into contact with organic fluids such as bile .
+nbca is a permanent liquid embolic material that produces long - term occlusion in vessels of various size through an inflammatory tissue response resulting in vessel thrombosis or tissue   atrophy .
+little is known about the use of cyanoacrylate compounds , and unlike european countries   the use of glubran has not been approved by the food and drug administration yet .  
+other authors have described the efficacy of biliary duct ablation by nbca in patients with persistent postsurgical bile leaks after lobectomy or cholecystectomy .
+vu et al . treated six patients with persistent postsurgical bile leaks as a complication after hepatic lobectomy or cholecistectomy using nbca glue for the obliteration of isolated segmental bile ducts in four cases .
+endoscopic treatment of biliary leakage by nbca has been described by seewald in nine patients in whom primary stent placement or nasobiliary drain was unsuccessful .
+described the use of a cyanoacrlylate in the treatment of a pancreatic fistula after distal pancreatectomy .
+the percutaneous interventional technique represents an effective valuable approach to reduce mortality and morbidity in the treatment of biliary complications after liver transplantation .
+the use of nbca in obliteration of a dilated bile duct seems to be a safe procedure with good results providing a less invasive option than hepatic resection above all in high - risk patients with posttransplant bile duct injuries , decreasing the morbidity associated with chronic external biliary drainage .
+futher studies are needed to determine whether this approach is effective and safe and whether it could reduce hospital stay and costs .

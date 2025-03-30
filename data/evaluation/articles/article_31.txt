@@ -1,0 +1,43 @@
+the majority of women with menorrhagia , postcoital bleeding , intermenstrual bleeding , or postmenopausal bleeding ultimately undergo diagnostic hysteroscopy with endometrial sampling as part of their assessment , particularly if symptoms persist or pelvic imaging suggests a uterine abnormality .
+dilatation and curettage ( d&c ) has been widely considered to be the method of choice for obtaining endometrial samples for histopathological evaluation
+. however , the needs for admission and general anesthesia and their associated costs have made this option less favorable . in the outpatient setting , endometrial sampling is an effective and acceptable method for obtaining endometrial samples for histopathological assessment [ 3 , 4 ] .
+inadequate sampling is more problematic in postmenopausal women , for whom up to 68% of endometrial samples are reported to be inadequate . in our institution , the only sampling tool available to perform the outpatient sampling procedure is the uterine explora model i - mx120 ( http://www.coopersurgical.com/ ) ( figure 1 ) .
+in addition , the device is sterile and disposable ( one - time use ) .
+the advantages of using explora rather than d&c as a sampling device include a reduction in hospitalization costs , extra convenience for the patient and physician , and the minimal complications of the procedure .
+the purpose of this study is to compare the effectiveness of the explora model i tool with the conventional d&c technique for obtaining adequate endometrial samples that are capable of providing specific and informative histopathologic diagnoses .
+after obtaining the approval of our institutional review board , all endometrial samples received at the histopathology department in king khalid university hospital ( kkuh , riyadh , ksa ) between january 2007 and december 2010 were included in this study . a total of 1270 endometrial samples were included ( table 1 ) .
+two hundred seventy - four samples ( 21.6% ) were obtained by conventional d&c in the surgical theater , while the remaining 996 samples ( 78.4% ) were obtained by senior obstetrics and gynecology residents who used a standardized biopsy technique in the outpatient procedure rooms . during the usage of the explora model
+i , the syringe provided with the instrument was used to create a negative pressure , and the explora was rotated as it was withdrawn . after withdrawal , the tip was cut off , and the tissue was placed in 10% buffered formalin saline fixative and was sent for pathological examination .
+the pathologists who interpreted the endometrial samples were blinded to the instrument or method used to obtain the samples .
+an inadequate sample was defined as consisting of only blood , cervical mucus , endocervical epithelium , or blood with fragments of endometrial glands or stroma insufficient for histopathological assessment and diagnosis .
+the age , gravidity , parity , menstrual history , uterine size , hysteroscopy findings ( when available ) , and the presence or absence of any cervical abnormality were recorded on the request forms , which were reviewed by the investigators . for each of the two methods used ( explora model i and d&c ) , the numbers and percentages of inadequate samples and age group clustering were calculated and statistically analyzed .
+of the 1270 endometrial samples obtained , 253 samples ( 19.9% ) were scored as inadequate . of these samples ,
+the explora sampler was used to collect 224 samples ( 88.5% ) , whereas 29 samples ( 11.5% ) were obtained by d&c ( figure 2 ) .
+thus , the insufficient tissue percentage was higher with the explora ( 17.6% ) than with d&c ( 2.2% ) , which was a statistically significant difference ( p < 0.0001 )
+. age group clustering ( i.e. , numbers of premenopausal and postmenopausal women ) of inadequate sample results was also calculated ( figure 3 ) . of the 253 inadequate samples ,
+82.6% were from women 45 years of age and older ( i.e. , postmenopausal ) compared to 17.4% in premenopausal women ; the age difference was significant ( p < 0.0001 ) .
+the detection rates of endometrial hyperplasia and carcinoma using both methods were assessed and calculated .
+of the 73 samples with a diagnosis of endometrial hyperplasia , 50 ( 68.5% ) were diagnosed by d&c , and 23 ( 31.5% ) were diagnosed using the explora sampler .
+however , of the 18 samples with a diagnosis of endometrial cancer , the rates of detection were similar between the two methods .
+endometrial sampling for the evaluation of dysfunctional uterine bleeding and the diagnosis of endometrial hyperplasia and carcinoma and other indications remains one of the most commonly performed gynecological procedures [ 14 ] . in recent years
+, less hazardous and more inexpensive and convenient outpatient sampling methods have replaced the traditional , in - hospital , endometrial curettage .
+the advantages of outpatient endometrial biopsy include reduced cost and less risk for the patient , as no anesthesia is required .
+furthermore , the discomfort and pain produced by sampling have been reported to be minimal .
+however , it is essential to ensure that outpatient endometrial sampling is quantitatively adequate and comparably accurate to conventional dilatation and curettage .
+a sample is judged as adequate if a specific diagnosis can be given from the histological examination of the endometrial fragments obtained .
+adequacy can be measured by comparison of either outpatient biopsy with curettage histological evaluation or outpatient biopsy with the results of pathological examination of hysterectomy specimens [ 3 , 4 ] .
+many techniques for obtaining an endometrial sample without the need for curettage have been described in the literature .
+chicago , il , usa ) and the novak biopsy curette with a 10  ml syringe functioning as an aspiratory device , which have been shown to be equally effective compared to d&c in detecting an endometrial pathology [ 69 ] .
+however , the vabra aspirator and novak biopsy curette , although widely available and relatively inexpensive , have several disadvantages , including the need for an electric vacuum pump to perform the aspiration in the former technique and the pain caused by both methods . as a result of these drawbacks , smaller inexpensive and
+self - contained instruments have been developed and the prototype of this class of endometrial samplers is the pipelle . the pipelle has been shown to have a diagnostic accuracy comparable to that of vabra aspiration and the novak curettage while causing less pain [ 911 ] .
+all of these instruments ( i.e. , the vabra aspirator , the novak biopsy curette , and the pipelle ) have low rates of false - negative and insufficient tissue results for the detection of endometrial abnormalities , as determined by comparison to hysterectomy specimens [ 1113 ] .
+it was found that pipelle biopsy had a sensitivity of 99.2% in pinpointing high grade cancer and a sensitivity of 93% in detecting low grade malignancies ; the sensitivities defined for d&c were 100% and 97% , respectively . while 
+excellent agreement  was generally noted between preoperative histology and grade and the final pathology , pre - operative endometrial sampling more commonly provided underestimates of final grade ( low grade versus high grade ) than overestimates .
+the explora is somewhat similar in its design to the pipelle , but clinical studies on its effectiveness are scarce , with the effectiveness ranging between 14.6 and 15% according to various studies [ 6 , 15 ] .
+our own findings revealed that the rate of obtaining inadequate samples using the explora was much higher ( 17.6% ) than the rates reported in the literature .
+however , most of these cases ( 82.6% ) were obtained from postmenopausal women with atrophic endometrial status .
+this finding is in keeping with the rates reported by other investigators [ 58 , 16 ] .
+this retrospective study suggests that traditional d&c produces better endometrial sample adequacy than the explora technique .
+this finding indicates that clinicians performing endometrial sampling would benefit from more experience and training using the explora technique .
+additional studies comparing the adequacy of samples obtained with different endometrial sampling techniques and devices are warranted .
+furthermore , we recommend using the d&c procedure when the explora - obtained samples are inconclusive or when the use of the explora sampler is accompanied by ultrasound findings that are suspicious of endometrial hyperplasia or carcinoma .

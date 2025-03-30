@@ -1,0 +1,32 @@
+context_precision Statistics:
+------------------------------
+Average: 0.7630
+Q1 (25th percentile): 0.7075
+Q2 (Median): 0.9500 
+Q3 (75th percentile): 1.0000
+Standard Deviation: 0.3483
+
+context_recall Statistics:
+------------------------------
+Average: 0.8865
+Q1 (25th percentile): 1.0000
+Q2 (Median): 1.0000 
+Q3 (75th percentile): 1.0000
+Standard Deviation: 0.2494
+
+faithfulness Statistics:
+------------------------------
+Average: 0.8609
+Q1 (25th percentile): 0.7756
+Q2 (Median): 0.9722 
+Q3 (75th percentile): 1.0000
+Standard Deviation: 0.2112
+
+answer_relevancy Statistics:
+------------------------------
+Average: 0.8681
+Q1 (25th percentile): 0.8595
+Q2 (Median): 0.9439 
+Q3 (75th percentile): 0.9688
+Standard Deviation: 0.2189
+

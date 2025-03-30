@@ -1,0 +1,92 @@
+thyroid cancer is the most common endocrine neoplasia which accounts for about 1% of human cancers .
+mtc originates from calcitonin - producing cells ( c - cells ) of the thyroid gland and accounts for 35% of thyroid cancers .
+mtc is relatively slow - growing tumor but , if metastasized or relapsed , it becomes very aggressive causing more than 13% of all thyroid cancer - related mortality . in the united states ,
+mtc has an incidence in children of 0.03 per 100 000 population per year with a fairly equal female to male ratio [ 4 , 5 ] .
+mtc occurs either sporadically or in an inherited autosomal dominant manner . in adults , sporadic mtc accounts for 6575% of mtc , but in children ,
+sporadic mtc is very rare ; the vast majority of mtc diagnosed in the childhood is hereditary .
+hereditary mtc occurs as a familial mtc ( fmtc ) or as a part of multiple endocrine neoplasia ( men ) type 2a and b syndromes , wherein other endocrine glands are also affected .
+mtc diagnosed during childhood almost always results from a dominantly inherited or de novo activating mutations in the ret proto - oncogene , which encodes the ret receptor tyrosine kinase [ 69 ] .
+advances in predictive genetic testing for ret mutations have enabled early diagnosis of hereditary men syndromes and prophylactic thyroidectomy in presymptomatic patients to prevent mtc .
+the early onset of mtc in hereditary syndromes makes it an important endocrine disease that is increasingly managed by pediatric providers [ 1012 ] . in this review
+, we discuss the etiology of pediatric mtc and currently available therapeutic modality for the cancer .
+ret encodes a receptor tyrosine - kinase which is expressed in the neural crest - derived cell types , including thyroid parafollicular cells , neuronal cells , and adrenal medullary chromaffin cells . in these cell types
+, ret plays a central role in regulating cell proliferation , growth , differentiation , migration and survival . in humans
+after alternative splicing at the 3 end , ret transcripts encode three protein isoforms with distinct c - terminal ends that contain either 9 ( ret9 ) , 51 ( ret51 ) , or 43 ( ret43 ) amino acids .
+ret exon 19 is present in all transcripts and its differential splicing at the 3 end produces distinct transcripts wherein exon 19 is either unspliced , spliced to exon 20 , or spliced to exon 21 .
+all three resulting ret isoforms commonly contain a tyrosine ( tyr1062 ) whose phosphorylation is critical for their activation .
+the major ret isoforms in vivo are ret9 and ret51 , which consist of 1072 and 1114 amino acids , respectively , and are usually co - expressed .
+ret consists of an extracellular ligand binding domain , a trans - membrane domain , and an intracellular kinase domain ( figure 1 ) .
+the extracellular domain includes four cadherin - like repeats and a highly conserved cysteine - rich region , which is located near the cell membrane .
+the intracellular domain consists of two tyrosine - kinase subdomains , tk1 and tk2 , which contain multiple tyrosine residues that are phosphorylated during receptor activation and are required for the activation of different downstream signaling pathways of ret [ 19 , 20 ] .
+the ligands for ret are the glial cell line - derived neurotrophic factor ( gdnf ) family proteins , including gdnf , neurturin , artemin , and perseptin .
+activation of ret also requires the formation of a heterodimeric complex recruiting a gdnf - family receptor alpha ( gfr ) . when unbound by a ligand , ret is monomeric , unphosphorylated , and inactive .
+when a ligand and the gfr co - receptor bind to the extracellular domain of ret , ret undergoes dimerization and autophosphorylation of the tyrosine residues in their kinase domains .
+this generates the docking sites for their downstream effectors that contain the src homology 2 domain .
+for example , gdnf - mediated stimulation of ret results in activation of the pathways regulated by phosphatidylinositol 3-kinase ( pi3k ) and different mitogen - activated protein kinases ( mapks ) , including the extracellular regulated kinases ( erks ) , c - jun amino - terminal protein kinases ( jnks ) , the p38 mapk and the big map kinase ( bmk1 ) erk5 [ 22 , 23 ] .
+ret is one of the first receptor tyrosine - kinases ( rtks ) that have been found to play a role in neoplasia , being most well - known as a key etiological factor for thyroid cancer [ 6 , 24 ] . activating mutations of ret
+abnormally enhance ret activity and can trigger tumorigenesis in certain organs although the exact underlying mechanisms are as of yet unclear .
+first , mutations of the six cysteine residues ( cys609 , 611 , 618 , 620 , 630 , and 634 ) in the extracellular domains can promote ret dimerization via disulfide bonds and result in constitutive ligand - independent activation of ret .
+second , mutations affecting the tyrosine kinase domains can also confer ligand - independent catalytic activity to monomeric ret .
+these ret mutants exhibit different patterns of autophosphorylation and altered substrate specificity [ 2628 ] . indeed ,
+activation of different downstream signaling pathways is associated with different clinical features of ret mutant thyroid cancers , as observed in men2 syndromes discussed below .
+for example , the hirschprung disease , a congenital disorder of neural crest development is caused by a loss - of - function ret mutation .
+of note , the hirschprung disease is closely associated with men2a , demanding a genetic screening for men2a for children with familial hirschsprung 's disease .
+a strict correlation exists between specific ret mutations and the onset of hereditary mtc ( table 1 ) [ 31 , 32 ] .
+the detailed and up - to - date information of ret sequence variations can be obtained from the men2 ret database ( www.arup.utah.edu/database/men2/men2_welcome.php ) , which also contains links to selected men2 literature reviews , gene and protein information , and ret reference sequences .
+the men2a subtype , accounting for 9095% of the men type 2 cases , is a highly penetrant , autosomal dominant endocrine tumor syndrome characterized by the development of mtc in > 90% of ret mutation carriers . in association with mtc
+in addition , rare variants of men2a are also associated with cutaneous lichen amyloidosis and hirschsprung disease [ 35 , 36 ] .
+patients with men2a usually have mutations in the extracellular cysteine - rich region of the ret tyrosine kinase receptor , usually in exon 10 ( codons 609 , 611 , 618 or 620 ) or exon 11 ( codon 634 ) ( table 1 , figure 1 ) [ 31 , 37 ] .
+more than 80% of men2a patients exhibit a specific substitution , i.e. , cys634arg , on exon 11 .
+mtc is generally the first manifestation of men2a syndrome and develops during early childhood , usually before age six and sometimes before age two . the men2b subtype accounts for approximately 510% of the men type 2 cases .
+men2b patients typically feature early coincident onsets of mtc , pheochromocytoma , and gastrointestinal mucosal ganglioneuromas .
+visible physical symptoms include mucosal neuromas of lips ( bumpy lips ) and tongue , and asthenic marfanoid body habitus [ 36 , 40 ] .
+men2b patients usually have mutations in the tyrosine kinase domain 2 ( tk2 ) in the intracellular region of ret , which almost always ( > 95% ) lead to a single substitution , i.e. , met918thr , in exon 16 ( figure 1 ) [ 31 , 37 ] . de novo mutations , which usually occur on the paternal allele , are also common in men2b .
+men2b is characterized by the early development of an aggressive form of mtc in all affected individuals , typically during the first year of life .
+thus , apart from the genetic testing of ret mutations in children born to a parent with men2b , early diagnosis of men2b remains challenging .
+individuals with men2b are likely to develop metastatic mtc at an early age if they do not undergo prophylactic thyroidectomy before age one . without this intervention ,
+fmtc is considered as the least aggressive clinical variant of men2a with decreased penetrance and/or delayed onset of the other endocrine pathologic manifestations [ 39 , 43 ] . similarly to sporadic cases , familial mtcs are isolated and are not associated with other endocrine tumors .
+patients with fmtc harbor mutations similar to men2a in either the extracellular or intracellular region of the ret tyrosine kinase receptor [ 6 , 44 ] .
+the onset of fmtc is relatively late , not appearing until the second or the third decade of life , and its penetrance is lower than the mtc caused by men2a and men2b [ 31 , 39 , 45 , 46 ] .
+therefore , it is often difficult to determine fmtc based upon a family history and only careful genetic screening can distinguish between inherited and sporadic forms of mtc .
+mtc cells secrete the polypeptide hormone , calcitonin , and the glycoprotein carcinoembryonic antigen ( cea ) , and these are used as diagnostic biomarkers for mtc .
+mtc is most commonly diagnosed by immunohistochemical staining of fine - needle aspiration of a new thyroid nodule for calcitonin , chromogranin a , or cea .
+serum calcitonin is the primary biochemical marker used for detection , staging , postoperative management , and prognosis for mtc patients .
+however , in very rare cases , certain mtc cells do not secrete calcitonin , which makes diagnosis and patient follow - up difficult .
+symptoms of mtc include neck pain , a palpable neck mass , and/or diarrhea resulting from hypercalcitoninemia .
+the clinical course of mtc in men2 patients is variable and is determined by the codon specific mutations . in hereditary form , an age - related progression of malignant disease is observed , with lymph - node and distant metastases being typically detected years after the onset of tumorigenesis .
+metastatic spread to cervical and regional lymph nodes ( i.e. , parathyroid , paratracheal , jugular chain , and upper mediastinum ) or to distant sites including the liver , lungs , or bone is common and is frequently present in individuals with a palpable thyroid mass or diarrhea .
+positive lymph - node status and higher stage at diagnosis predict lower disease - free survival and higher mortality [ 5 , 5456 ] .
+men2 is one of few hereditary cancer syndromes for which predictive genetic testing is recommended at childhood .
+genetic testing for hereditary mtc syndromes has had an enormous impact on reducing the incidence of mtc in the families affected by these hereditary syndromes [ 57 , 58 ] .
+genetic counseling is indicated for all children diagnosed with mtc and others who either carry or are at risk of inheriting a ret mutation .
+children of patients with men2b should undergo ret analysis at birth , and children of patients with men2a or fmtc should undergo ret analysis before age six [ 59 , 60 ] .
+even 610% of apparently sporadic cases of mtc demonstrate de novo germ - line ret mutations , thus making genetic testing worthwhile in all patients with mtc .
+thus , all children with an affected parent in this setting retain a 50% risk of mtc , and surgical decisions must rely solely on clinical testing .
+the standard treatment for mtc is surgical removal of all thyroid tissue including the posterior capsule [ 39 , 62 ] .
+early thyroidectomy in all men2 patients can change the course of disease , either in a preventive or a curative fashion .
+the american thyroid association guidelines task force has classified mutations based upon a model that uses the genotypephenotype correlations to rank the mutations into risk levels for the development of aggressive mtc from the lowest  a  to the highest  d  ( table 1 ) .
+this classification may be used to predict phenotype , to recommend the timing of prophylactic thyroidectomy and the extent of surgical intervention , and to begin biochemical screening for pheochromocytoma and hyperparathyroidism .
+the ages at which the prophylactic thyroidectomy is recommended for the children tested positive for the ret gene mutation are as follows : ages 01 for ret mutations that carry the highest risk for aggressive metastatic mtc at young ages , i.e. , classified as  ata - d  ; before age 5 for ret mutations that carry a lower , yet still high risk of aggressive mtc at any age , i.e. , classified as  ata - c  ; after age 5 for ret mutations that carry a lower risk of aggressive mtc , i.e. , classified as  ata - b  or  ata - a ,  so long as the affected children have no other clinical signs of mtc development .
+there is ongoing debate on what age the thyroidectomy should be recommended for fmtc patients .
+some clinical institutes suggest the prophylactic surgery at age 1015 , depending upon the exact mutation and family history , while recommending yearly test of calcitonin levels prior to deciding the surgery .
+indeed , the ata management guideline for mtc has been very recently revised . in the setting of a prophylactic thyroidectomy ,
+the lymph - nodes are not routinely removed since metastases are not expected to occur at this stage . in the case of clinically apparent mtc , whether sporadic or hereditary , thyroidectomy and concomitant central and compartment - oriented lateral neck dissection should be performed to increase clinical outcomes .
+primary hyperthyroidism is rare during childhood ; therefore , parathyroidectomy is usually avoided , particularly during a prophylactic procedure .
+dissection and autotransplantation of parathyroid tissue is not typically performed at the time of thyroidectomy unless there is enough biochemical evidence for hyperparathyroidism .
+thyroidectomy in children is usually associated with a higher rate of complications , such as recurrent laryngeal nerve injury and hypoparathyroidism , as compared to the surgery in adults .
+therefore , pediatric thyroidectomy must be performed by highly experienced thyroid surgeons . for individuals with a ret mutation who have not had a thyroidectomy , annual biochemical screening of calcitonin levels is recommended and , if the results are abnormal , immediate thyroidectomy is required .
+annual serum calcitonin screening should begin at age six months for children with men2b and at age 35 for children with men2a or fmtc .
+biochemical evidence of disease recurrence includes elevation of calcitonin and cea levels . all individuals who have undergone thyroidectomy
+need thyroid hormone replacement therapy along with annual screening for pheochromocytoma and hyperparathyroidism depending upon the ret mutation present in the patients .
+mtc does not respond well to radiation therapy or the standard cytotoxic chemotherapeutic agents , including doxorubicin , dacarbazine , capacitabine , and 5-fluorouracil [ 43 , 71 ] . of note ,
+the mechanism - based targeted therapies that inhibit ret and other receptor tyrosine kinases have become available for the treatment of surgically inoperable progressive mtc .
+these include the multi - kinase inhibitors , vandetanib ( zd6474 , caprelsa ) and cabozantinib ( xl-184 , cometriq ) , which have been recently approved by the us food and drug administration [ 72 , 73 ] . a recent phase i / ii trial of vandetanib in children with mtc reported partial responses in 47% patients .
+in general , the drug efficiency and the primary side effects , i.e. , diarrhea , rash , headache , hypertension , and nausea , were similar between children and adults .
+phase iii trial of cabozantinib demonstrated a 28% response rate in adults with significant adverse effects .
+therefore , there is a critical need for more effective therapies for patients with advanced mtc .
+characterization of additional molecular pathways responsible for mtc development may allow the discovery of therapeutic targets that can be exploited to induce reduction of tumor size , disease stabilization , and symptomatic improvement [ 7782 ] .
+mtc and the men type 2 syndromes are rare but significant endocrine diseases that are increasingly encountered by pediatricians .
+our understanding of mtc has been greatly increased by the discovery of ret and the genotype 
+genetic tests according to the established guidelines should be performed whenever diagnosis of mtc is made .
+due to limited adjuvant treatment options , adequate surgical treatment is critical for initial control of the disease and prophylactic thyroidectomy is recommended for children with men2a and men2b at an early age , sometimes during infancy .
+emerging newer treatments are expected to better treat this rare but life - threatening malignancy .

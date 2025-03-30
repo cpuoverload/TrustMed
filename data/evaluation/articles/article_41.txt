@@ -1,0 +1,59 @@
+the endotracheal tube ( ett ) should be placed at the optimal level to avoid inadvertent complication .
+if the ett is too deep , it increases the risk of unintended single lung ventilation .
+on the other hand , if the ett is too shallow , it may cause vocal cord injury by the ett balloon or accidental extubation .
+there are many methods for determining the appropriate depth of ett in adults ; fixed insertion depth according to sex ( 23 and 21  cm from the upper incisors in adult males and females , respectively ) , the use of depth marks on the ett , suprasternal palpation of the ett tip or cuff , and bilateral auscultation .
+although chest radiography and bronchoscopy are considered an accurate method , they are not always feasible and the costs are considerable . considering the individual variation in the length of the trachea , using fixed depths or marks on the ett may result in inadequate placement of the ett . to reduce the risk of single lung ventilation or vocal cord injury , the segment between the proximal edge of the cuff and the ett tip should be placed at the mid - trachea level . if the length of the trachea can be predicted at bedside before intubation , the ett can be placed at a safe depth for each patient .
+the purpose of this study was to determine whether surface anatomical landmarks can be used to predict the mid - tracheal level in adult patients .
+neck computed tomography ( ct ) images of adults obtained between 2009 and 2014 were reviewed by a single reviewer after obtaining approval form seoul national university hospital institutional review board ( july 17 , 2015/no .
+patients with laryngeal , tracheal , or thoracic abnormalities , tracheostomy or significant tracheal deviation caused by mass lesions were excluded .
+in addition , poor ct image quality , absent sagittal ct images , ct images that did not cover the entire trachea , or ct images taken in neck hyperextension ( boidin angle > 130 on scout view ) or hyperflexion ( boidin angle < 110 on scout view ) position were also excluded .
+levels of subglottic and tracheal airway segments that include the vocal cords ( vc ) , the cricoid cartilage ( cc ) , and the carina were identified using the method described by sirisopana et al .
+the vocal cords were identified as the most cranial level of the upper airway , with a teardrop shape below the laryngeal ventricle . anatomic level of suprasternal notch ( ssn )
+the level of manubriosternal junction ( msj ) was defined as the middle level between the manubrium and the body of the sternum where the second rib attaches to the sternum .
+the level of carina was defined as the bifurcation of right and left main bronchus and identified by the figure 8 shaped lumen .
+the external locations of the cc , ssn , and msj were defined on the skin surface .
+the distances between the external points of the cc and the ssn ( extcc - ssn ) , and those of the ssn and the msj ( extssn - msj ) were measured .
+the distances between the subglottic structures at the levels of the vc , the cc , ssn , and carina were measured .
+tracheal length was calculated as the summation of the distances measured from the vc to the carina .
+the mid - trachea level was calculated from tracheal length and the ideal position of ett is shown in fig .
+2 . identification of subglottic segments on axial view ( right ) , and defining the distances between subglottic segments on sagittal view ( left ) in a 45-year - old male patient .
+cc  =  cricoid cartilage , extcc - ssn  =  the surface distances from the cricoid cartilage to the suprasternal notch , extssn - msj  =  the surface distances from the suprasternal notch to the manubriosternal junction , msj  =  manubriosternal juction , ssn  =  suprasternal notch , vc  =  vocal cord , tracheal length  =  a  +  b  +  c  +  d. the ideal position of endotracheal tube ( ett ) to minimize the risk of endobronchial intubation and vocal cord injury .
+the mid - point between the proximal edge of the cuff and the ett tip was matched to the level of the middle of the trachea ( mtl ) , which was calculated from the tracheal length .
+cc  =  cricoid cartilage , ett  =  endotracheal tube , msj  =  manubriosternal juction , mtl  =  the level of the middle of the trachea , ssn  =  suprasternal notch , vc  =  vocal cord .
+the correlations between age , height , weight , and tracheal length were analyzed using linear regression .
+the relationships between surface measurements and the mid - tracheal level were analyzed with bland 
+the distance between the cc and the ssn was longer in females ( p  <  0.001 ) , whereas distances between the vc and the cc , the ssn and the carina , and the tracheal length were longer in males ( p  <  0.001 ) .
+the extcc - ssn was longer in females ( p  <  0.001 ) , whereas extssn - msj was longer in males ( p  <  0.001 ) .
+demographic data and measured distances between subglottic structures of trachea , external landmarks , and calculated tracheal length .
+the calculated tracheal length was 131.9 ( 10.3 ) mm and ranged from 106.0 to 169.8  mm .
+tracheal length showed weak correlation with height ( r  =  0.2188 ) and weaker correlation with age ( r  =  0.0004 ) and weight ( r  =  0.0466 ) ( fig .
+the calculated mid - tracheal level was 66.0    5.1  mm from the vc .
+altman plots showing the difference between the mid - tracheal level and the surface measurements are shown in fig .
+the bias was calculated by subtracting the mid - tracheal level from the surface measurements .
+the difference between the extcc - ssn and the mid - tracheal level was 6.6 ( 12.5 ) mm , and the difference between the extssn - msj and the mid - tracheal level was 19.2 ( 6.1 ) mm .
+altman plots showing the agreement between the mid - tracheal level ( mtl ) and the surface measurements of surface anatomical landmarks .
+( left ) the bias ( subtraction of the mid - tracheal level from the surface distance from the cricoid cartilage to the suprasternal notch ) and 95% limit of agreement as the mean difference were 6.6 [ 31.1 to 17.9 ] ( mm ) .
+( right ) the bias ( subtraction of the mid - tracheal level from the surface distance from the suprasternal notch to the manubriosternal junction ) and 95% limit of agreement as the mean difference were 19.2 [ 31.1 to 7.2 ] ( mm ) .
+extcc - ssn  =  the surface distances from the cricoid cartilage to the suprasternal notch , extssn - msj  =  the surface distances from the suprasternal notch to the manubriosternal junction , mtl  =  the level of the middle of the trachea .
+altman plots of the difference between the extcc - ssn and the mid - tracheal level in female and male patients .
+the calculated mid - tracheal level was 64.5 ( 4.6 ) mm in females and 67.9 ( 5.0 ) mm in males .
+the difference between the extcc - ssn and the mid - tracheal level was 1.7 ( 11.7 ) mm in females and 12.8 ( 10.7 ) mm in males ( p  <  0.001 ) .
+altman plots of female ( left ) and male ( right ) patients showing the agreement between the mid - tracheal level ( mtl ) and the surface the surface distance from the cricoid cartilage from the suprasternal notch .
+( left ) the bias ( subtraction of the mid - tracheal level from the surface distance from the cricoid cartilage to the suprasternal notch ) and 95% limit of agreement as the mean difference were 1.7 [ 24.6 to 21.2 ] ( mm ) in females .
+( right ) the bias ( subtraction of the mid - tracheal level from the surface distance from the cricoid cartilage to the suprasternal notch ) and 95% limit of agreement as the mean difference were 12.8 [ 33.8 to 8.2 ] ( mm ) in males .
+extcc - ssn  =  the surface distances from the cricoid cartilage to the suprasternal notch , mtl  =  the level of the middle of the trachea .
+this study showed that mid - tracheal level could be estimated by the surface distance between the cc and the ssn ( extcc - ssn ) . compared with males , extcc - ssn more
+accurately predicts the mid - tracheal level in females . in clinical practice , physicians can use extcc - ssn to determine the depth of ett so that the segment between the proximal edge of the cuff and the ett tip lies at the mid - tracheal level .
+there are several studies that used the distance between the surface anatomical landmarks to estimate the airway length and the optimal insertion depth of endotracheal tube .
+lee et al showed that the distance between the upper incisor and the manubriosternal angle in the neck extension position correlates with the distance between the upper incisor and the carina in the neutral neck position .
+evron et al used the sum of the 2 distances from the mouth angle to the jaw angle and from the jaw angle to the sternal manubrium to determine the depth of ett
+. however , these methods are complicated than single measurement of extcc - ssn due to the difficulty in locating the sternal manubrium , more than 1 measurement , and the need for full neck extension .
+the physicians can easily apply our method with a simple measurement of the extcc - ssn to estimate the mid - tracheal level , and apply this depth during endotracheal intubation .
+however , according to previous studies in adults , flexion and extension of the neck from neutral position are associated with the inward and outward movements of the ett .
+conrardy et al showed that the orally intubated ett can move 1.5 ( range 0.52.0 ) cm toward the carina during flexion and 2.4 ( range 1.34.3 ) cm away from the carina during extension .
+kim et al showed that the ett can migrate 1.3 ( sd 0.6 ; range 0.52.5 ) cm toward the carina during flexion and 1.7 ( sd 0.8 ; range 0.43.1 ) cm during extension .
+therefore , the position of the neck should be considered when determining the optimal depth of the ett .
+first , this study was a retrospective analysis of ct images and the distances were measured in the neutral position .
+second , since the vc is used as a baseline of the depth of intubation in our method , it can be difficult to apply our method to patients with high cormack grades .
+lastly , the efficacy of this method is yet to be demonstrated in clinical practice . in conclusion ,
+the mid - tracheal level , which is considered the optimal depth of ett , can be predicted by the surface distance between the cc and ssn in adults , especially in females .

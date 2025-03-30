@@ -1,0 +1,132 @@
+ribonucleotide reductase ( rr ) inhibitors have been studied as radiation sensitizers for over 30  years in both the lab and the clinic .
+the first of these , hydroxyurea , has been studied in both cervical and head and neck cancers , among others .
+although initially promising , many of the clinical trials produced negative results , or those that were difficult to interpret . there has recently been a significant advance in our understanding of this pathway from a number of well - done pre - clinical studies .
+in addition , the discovery of new rr inhibitors with increased potency and improved binding characteristics has produced a significant increase in interest in this area .
+this review will synthesize the data detailing the response of rr to ionizing radiation ( ir ) and will provide a perspective on the use of rr inhibitors as radiosensitizers in the treatment of human cancers . over the years , many groups have explored the use of rr inhibitors as chemotherapeutics in their own right , or as adjuncts to dna damaging molecules , particularly in hematologic malignancies . while this area looks promising , this subject will not be reviewed here .
+ribonucleotide reductase is the rate limiting enzyme in the synthesis and repair of dna and is the only enzyme responsible for the conversion of ribonucleoside diphosphates to deoxyribonucleotide diphosphates , the fundamental building blocks of dna synthesis and repair .
+r1 ( also called rrm1 or m1 ) is the larger , regulatory subunit that is constitutively expressed throughout the cell cycle .
+it binds allosteric modulators , ribonucleoside diphosphates , and the nucleoside analogs gemcitabine and fludarabine .
+there are currently two known smaller subunits that bind r1 to form the active enzyme ; r2 ( also called rrm2 or m2 ) and a more recently discovered p53 inducible homolog of the r2 subunit , known as p53r2 .
+both contain a tyrosine free radical stabilized by a non - heme iron complex that is critical in the reduction of ribonucleotides .
+r2 is known to be cell cycle regulated , with the highest levels during s phase , however the precise roles of the r2 and p53r2 subunit in the response to ir are an area of active debate , as outlined below ( figure 1 ) .
+given the pivotal role of rr in dna synthesis and repair , many studies have investigated the effect of dna damaging agents , including ir , on rr and its subunits .
+even so , there is currently still a great deal of controversy surrounding the exact mechanism of rr response to ir .
+the first is that the small subunit r2 is up - regulated and provides dntps for dna repair in addition to its usual role in dna synthesis during s phase .
+this is supported by a number of studies , including one by kuo et al . , who characterized the response of rr in the human cervical cancer cell line , caski .
+they demonstrated an increase in r2 protein levels after treating cells with ir , which was correlated with an increase in rr activity .
+however , there was no increase in the transcription of r2 , implying that the protein increase was due to post - transcriptional regulation ( kuo and kinsella , 1998 ) .
+this finding was reinforced by studies that demonstrated dna damage dependent stabilization of the r2 protein without any change in mrna after ir exposure in mouse balb/3t3 cells ( chabes and thelander , 2000 ) ; however it was in contrast to earlier work showing transcriptional activation of the r1 and r2 promoters after exposure to ir in the same cell line ( filatov et al . , 1996 ) . even though the precise mechanism of r2 response to ir damage is unclear , work has shown that human nasopharyngeal cancer cells overexpressing r2 demonstrate a significant increase in radioresistance and fewer dna double strand breaks ( dsb ) after exposure to ir ( kuo et al . , 2003 ) , confirming the concept that r2 is important in the cellular response to ir
+the second theory involves the p53 inducible subunit , p53r2 , first reported by tanaka et al .
+they showed that p53r2 was not cell cycle regulated ( unlike r2 ) , but was significantly induced after exposure of normal fibroblasts to ir ( tanaka et al . , 2000 ) and was found to translocate to the nucleus , the proposed site of most important dntp production ( r2 did not ) . in cells that lacked wild - type ( wt ) p53 ,
+there was no induction , indicating that functional p53 was necessary for p53r2 up - regulation .
+cells transfected with p53r2 were resistant to dna damage induced cell death . in agreement with other studies , they found no increase in r2 mrna , but did not measure protein levels .
+additional studies have subsequently shown that p53r2 forms an active complex with r1 ( guitett et al . , 2001 ) and
+rr activity increased in correlation with the increase in p53r2 , however the response of r2 was variable , with decrease in some lines and a moderate increase in the others ( yamaguchi et al . , 2001 ) .
+finally , other models are possible , including one described by xue and colleagues . in their study , both subunits were found to bind p53 in human oropharyngeal carcinoma cells , and in response to ir , were released to bind r1 in the nucleus ( xue et al . , 2003 ) , highlighting a third possibility in contrast to those previously presented .
+clearly , there is still work to be done in elucidating the response of rr to ir .
+many of the differences seen in the studies discussed can likely be attributed to the use of different techniques , materials , and especially cell lines .
+what should be clear is that rr is involved in the cellular response to ir and targeting it is both rational and likely desirable in enhancing the treatment of cancers with ir .
+it is likely that both r2 and p53r2 are involved to a different degree in different cancers , with cellular phenotype likely playing a key role in determining their relative significance .
+hydroxyurea ( hu ) is a hydroxylated analog of urea and was the first rr inhibitor to be extensively studied .
+it has directed activity at the tyrosine radical moiety of r2 and was first found to be active against cancer cells in 1963 ( stearns et al . , 1963 ) .
+subsequent experiments in vitro showed that in addition to its direct inhibition of dna synthesis , it was also a sensitizer of cell killing by x - rays , particularly if given before or after ir ( sinclair , 1968 ) .
+later experiments showed that this was also the case in in vivo animal tumor models using isotransplants of spontaneous c3h / he mouse mammary carcinomas ( piver et al . , 1972 ) .
+the total dose of ir to cure 50% of tumors was reduced when hu was combined with fractionated ir , although this effect was nt seen with single fraction ir treatments . given these encouraging pre - clinical results during the 19601970s ,
+hu was subsequently examined in a number of clinical trials in a variety of human cancers .
+the majority of these trials have occurred in cervical cancer , most commonly in locally advanced disease . in particular , there were a number of prospective randomized controlled trials in the 1970s and 1980s that examined the effect of hu plus radiotherapy vs. radiotherapy alone .
+and the gynecologic oncology group ( gog ) enrolled 190 women with figo stage iiib or iva cervical carcinoma .
+hu was administered orally at 80  mg / kg starting on the first day of irradiation and every 3  days thereafter for 12  weeks .
+patients received at least 50  gy minimum tumor dose to the whole pelvis followed by a single brachytherapy treatment of 20  gy to point a. in spite of the large number of patients enrolled , only 90 were eligible for assessment of response .
+this was due to ineligibility ( wrong stage , wrong cell type , etc . ) and those that were inevaluable ( refused treatment , periaortic node irradiation , improper field , etc . ) .
+the data were impressive , with a complete response ( cr ) of 68.1% in the hu group vs. 48.8% in the placebo ( p  =  <  0.05 ) , and a median progression free survival ( pfs ) of 13.6 vs. 7.6  months ( hreshchyshyn et al . , 1979 ) . however , myelosuppression was more common in the hu group , with seven grade iii or iv myelotoxicities .
+they recruited 148 women with figo iib or iiib cervical carcinoma and again compared hu to placebo in the setting of conventional radiotherapy , with hu given every 3  days for 12  weeks .
+of the stage iib patients , 74% receiving hu had no evidence of disease at the completion of therapy compared with 43.5% of the placebo ( p  =  <  0.01 ) .
+of the stage iiib patients , the cr rates were 52.5 vs. 33% ( p  =  0.22 ; piver et al . , 1977 ) .
+again , 78% of patients in the hu group developed leucopenia vs. 11% in the placebo group indicating a significant toxicity in addition to the improved clinical effect . at the time these studies were published
+, it was felt that hu added significant benefit to the treatment of locally advanced cervical carcinoma , and hu plus radiotherapy became the standard of care for the gog .
+however , over time , much of the data in these studies has been challenged , particularly in a systematic review by symonds et al .
+they found a number of methodological problems with the studies such as small sample size , large numbers of exclusions post randomization , subgroup analyses of already small groups and questionable censoring .
+they concluded that hu  appears to add to acute toxicity and probably increases late complications  and that  there is no convincing evidence of sufficient quality to suggest a therapeutic effect of this drug 
+although the gog initially used hu as its standard of care in the treatment of locally advanced cervical cancer , it was nt long before this combination was supplanted by a new adjunct to radiation therapy . one of the most important studies prompting this paradigm shift was the gog 120 trial , first reported in 1999 ( rose et al . , 1999 ) and recently updated ( rose et al . , 2007 ) .
+gog 120 was a randomized phase iii study comparing cisplatin alone vs. cisplatin , fluorouracil , and hu vs. hu alone , in conjunction with pelvic irradiation for patients with locally advanced cervical cancer and pathologically negative para - aortic nodes .
+they reported a significant improvement in pfs and overall survival ( os ) in both cisplatin containing arms ( p  <  0.001 ) , with relative risks for progression of disease or death of 0.57 and 0.51 for cisplatin alone and cisplatin , fluorouracil and hu , respectively , when compared with hu alone . in addition , toxicities were similar in all groups .
+further , a similar study by whitney et al . compared the efficacy of standard radiotherapy ( rt ) plus hu with standard rt plus fluorouracil ( 5-fu ) and cisplatin in a randomized controlled trial . in 368 women with figo stage iib , iii , or iva cancer of the uterine cervix , there were significant improvements in pfs and os with the 5-fu and cisplatin combination ( whitney et al . , 1999 ) .
+adverse effects included leucopenia : 4% of 5-fu / cisplatin patients and 24% of hu patients experienced grade iii or iv toxicity .
+given the findings of these studies , concurrent cisplatin and radiotherapy became the standard of care in locally advanced cervical cancer , spelling the end of hu use in the treatment of cervical cancer .
+in addition to its study in cervical carcinoma , hu has also been extensively investigated in other cancers , particularly head and neck .
+while early studies had significant flaws in methodology , a phase i study showed a 90% response rate in patients treated with hu , 5-fu , and palliative dose fractionated ir ( vokes et al .
+, 1989 ) , prompting a series of trials by the same group and others .
+this included work by mantz et al . , who examined the benefit of hu when added to a more extensive chemoradiation protocol including cisplatin , 5-fu , leucovorin , and interferon-2b induction chemotherapy followed by 5-fu and hu with fractionated radiotherapy in 32 laryngeal cancer patients .
+median follow up was 44.5  months , and , after completion of all therapy , the cr rate was 94% .
+median os was 44.5  months , and median pfs was 86 , 78 , and 78% at 1 , 3 , and 5  years , respectively , which compared favorably with other published data and for the first time saw patients with stage iv head and neck cancer failing distantly more often than locally ( mantz et al .
+the increased local control , unfortunately , was associated with increased toxicity , which has also been seen in other studies .
+one phase i study with prolonged infusion of hu with hyperfractionated , accelerated , external radiation in patients with advanced squamous cell cancer of the head and neck showed an increase in the severity of swallowing toxicity compared with previous trials , with severe edema , and reductions in motility and mobility of pharyngeal and laryngeal structures ( beitler et al . , 1998 ) .
+the same group later published a study examining the long term impact on swallowing that showed persistent , severe swallowing dysfunction ( smith et al . , 2000 ) .
+interestingly , these studies examined continuous hu infusions based on pre - clinical data that suggested that hu should always be given concurrently with ir to maximize effect . even though local control was excellent , with just 4 of 26 patients experiencing recurrence ,
+quality of life is of great importance in these patients , and the late follow up reported esophageal strictures for the first time after chemoradiotherapy , suggesting that this particular regimen may be too aggressive .
+the state of hu in head and neck cancer is well reviewed by argiris et al .
+( 2003 ) and while the authors are optimistic about the future of chemoradiation in head and neck cancer , it remains to be seen where hu and other rr inhibitors will fit in the future treatment of this disease site . even as hu has slowly progressed in the clinic
+, work has continued on examining the mechanism by which it sensitizes cells to the effects of ir . in particular , work by kuo et al .
+has shown that the sequence with which cells are treated with hu plays an important role .
+they demonstrated that in the caski cervical cancer cell line , clinically relevant concentrations of hu had a significant interaction with ir , with post - ir exposure  >  pre - ir ( kuo et al . , 1997 ) .
+this was associated with increased g2 delay , suggesting a decrease in the repair of damaged dna .
+in addition , in cells overexpressing the r2 subunit , hu is able to return ir sensitivity to baseline ( kuo et al . , 2003 ) , demonstrating that r2 inhibition is the likely mechanism for hu radiosensitization in these cells .
+these findings are potentially informative about the failure of hu to become established as a radiosensitizer in cervical cancer . in the majority of the early trials ,
+given that hu works best in vitro when dosed immediately after ir exposure , one could conclude that these trials were not optimized for best effect .
+in addition , hu has recently been shown to have a significant effect on the mechanism of dna dsb repair employed by cells after exposure to ir .
+burkhalter et al . showed that cells pre - incubated with hu were unable to use homologous recombination ( hr ) to repair dsb , and instead relied on non - homologous end joining ( nhej ) .
+in addition , cells that were nhej deficient had significantly more dsb after hu treatment ( burkhalter et al . , 2009 ) .
+given that nhej is thought to be the dominant dsb repair mechanism in cells treated with hu , rr inhibitors are likely to have enhanced activity in tumors that are nhej deficient .
+even with new studies on its mechanism of action , hu will likely remain consigned to history due to the many inadequacies it has as a drug molecule .
+while its oral absorption is almost complete and it is completely distributed in the water compartments of the body , hu has a short half - life ( between 1.6 and 4.45  h ; gwilt and tracewell , 1998 ) and its effectiveness is limited by relatively low affinity for rr and by the development of resistance .
+one area where it could potentially find use in the future is in cns neoplasms , as it does cross the blood 
+recent studies have examined its use in progressive meningioma in combination with 3d - conformal radiotherapy and adjuvant chemotherapy . in one trial ,
+pfs at 1 and 2  years was 84 and 77% , which is similar to other adjuvant studies ( hahn et al .
+in spite of the mixed clinical data for hu , there is sufficient proof of concept to suggest that a rr inhibitor can be efficacious as a radiosensitizer in human cancers .
+thus , there has been a concerted effort to discover more potent molecules with more favorable pharmacokinetics and pharmacodynamics for this purpose .
+one of the more promising of these is triapine , a thiosemicarbazone that destroys the tyrosyl radical in r2/p53r2 by forming a redox active complex with iron , producing reactive oxygen species . in studies comparing it with hu in vitro
+, triapine was shown to have significantly higher potency in both enzyme and cell assays .
+in addition , it was fully active against hu and gemcitabine resistant cells and was equally potent against r2 and p53r2 , whereas hu was approximately threefold less potent at binding p53r2 ( zhu et al . , 2009 ) .
+in addition , in in vivo models , triapine was active against hu resistant l1210 and kb cell lines and caused significant inhibition of solid tumor growth in mouse xenograft models ( finch et al .
+further studies have examined the radiosensitizing properties of triapine in a number of human cell lines .
+used a panel of three human tumor cell lines , including glioma , pancreatic , and prostate cancer cells , with triapine enhancing radiosensitivity when delivered 16  h before or immediately after ir by 1.5- to 2-fold .
+ir interaction was associated with a reduction in the repair of dna dsb as evidenced by a persistence of h2ax foci at 24  h ( barker et al . , 2006 ) .
+a similar effect was seen in mouse tumor xenografts , again , with greater effect if triapine was dosed just after ir .
+the most effective temporal relationship between triapine dosing and ir is similar to that seen with hu in earlier pre - clinical studies .
+interestingly , normal human fibroblasts were only sensitized when triapine was given before , not after ir , suggesting a potential for an improved therapeutic index for ir  triapine sequencing that may be incorporated into future clinical studies .
+are ic50 ( concentration of compounds producing 50% inhibition of recombinant rr activity ) values for both compounds in an in vitro rr activity assay with r2 or p53r2 bound to r1 ( zhu et al . , 2009 ) .
+also shown are elimination half - lives ( t1/2 ) for both compounds ( gwilt and tracewell , 1998 ; kunos et al . ,
+2010b ) . of note , many cancers have virally or mutationally silenced p53 that allows rr activity to continue unchecked . in these cancers , it is potentially of increased importance to inhibit the r2 and p53r2 subunits that have lost p53 regulatory control .
+this is the case in cervical cancer , where the vast majority have dysfunctional p53 due to hpv infection . in one study , three cervical cancer cell lines with mutated or dysfunctional p53
+were irradiated 6  h after triapine exposure . in all cases , the cell lines were sensitized to ir and sustained dna damage as measured by persistence of h2ax foci . in addition , by measuring dctp levels , the investigators were able to show reduced rr activity in cells with and without functional p53 , demonstrating that the inhibition of rr is p53 independent ( kunos et al . , 2009 ) .
+these findings were reinforced by further work of the same group that also showed a synergistic effect when cisplatin was added in addition to triapine and ir ( kunos et al . , 2010a ) .
+these promising pre - clinical data have prompted the initiation of a number of clinical trials .
+indeed , triapine has so far been studied in 27 clinical trials in the usa at various stages of recruitment ( www.clinicaltrials.gov ) , including those in both solid and hematologic malignancies .
+in particular there are three trials investigating the radiosensitizing potential of triapine , with data from one phase i study being published by kunos et al .
+the purpose of their study was to assess the safety / tolerability , pharmacokinetics , and clinical activity of triapine three times weekly in concert with once weekly cisplatin and pelvic radiation in 11 patients with gynecologic malignancies .
+triapine was dosed in 2  h infusions and the half - life was found to be 2  h. all 10 patients with advanced stage ib to ivb cervical cancer achieved complete clinical response , with a median 18  month follow up showing no disease progression in any of the patients .
+five of the 10 patients had pet / ct evident pelvic or para - aortic lymphadenopathy before treatment , with complete resolution on follow up imaging after treatment ( kunos et al .
+in addition to the clinical data , the authors also examined objective markers of disease response .
+late responders had a significantly higher rr activity on day 10 vs. day 1 and there was no temporal change in rr activity in the early responders , indicating that the expected spike in rr activity after ir was suppressed by triapine .
+the fact that the late responders experienced durable responses in spite of elevated rr activity at day 10 suggests that there may be other mechanisms of triapine activity that require further study .
+the promising results from this phase i trial prompted a phase ii trial which is now underway .
+over the last 10  years , there have been a number of major leaps forward in the field of radiation oncology that allow us to deliver higher doses of radiation in ever more specific ways to our patients .
+still , in the vast majority of cases , we are constrained by dose limiting toxicities that must be accounted for when designing treatment plans and balanced against the therapeutic benefit realized .
+therefore , the field of radio modulation and specifically radiosensitization will continue to grow in importance in the coming years as we search for ways to maximize the therapeutic index of our treatments .
+while there are many different radiosensitizers currently being studied , the rr inhibitors are among the oldest of targets , and are getting a new lease of life in recent times with the development of more modern drug molecules .
+as outlined in the review above , the story began with the study of hu in combination with ir in a number of pre - clinical trials in the 1960s , leading to a large amount of interest in the clinic , culminating with the gog adopting hu and ir as its standard of care in locally advanced cervical cancer . while its success in this arena was short
+lived , many parallel studies investigating the mechanism of action of hu were carried out , resulting in a far clearer understanding of the biological interactions between ir and rr inhibitors .
+even as hu was fading from view , investigators were working on successors including the intriguing molecule , triapine .
+as shown above , this drug works in a similar fashion to hu , but has significantly improved potency , pharmacokinetics , and pharmacodynamics .
+the phase i study in cervical cancers that was recently published includes some very encouraging data , and the field waits in anticipation for the publication of further trials .
+it remains to be seen what the best dosing regimen for triapine will be , however the weight of pre - clinical data , including that with hu , suggests that daily dosing shortly after radiation therapy will be most effective and provide the greatest therapeutic window .
+these authors would encourage studies incorporating this type of dosing schedule in the clinic , although this must obviously be weighed carefully against the potential for increased toxicity .
+in addition to triapine , there are other new rr inhibitors being tested at various stages , including trimidox and motexafin gadolinium .
+( 1994 ) , in a paper that reported 100-fold more potency at rr than hu in a cell based assay .
+subsequent in vitro studies have demonstrated that while it acts as a radiosensitizer in panc-1 human pancreatic cancer cells ( ahmed and hassan , 2000 ) , it is less potent than hu and further work is ongoing to fully assess its potential .
+motexafin gadolinium is a texaphyrin molecule that targets thioredoxin reductase in addition to rr . in in vitro experiments , it was shown to inhibit rr with an ic50 of 26  m ( hashemy et al . , 2006 ) , although given that it has a number of other cellular effects , it is unclear how much of its potency as a radiosensitizer is due to rr inhibition alone .
+it is likely that the coming years will continue to see the emergence of new rr inhibitors with unique properties .
+the recent advances in the understanding of rr biology and the development of new inhibitors places us at an important crossroads in the story of rr inhibitors .
+there are sufficient data to provide proof of concept for the target from a biological standpoint , however clinical trials to this point have not been wholly convincing .
+it will be interesting to follow the development of the field in the next 510  years , particularly with the clinical trials of triapine in cervical cancer , and hopefully at least one of the many rr inhibitors being studied will eventually bring additional therapeutic benefit to patients in the near future .
+the authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest .

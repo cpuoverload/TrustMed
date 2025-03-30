@@ -1,0 +1,55 @@
+with increasing availability , widened indications , and technical refinements of computed tomography ( ct ) and magnetic resonance imaging ( mri ) , the number of incidentally discovered adrenal lesions , such as adrenal incidentalomas and incidental adrenal enlargement , is increasing . in a recent study by tang et al .
+, among a total of 564 eligible ct studies ( patients undergoing ct without prior known malignancy , trauma , or endocrine disease ) , adrenal hyperplasia was detected in 64 cases , giving a prevalence of 11.3% .
+this indicated that incidental adrenal enlargement had a significant prevalence and has become a common clinical problem .
+it should be emphasized that the term incidental adrenal enlargement represents the way the lesion was detected ( incidentally ) , rather than the etiology or diagnosis .
+it is a common term for a variety of adrenal disorders , but its cause must be properly assessed so that patients needing treatment , such as those with hormone hypersecretion or malignant disease , can receive appropriate care . however , there is a lack of literature on functional status and its follow - up to provide comprehensive insight to these findings .
+patients with incidental adrenal enlargement were evaluated in a tertiary referral hospital with endocrinological departments in china .
+this study aimed to determine the primary clinical presentation that most frequently leads to the discovery of adrenal enlargement , to evaluate clinical characteristics and functional status of these patients , and to analyze risk factors for functional lesions .
+this retrospective study included 578 patients with adrenal imaging features showing adrenal enlargement who were hospitalized at the department of endocrinology in pla general hospital ( beijing , china ) between january 1993 and july 2013 .
+data retrieved included patient demographics , final functional diagnosis , adrenal imaging features , and concomitant diseases .
+patients were classified as having incidental adrenal enlargement when abdominal imaging was performed for indications unrelated to adrenal disease .
+patients with diseases known to cause adrenal enlargement , such as known endocrine disorders which could affect adrenal size , trauma , and underlying malignancy , were excluded . among all enrolled patients , 78 presented with incidental adrenal enlargement .
+the ct imaging technique used was not standardized due to the various clinical indications . however , to be included in their entirety on a maximum of 5  mm section thickness , the upper limit of normal was set as 10  mm for the body of the gland and 5  mm for each limb as documented by vincent et al . .
+the type of enlargement , based on subjective evaluation of the adrenal glands , was recorded as either smooth or nodular .
+nodular enlargement was diagnosed if the adrenal gland had an irregular contour , contained nodules , and had normal adrenal tissue interspersed between the nodules .
+smooth enlargement was defined as enlargement of the gland with a smooth contour and no measureable or diffuse nodules . after obtaining patient history and physical examination , all patients underwent biochemical evaluation to assess their functional status .
+patients with elevated 24-hour urine - free cortisol level ( 2 times ) or those in whom plasma cortisol levels did not decrease after an overnight low - dose dexamethasone test ( 1  mg dst ; cutoff 50 
+patients with an aldosterone - rennin ratio ( arr ) > 20 underwent any 1 of 3 confirmatory tests ( saline infusion , captopril challenge , or postural stimulation ) to confirm or exclude definitively primary hyperaldosteronism ( pa ) .
+categorical data such as gender and clinical / radiologic features were compared using -test or fisher 's exact test .
+variables that resulted in a p < 0.05 in the univariate analyses were entered into logistic regression analysis to assess the risk factors of functional lesions .
+the hospital ethics committee approved this study , and written informed consent was obtained from all patients or their parents .
+of 578 patients with adrenal enlargement , 78 cases ( 13.49% ) were detected incidentally .
+every 2 years , the numbers of total cases were 17 , 11 , 14 , 24 , 33 , 31 , 54 , 55 , 114 , and 225 , respectively .
+the numbers of incidental adrenal enlargement cases were 0 , 0 , 0 , 1 , 1 , 2 , 5 , 4 , 16 , and 49 , respectively .
+in addition , the proportion of incidental adrenal enlargement gradually increased ( 0 , 0 , 0 , 4.17% , 3.03% , 7.32% , 9.26% , 7.27% , 14.04% , and 21.33% ) .
+39 cases had unilateral enlargement on the left side and 3 on the right side , and the remaining 36 were bilateral enlargement .
+as shown in table 1 , routine medical checkup was found to have the greatest chance ( 43.59% ) of revealing clinical onsets leading to the discovery of adrenal enlargement .
+predominant complaints included low back pain ( 10.26% ) and abdominal pain ( 3.85% ) . in addition , there were 30 ( 38.46% ) cases in which the lesions were incidentally detected during hospitalization for underlying diseases , such as diabetes mellitus , hypertension , and coronary heart disease , among others . biochemical and functional evaluation revealed that 54 ( 69.23% ) cases were nonfunctional and 12 ( 15.38% ) were subclinical cushing syndrome ( scs ) ; among these patients , 10 cases were diagnosed as aimah , the other 2 were diagnosed as adenomas , and they were all confirmed by pathology results .
+primary hyperaldosteronism 6 ( 7.69% ) , metastatic 1 ( 1.28% ) , the primary cancer was gastric cancer .
+there were 5 patients ( 6.41% ) whose functional status remained unclear because of failure to finish the functional evaluation ( figure 2 ) .
+nodular adrenal enlargement ( or 7.306 ; 95% ci , 1.72728.667 ; p = 0.006 ) was the risk factor for functional lesions .
+as outlined above , incidental adrenal enlargement is detected with increasing frequency , most likely due to widespread increase in cross - sectional imaging , and is gradually emerging as a common clinical problem .
+our study shows that the proportion of incidental adrenal enlargement has gradually increased by year .
+mean age at diagnosis was 50.32 years , which is in line with other incidentally detected adrenal findings , namely , adrenal incidentaloma .
+the increasing age of the general population and a research trend towards more advanced investigations in the elderly population may be contributing to the high detection rate in this age group .
+our results indicate that , for the elderly patients , it is essential to place emphasis on these incidental findings .
+'s study   indicated that , of the total 64 patients , of which 40 ( 63% ) were men and 24 ( 37% ) were women , 43 ( 67% ) cases were bilateral enlargement and 21 ( 33% ) cases were unilateral .
+in addition , smooth enlargement was more common , in 53 ( 83% ) cases , and together these statistics reflect the likelihood that adrenal enlargement will be bilateral , smooth , and found in men .
+however , our study did not show this tendency , likely because the research goals and thus , study populations , differed between the 2 studies .
+'s study aimed to explore prevalence , while the present study aimed to evaluate functional status .
+in addition , patients enrolled in our study were hospitalized at the department of endocrinology . it should be noted that admitting was more or less selective , especially in tertiary referral hospitals , and that economic considerations in parts of china were still a problem .
+clinically , upon discovery of incidental adrenal enlargement , 2 issues arise : functionality and malignancy . in the relevant literature [ 48 ] , adrenal enlargement can result from endocrine disorders , such as adrenocorticotropic hormone- ( acth- ) dependent or independent cushing syndrome , pa , multiple endocrine neoplasia type 1 ( men-1 ) , and congenital adrenal hyperplasia .
+other potential causes include nonfunctional lesions , defined as a radiographic adrenal enlargement without clinical or biochemical manifestations , inflammation , neoplastic processes , obesity , or depression .
+12 patients were found to have subclinical cushing syndrome ( originated from the adrenal gland ) and 6 patients were diagnosed with pa . however , the variety of disease spectrum in the study was only moderate , perhaps due , in part , to the limited number of included cases .
+it is important to note that even though reported prevalence was up to 11.3% , patient referrals to endocrinologists are relatively rare .
+this is likely related to the poor radiological awareness of this issue and its potential clinical significance .
+the clinical significance of lesion location and patient gender is smaller . in the present study ,
+acth - independent macronodular hyperplasia ( aimah ) and primary pigmented nodular adrenal hyperplasia often manifest as adrenal hyperplasia . the clinical features of aimah tended to be atypical .
+nodules usually distorted and completely obscured the normal adrenal glands and were characteristically  ginger - like  .
+as for pa , adrenal glands affected by idiopathic hyperaldosteronism ( iha ) may be normal on the ct scan or show nodular changes , and small aldosterone producing adenoma ( apas ) may be interpreted incorrectly by the radiologists as 
+iha  on the basis of ct findings of bilateral nodularity or normal - appearing adrenal glands [ 1013 ] .
+thus , it is a simple matter to explain why nodular enlargement could be a predictive factor of functional lesions .
+meanwhile , this also suggests that if incidentally detected lesions were nodular enlargements , evaluating its functional status should be a priority .
+in addition , the present study suggests that lesions on the left side were likely to be nonfunctional .
+in addition , there was only one patient with malignant lesion in the present study , and thus we were unable to analyze incidence of malignancy .
+incidental adrenal enlargement is a frequent radiographic finding and it is accompanied by diverse clinical factors that require proper diagnostic evaluation and management . in functional evaluation ,

@@ -1,0 +1,56 @@
+the value of the ketogenic diet ( kd ) has been recognized in the treatment of epilepsy , although the exact mechanisms by which it exerts its effect remain an enigma .
+they seem to be different from those of regular antiepileptic medications ( aeds ) , and discovering what they are may lead to its use in clinical situations other than epilepsy as well .
+the kd is comprised of four elements , the changes of any of them can potentially lead to losing its anticonvulsant effect : ( 1 ) increased amount of fat , usually in a ratio of 3 to 4 grams of fat for each gram of protein and carbohydrates , ( 2 ) as low a consumption of glucose as possible , ( 3 ) caloric restriction , and ( 4 ) fluid restriction .
+although there is some debate about the last component , clinical practice has shown that stopping fluid restriction can lead to seizure recurrence much in the same way as when stopping glucose restriction .  
+the most important result of observing the diet is the increased blood level of free fatty acids ( ffas ) .
+the ffas are transferred into the mitochondria , a process which requires the presence of an appropriate amount of carnitine , where they are degraded into ketone bodies through  oxidation .
+these ketone bodies include  hydroxybutyrate , acetoacetate , and acetone   ( figure 1 ) .  
+the effect of the increased amount of ketone bodies seems to be the most prominent of all other suggested antiepileptic mechanisms of the kd .
+the degradation of the ketone bodies delivers acetyl - coa directly to the tricarboxylic acid cycle , thus increasing its turnover while bypassing the need to depend on acetyl - coa coming from glycolysis to produce atp . unlike glucose , which requires a transporter to cross the blood brain barrier ,
+the ketone bodies penetrate it easily . when this transporter is deficient , as in glut 1 deficiency , the kd is the preferred way of antiepileptic treatment , since it allows for bypassing the need for glucose .
+children in whom the conversion of pyruvate to acetyl - coa is blocked , for instance , in pyruvate dehydrogenase ( pdh ) deficiency , will also benefit from bypassing this route .
+ hydroxybutyrate is the predominant ketone body measured in the blood , and it is used to monitor the degree of ketosis during therapy .
+the breath of a patient who is ketotic while on the diet will often even smell of acetone .
+acetone is one of the ketone bodies that have an anticonvulsant effect in several types of mouse seizure models .
+the mechanism of this effect is unknown , although an effect on k2p channels has been proposed .   by means of the tca cycle ,
+acetyl - coa increases the level of the neurotransmitters glutamate and -aminobutyric acid ( gaba ) and the major excitatory and inhibitory neurotransmitters in brain , respectively .
+another product of an elevated level of free fatty acids is polyunsaturated fatty acids ( pufas ) .
+the potential ability of pufas to block seizure activity in the brain is speculated to be associated with some rather more complicated mechanisms , including ( 1 ) directly inhibiting voltage - gated sodium and calcium channels , ( 2 ) activating a lipid - sensitive potassium channel , ( 3 ) enhancing the activity of the sodium pump to limit neuronal excitability , ( 4 ) activating peroxisome proliferator - activated receptor- ( ppar ) , and ( 5 ) inducing the expression and activity of brain - specific uncoupling proteins in the mitochondria , thereby inducing a neuroprotective effect .
+neuroprotection can contribute to the anticonvulsant effect , but it may have other effects as well , which can lead to other clinical uses of the kd .
+appleton and de vivo   reported that the kd increased the total quantity of bioenergetic substrates ( adenosine triphosphate ( atp ) ) and elevated the energy charge in rat brain .
+acetoacetate , a product of  hydroxybutyrate dehydrogenation , is transferred into acetyl - coa which enters the tricarboxylic acid ( tca ) cycle .
+the increased turnover of the tca cycle generates protons and electrons that are channeled to the electron transport chain .
+this , in turn , drives the formation of atp from adenosine phosphate ( adp ) by atp synthase .
+enhanced atp can either be converted to phosphocreatine for energy storage or broken into adenosine .
+enhanced atp levels provide energy reserves for a neuron to continue functioning under stress . increased extracellular adenosine offers a neuroprotective buffer against insults , reduces excitation , and averts excessive atp demands , thus providing local seizure control and neuroprotection .  
+it was also suggested that the kd influences toward an upregulation of transcripts encoding energy metabolism enzymes and increase in the density of mitochondria in neuronal process , leading to heightened energy reserves .
+an improved energetic status can support seizure prevention , for instance , by supporting gabaergic inhibition .
+it is suggested that adaptive processes to the metabolic changes induced by the diet lead to changes in gene expression which in turn result in some of the above - noted changes .
+other path of neuroprotection is modulated through decreased generation of ros which is considered to be related to pufas effect on uncoupling proteins .
+the fact that the kd is considered a proven therapy with relatively few adverse affects and wide clinical experience , particularly in children , led to recent studies investigating new potential uses for other neurological disorders .
+one of the most intriguing and active fields of research is the effect of a high - fat caloric - restricted diet on the survival of brain tumors cells .
+it is hypothesized that mitochondrial abnormalities impair the ability of brain tumors to generate energy from ketone bodies . unlike normal cells ,
+malignant tumor cells have impaired genetic adaptability due to their genetic abnormalities and , therefore , increased susceptibility to environmental stress , such as fasting or caloric restriction .
+the same genomic defects that are involved in the creation of brain tumors can be exploited for their destruction [ 3 , 10 , 11 ] .   in 1995 , nebeling et al
+.   reported two young girls with unresectable advanced stage brain tumors who had poor response to radiation and chemotherapy .
+they were treated with a kd and their response was remarkable , both clinically and according to positron emission tomography follow - up scans .
+described a patient with glioblastoma multiforme whose tumor , which is very malignant , improved on the kd . surprisingly , despite the appealing efficacy of this treatment , no further human studies or clinical trials on the kd as a therapy for brain tumors have been conducted .
+several laboratory studies in mouse and rat models have recently confirmed that inhibition of brain tumor growth is directly related with reduced levels of glucose and elevated levels of ketone bodies .
+moreover , the kd was shown to reduce reactive oxygen species ( ros ) in the brain .
+cancer cells need high levels of ros for the induction of angiogenesis and the production of tumor growth factors , thus , through this mechanism the kd can be protective .
+the clinical manifestations were mainly intractable seizures that necessitated repeated admissions to the intensive care unit , as well as severe cognitive and alertness decline .
+after the oncologists decided that antitumor treatment would be ineffective , she was started on the kd .
+after four weeks of trial , it did not have any effect on the tumor progression .
+however , it did have a notable improving effect on cognition , alertness , and mood of the girl , in spite of her devastating condition .
+the beneficial effect of the kd on cognition , alertness , and mood is well recognized , and clinical experience shows that in many times it is not less important than the anticonvulsant effect .
+the potential neuroprotective effect of the kd was what motivated investigations into its potential as a treatment option in other neurologic disorders .
+there are increasing numbers of reports that ketosis achieved by starvation or administration of a kd has a consistent neuroprotective effect after various brain injuries in animal models .
+one human pilot study and several animal model studies have shown improvement in autistic behavior parameters with kd treatment .
+it remains to be further clarified whether this improvement is related to reduced epileptic activity found in up to 30% of these patients or to a primary effect of the kd .  
+a factor that can be crucial for the application of the kd in medical conditions other than intractable epilepsy is the inherent difficulties in its use .
+dietary restriction can pose a significant problem in a child with a progressive tumor that undergoes massive chemotherapy , who may already be cachectic .
+the kd may not be an option in a grown - up hyperactive autistic child .
+thus , the neurologist must evaluate the appropriate clinical , familial , and environmental situations very cautiously prior to the recommendation of the kd . in conclusion ,
+the major metabolic effect of the kd is in supplying the brain with an increased amount of free fatty acids .
+their degradation into ketone bodies , together with the load of pufas , leads to major changes in the metabolic , bioenergetic , mitochondrial , and even genetic constellation .
+whether it may also be effective in other pathologies , especially in treating malignancies , awaits future research .

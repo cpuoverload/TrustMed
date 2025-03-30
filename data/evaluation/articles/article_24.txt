@@ -1,0 +1,409 @@
+it is generally accepted that microleakage between the filling materials and root canal 
+ walls might adversely affect the outcome of root canal treatment .
+therefore , it is critical the complete 
+ sealing of the root canal system after cleaning and shaping in order to avoid the 
+ bacterial penetration and re - infection of the root and periapical tissues .
+the association of gutta - percha cones 
+ and root canal sealer has been traditionally used for this purpose . however , in the last 
+ decade , the dentin adhesive technology has been incorporated into the root canal filling 
+ techniques to reduce apical and coronal leakage by bonding to root canal walls .
+etch - and - rinse adhesives have been 
+ tested with resin cements and the 
+ combination of a dentin - bonding agent and an epoxy resin - based root canal sealer 
+ significantly reduced apical leakage . in restorative dentistry , the self - etch adhesive systems have shown less technique 
+ sensitivity , with reliable long - term performance of a two - step mild self - etch 
+ adhesive . following this trend ,
+pentron clinical technologies 
+ ( wallingford , ct , usa ) has developed the epiphany system , which contains a self - etch 
+ primer , a dual - cured composite resin sealer and a polyester - based thermoplastic 
+ root - filling material ( resilon ; resilon research llc , madison , ct , usa ) . 
+ according to shipper , et al .
+( 2004 ) 
+ this material has been shown to be more resistant to bacterial leakage than epoxy 
+ resin - based sealers for filling root canals . in endodontics ,
+the controversy about the performance of adhesive systems inside the 
+ root canal remains . despite that , 
+ other possibility is combining epiphany primer with ah plus in an attempt to add the 
+ hybridization capacity to the gold standard endodontic sealer .
+the reason for this is 
+ that the removal of the smear layer with ethylenediamine tetraacetic acid ( edta ) does 
+ not provide the same etching pattern usually associated with the hybrid layer , which is 
+ considered an important factor for dentin bonding .
+the majority of studies have evaluated apical or coronal microleakage , and few have 
+ focused gap formation at the dentin / sealer interface .
+so far , no correlation between microleakage and gap 
+ formation has been established in the literature .
+thus , it is reasonable to believe that 
+ the association of both methods would provide a more precise evaluation of the adhesive 
+ interface .
+the aim of this study was to compare the apical sealing and gap formation of ah 
+ plus / gutta - percha with epiphany system .
+in addition , the opportunity was taken to assess 
+ the effect of the association of epiphany primer and ah plus / gutta - percha on apical 
+ sealing and gap formation .
+the null hypotheses tested were as follows : ( 1 ) there is no 
+ difference in apical microleakage or ( 2 ) apical gap formation among the experimental 
+ groups and ( 3 ) there is no correspondence between apical microleakage and the presence 
+ of gaps .
+thirty - nine lower single - rooted human premolars with straight root canals and fully 
+ developed apices ( local ethics committee approval 177/05 ) were cleaned and submitted 
+ to 18.5 kgy gamacell radiation ( nuclear energy research institute , so paulo , 
+ sp , brazil ) , and stored in saline solution at 4c .
+after endodontic access , 
+ the real working length ( rwl ) was established 1 mm short of the apical foramen .
+a 
+ crown - down technique was used ( up to k - file # 50 ) under constant irrigation with 0.5% 
+ naocl .
+the smear layer was removed with 17% edta ( 5 ml ) and 0.5% naocl ( 5 
+ ml ) followed by saline 
+ solution ( 15 ml ) .
+three coats of nail polish were applied to 
+ external root surfaces except for the apical 2 mm .
+the teeth were randomly ( http://www.random.org ) divided into 
+ 3 experimental groups ( n=11 ) .
+the endodontic sealers were 
+ prepared according to the manufacturer 's instructions and the cold lateral 
+ condensation filling technique ( lc ) was used according with the following 
+ description : an iso # 50 master gutta - percha cone was lightly coated with ah plus sealer ( ah 
+ plus ; dentsply detrey , konstanz , germany ) and placed into the 
+ canal to rwl .
+a size b finger spreader ( dentsply maillefer , ballaigues , switzerland ) 
+ was then inserted into the canal to a level approximately 1 mm short of rwl .
+lc with 
+ accessory gutta - percha cones was performed until the entirely filled root canal .
+the 
+ excess gutta - percha was removed with a heated plugger and then compacted 
+ vertically .
+adhesive - modified technique was used for bonding ah plus to intraradicular dentin . a 
+ paper point soaked with epiphany primer
+was used to etch dentin ( 30 s ) and the excess 
+ was removed with paper points .
+the coronal surface of the root filling was 
+ light - cured for 40 s ( 600 mw / cm ) .  
+the positive controls ( n=3 ) were left unfilled and coated as described earlier . the 
+ negative controls ( n=3 ) were filled and totally coated , including the apical 
+ foramina .
+the openings were sealed ( cavit w , 3 m espe , st paul , mn , usa ) , and 
+ stored in a chamber held at 100% humidity and 37c for 7 days .
+next , all teeth 
+ were immersed in a 50-wt% aqueous silver nitrate solution ( agno3 , ph7.0 ) 
+ in the darkness that was buffered using naoh 0.1 n for 24 h at 37c .
+the silver - impregnated teeth 
+ were rinsed and placed in photodeveloper ( 8 h ) in fluorescence light to reduce the 
+ silver ions into metallic silver . 
+
+lake bluff , 
+ il , usa ) , longitudinally sectioned in an isomet 1000 precision saw ( buehler ) at low 
+ speed ( 200 rpm ) with a water - cooled diamond blade .
+the interfaces were etched with a 
+ 35% phosphoric acid solution ( 5 s ) , rinsed with distilled water ( 30 s ) and gently 
+ air - dried .
+then , specimen preparation followed the protocol 1 for apical microleakage 
+ analysis using scanning electron microscopy / energy dispersive spectroscopy ( sem / eds ) ; 
+ or the protocol 2 for gaps analysis using sem according to the following 
+ description : specimens were fixed , dehydrated in ascending grades of ethanol and final chemical 
+ drying in hmds ( hexamethyldisilazane , sigma - aldrich inc . ,
+louis , mo , usa ) for 10 
+ min , and covered with 
+ carbon ( sputter coater scd 050 , bal - tec ag , balzers , liechtenstein ) .
+the apical 5 mm 
+ of the root canal filling were divided into 5 regions of 1 mm to evaluate 
+ microleakage by sem leo stereoscan 440 ( leo electron microscopy ltd . ,
+cambridge , 
+ england ) using back scattered electrons ( bse ) mode ( figure 1a ) .
+the eds ( inca software , oxford , uk , england ) was performed in 
+ lower magnification within a pre - determined area ( 300 m ) ( figure 1b ) , and in a higher magnification , the 
+ identification of silver was made punctually to determine its exact location ( figure 1c ) .
+each 1 mm region was classified 
+ according to the following scores : 0 ( absence of leakage in both interfaces ) and 1 
+ ( presence of leakage in at least one of the interfaces ) . in figures 1d and 1e
+scanning electron microscopy ( sem ) micrographs using back scattered electrons 
+ ( bse ) mode and corresponding energy dispersive spectroscopy ( eds ) spectrum of 
+ agno3 leakage : ( a ) - the apical 5 mm of the root canal filling 
+ divided into 1 mm - regions .
+pointer at the detected metallic silver ; ( b )  area 
+ ( 300 m ) scanned for the existence of silver and 
+ respective eds spectrum ( arrow ) and ( c ) - in detail , punctual eds confirmation 
+ of its exact location .
+gp = gutta - percha ; d = dentin impressions of polyvinyl siloxane ( aquasil , ulv , dentsply detrey ) were 
+ made of the interfaces and the surfaces replicated with epoxy resin 
+ ( epon - thin , buhler ) .
+the replicas were covered with carbon to 
+ investigate the presence of gaps at the dentin / sealer and sealer / cone interfaces , as 
+ described previously , using secondary electrons ( se ) mode .
+as the gaps were not 
+ continuous , for each 1 mm - region , two interfaces were analyzed ( figure 2a ) and classified as : type 0 : both interfaces were 
+ gap - free , type 1 : gap at dentin / sealer interface ( figure 2b ) , type 2 : gap at sealer / cone interface ( figure 2c ) , and type 3 : both types of gaps present .
+therefore , 
+ for each experimental group , 11 replicas were prepared ; 55 regions were evaluated and 
+ accordingly classified .
+scanning electron microscopy ( sem ) micrographs using secondary electrons ( se ) 
+ and back scattered electrons ( bse ) mode of the replica and the section of the 
+ same specimen , respectively .
+( a ) - the apical 5 mm of the root canal filling 
+ divided into 1 mmregions .
+classification of the types of gaps : ( b )  type 1 : 
+ gap between dentin / sealer ( pointer ) ; air voids were present within the sealer 
+ ( open arrow ) ; ( b ' ) - silver penetration was evident along the dentin / sealer 
+ interface , into dentinal tubules in a reticular form and granular aspect on the 
+ dentin surface ( arrowhead ) ; ( c )  type 2 : gap between sealer / cone ( pointer ) - 
+ cohesive fracture of the sealer ( open arrow ) ; ( c ' ) - the area marked in figure 
+ c at higher magnification : silver deposition into the dentinal tubules in a 
+ reticular form and granular aspect within the sealer layer ( arrowhead ) could be 
+ seen ; ( the sealer thickness was indicated between black / white arrowheads . 
+
+gp = gutta - percha ; d = dentin ; r = resilon ) the data obtained for apical microleakage and types of gaps were statistically 
+ analyzed ( =0.05 ) using the ordinal logistic regression model and correspondence analysis in the minitab statistical software 
+ program ( minitab inc .
+the counting of regions analyzed for gaps was also computed and adjusted in a 
+ generalized linear model with poisson distribution and logarithmic link function .
+the 
+ sealers groups ( ah plus , ah primer and epiphany ) and the type of gap were considered 
+ as explanatory variables and ah plus and the type 0 as references .
+thirty - nine lower single - rooted human premolars with straight root canals and fully 
+ developed apices ( local ethics committee approval 177/05 ) were cleaned and submitted 
+ to 18.5 kgy gamacell radiation ( nuclear energy research institute , so paulo , 
+ sp , brazil ) , and stored in saline solution at 4c .
+after endodontic access , 
+ the real working length ( rwl ) was established 1 mm short of the apical foramen .
+a 
+ crown - down technique was used ( up to k - file # 50 ) under constant irrigation with 0.5% 
+ naocl .
+the smear layer was removed with 17% edta ( 5 ml ) and 0.5% naocl ( 5 
+ ml ) followed by saline 
+ solution ( 15 ml ) .
+three coats of nail polish were applied to 
+ external root surfaces except for the apical 2 mm .
+the teeth were randomly ( http://www.random.org ) divided into 
+ 3 experimental groups ( n=11 ) .
+the endodontic sealers were 
+ prepared according to the manufacturer 's instructions and the cold lateral 
+ condensation filling technique ( lc ) was used according with the following 
+ description :
+an iso # 50 master gutta - percha cone was lightly coated with ah plus sealer ( ah 
+ plus ; dentsply detrey , konstanz , germany ) and placed into the 
+ canal to rwl .
+a size b finger spreader ( dentsply maillefer , ballaigues , switzerland ) 
+ was then inserted into the canal to a level approximately 1 mm short of rwl .
+lc with 
+ accessory gutta - percha cones was performed until the entirely filled root canal .
+the 
+ excess gutta - percha was removed with a heated plugger and then compacted 
+ vertically .
+adhesive - modified technique was used for bonding ah plus to intraradicular dentin . a 
+ paper point soaked with epiphany primer
+was used to etch dentin ( 30 s ) and the excess 
+ was removed with paper points .
+the coronal surface of the root filling was 
+ light - cured for 40 s ( 600 mw / cm ) .
+the positive controls ( n=3 ) were left unfilled and coated as described earlier . the 
+ negative controls ( n=3 ) were filled and totally coated , including the apical 
+ foramina .
+the openings were sealed ( cavit w , 3 m espe , st paul , mn , usa ) , and 
+ stored in a chamber held at 100% humidity and 37c for 7 days .
+next , all teeth 
+ were immersed in a 50-wt% aqueous silver nitrate solution ( agno3 , ph7.0 ) 
+ in the darkness that was buffered using naoh 0.1 n for 24 h at 37c .
+the silver - impregnated teeth 
+ were rinsed and placed in photodeveloper ( 8 h ) in fluorescence light to reduce the 
+ silver ions into metallic silver . 
+
+lake bluff , 
+ il , usa ) , longitudinally sectioned in an isomet 1000 precision saw ( buehler ) at low 
+ speed ( 200 rpm ) with a water - cooled diamond blade .
+the interfaces were etched with a 
+ 35% phosphoric acid solution ( 5 s ) , rinsed with distilled water ( 30 s ) and gently 
+ air - dried .
+then , specimen preparation followed the protocol 1 for apical microleakage 
+ analysis using scanning electron microscopy / energy dispersive spectroscopy ( sem / eds ) ; 
+ or the protocol 2 for gaps analysis using sem according to the following 
+ description :
+specimens were fixed , dehydrated in ascending grades of ethanol and final chemical 
+ drying in hmds ( hexamethyldisilazane , sigma - aldrich inc . , st .
+louis , mo , usa ) for 10 
+ min , and covered with 
+ carbon ( sputter coater scd 050 , bal - tec ag , balzers , liechtenstein ) .
+the apical 5 mm 
+ of the root canal filling were divided into 5 regions of 1 mm to evaluate 
+ microleakage by sem leo stereoscan 440 ( leo electron microscopy ltd . ,
+cambridge , 
+ england ) using back scattered electrons ( bse ) mode ( figure 1a ) .
+the eds ( inca software , oxford , uk , england ) was performed in 
+ lower magnification within a pre - determined area ( 300 m ) ( figure 1b ) , and in a higher magnification , the 
+ identification of silver was made punctually to determine its exact location ( figure 1c ) .
+each 1 mm region was classified 
+ according to the following scores : 0 ( absence of leakage in both interfaces ) and 1 
+ ( presence of leakage in at least one of the interfaces ) . in figures 1d and 1e
+scanning electron microscopy ( sem ) micrographs using back scattered electrons 
+ ( bse ) mode and corresponding energy dispersive spectroscopy ( eds ) spectrum of 
+ agno3 leakage : ( a ) - the apical 5 mm of the root canal filling 
+ divided into 1 mm - regions .
+pointer at the detected metallic silver ; ( b )  area 
+ ( 300 m ) scanned for the existence of silver and 
+ respective eds spectrum ( arrow ) and ( c ) - in detail , punctual eds confirmation 
+ of its exact location .
+impressions of polyvinyl siloxane ( aquasil , ulv , dentsply detrey ) were 
+ made of the interfaces and the surfaces replicated with epoxy resin 
+ ( epon - thin , buhler ) .
+the replicas were covered with carbon to 
+ investigate the presence of gaps at the dentin / sealer and sealer / cone interfaces , as 
+ described previously , using secondary electrons ( se ) mode .
+as the gaps were not 
+ continuous , for each 1 mm - region , two interfaces were analyzed ( figure 2a ) and classified as : type 0 : both interfaces were 
+ gap - free , type 1 : gap at dentin / sealer interface ( figure 2b ) , type 2 : gap at sealer / cone interface ( figure 2c ) , and type 3 : both types of gaps present .
+therefore , 
+ for each experimental group , 11 replicas were prepared ; 55 regions were evaluated and 
+ accordingly classified .
+scanning electron microscopy ( sem ) micrographs using secondary electrons ( se ) 
+ and back scattered electrons ( bse ) mode of the replica and the section of the 
+ same specimen , respectively .
+( a ) - the apical 5 mm of the root canal filling 
+ divided into 1 mmregions .
+classification of the types of gaps : ( b )  type 1 : 
+ gap between dentin / sealer ( pointer ) ; air voids were present within the sealer 
+ ( open arrow ) ; ( b ' ) - silver penetration was evident along the dentin / sealer 
+ interface , into dentinal tubules in a reticular form and granular aspect on the 
+ dentin surface ( arrowhead ) ; ( c )  type 2 : gap between sealer / cone ( pointer ) - 
+ cohesive fracture of the sealer ( open arrow ) ; ( c ' ) - the area marked in figure 
+ c at higher magnification : silver deposition into the dentinal tubules in a 
+ reticular form and granular aspect within the sealer layer ( arrowhead ) could be 
+ seen ; ( the sealer thickness was indicated between black / white arrowheads . 
+
+gp = gutta - percha ; d = dentin ; r = resilon ) the data obtained for apical microleakage and types of gaps were statistically 
+ analyzed ( =0.05 ) using the ordinal logistic regression model and correspondence analysis in the minitab statistical software 
+ program ( minitab inc .
+the counting of regions analyzed for gaps was also computed and adjusted in a 
+ generalized linear model with poisson distribution and logarithmic link function .
+the 
+ sealers groups ( ah plus , ah primer and epiphany ) and the type of gap were considered 
+ as explanatory variables and ah plus and the type 0 as references .
+the ordinal logistic regression analysis demonstrated that there was no statistically 
+ significant difference ( p>0.05 ) among the groups tested and types of gaps over 
+ the logit of microleakage .
+the model was adjusted to identify the 
+ effect of the type of gap on microleakage .
+the type 3 data were not considered isolated 
+ in the analysis ( very few regions ) but joined with type 2 data ( figure 2c ; table 1 ) .
+the 
+ adjustment tests of the model presented high p - values for pearson 's test ( p=0.900 ) and 
+ deviance ( p=0.852 ) .
+the adjusted model demonstrated that the effect of the type of gap 
+ on the logit of microleakage is significant when compared to the 
+ presence of types 1 and 2 ( figure 2b and 2c , respectively ) of gap with the absence of gap 
+ ( p=0.047 ) .
+the correspondence analysis also showed the association between microleakage 
+ and both types of apical gaps ( figure 3 ) .
+correspondence analysis of microleakage vs. type of gap : ( inf.0 ) - absence of 
+ leakage ; ( inf.1 ) - leakage up to the 1 millimeter ; ( inf.2 ) 
+leakage 
+ up to the 2 mm ; ( inf.3 )  leakage up to the 3 
+ millimeter ; ( inf.5 )  leakage up to the 5 millimeter ; ( f.0 )  absence 
+ of gaps ; ( f.1 )  gaps type 1 ; ( f.2 ) - gaps types 1 and 2 .
+the absence of leakage 
+ is associated with the absence of gap ; leakage up to the 1 millimeter 
+ is associated with type 1 ; and more extensive leakage is associated with types 1 
+ and 2 frequency and type of gaps in the apical 5 mm of root canal fillings percentage of regions with gaps .
+type 0 : absence of gaps ; type 1 : gaps between 
+ dentin and sealer ; type 2 gaps between sealer and cone the generalized linear model with poisson distribution ( table 1 ) found no difference between ah plus and ah primer ( p=0.497 ) in 
+ distribution of each type of gap , but they presented more type 0 regions 
+ ( p<0.001 ) .
+there was a significant interaction between epiphany and the type of 
+ gap ( p<0.003 ) and for this group , there were more type 1 regions .
+based on the findings of this study , the first null hypothesis could not be rejected . 
+
+recently some studies have shown similar results between ah plus and epiphany on apical 
+ sealing ability using the fluid filtration method .
+consistent with these 
+ studies , our results indicate that the epiphany system is as effective as ah 
+ plus / gutta - percha in preventing microleakage based on the chemical tracer penetration 
+ analysis by sem and the use of epiphany primer does not reduce the microleakage of ah 
+ plus . nevertheless , other researches pointed out that the epiphany system provided the 
+ greatest resistance to the movement of fluids or dye leakage 
+ test , when compared to epoxy 
+ resin - based root canal sealers , but others have just indicated the opposite .
+these apparent discrepancies can perhaps be explained by the 
+ methodology used and their variables .  
+these results agree with those of previous studies in which , microleakage markers were 
+ used to evaluate apical sealing of the same endodontic sealers .
+the tracer 
+ selected was agno3 , which may penetrate into dentinal tubules due to their 
+ physical and chemical characteristics including : concentration , smaller molecular size , 
+ its neutral ph , diffusion coefficient and service life up to 168 h post - preparation time of 
+ solution .
+another reason for 
+ this choice is that metallic silver deposits may be observed by sem using back scattered 
+ electrons ( bse ) mode . on the other hand ,
+the results of the current study disagree with the findings of 
+ shipper , et al .  
+an 
+ explanation for this would be that their studies have evaluated coronal and not apical 
+ bacterial leakage . indeed , coronal seal might be favorably influenced by photoactivation 
+ of the material which is unlikely to occur in the apical third .
+furthermore , it is speculated that in in 
+ vivo studies ( dogs ) , the high release of calcium hydroxide ( 41.46 mg / l ) that 
+ would occur during the process of epiphany sealer solubilization , would make the medium 
+ alkaline , resulting in acceleration of the periapical tissue repair process .
+this study has shown that the presence of apical gaps at the sealer / dentin or 
+ sealer / cone interfaces had an effect on apical microleakage .
+the epiphany group 
+ presented more type 1 gaps than the other groups ( table 
+ 1 ) , rejecting the second null hypothesis .
+these results corroborate with 
+ previous observation of gaps in the apical 4 mm of epiphany or ah plus - filled root 
+ canals .
+stress generated 
+ during the polymerization shrinkage of epiphany sealer has probably influenced the 
+ integrity loss at the sealer / dentin interface .
+in addition , the cavity configuration factor ( c - factor ) is 
+ highly unfavorable for adhesion inside root canals .
+moreover , it is known that analysis of gap formation of 
+ vertically sectioned root filled teeth hides the risk of artifacts during sectioning . 
+
+therefore , in this study , the sections were made at low speed under water cooling .
+the 
+ resin - epoxy replicas at the dentin / sealer and sealer / cone interfaces were made before 
+ the specimens had been prepared for sem examination in order to differentiate genuine 
+ gaps from artifactual gaps created after vacuum desiccation in conventional scanning 
+ electron microscopes .
+few studies have focused on apical sealing from two separate perspectives , such as 
+ microleakage and apical gap formation .
+sem was used to evaluate these perspectives , but it was restricted to a descriptive 
+ approach .
+a systematization of the observations , complemented by a statistical analysis , such as 
+ the one performed in this study , could provide greater methodological accuracy and 
+ impartiality for comparing the experimental groups .
+the correspondence of analysis 
+ between the types of gaps and linear extent of agno3 leakage ( fig .
+3 ) confirms the effect of gaps on apical 
+ microleakage , expressed by the silver deposition into gaps that extended deeply inside 
+ dentinal tubules ( fig .
+regarding to statistical analysis , the ordinal logistic regression analysis model was 
+ used due to microleakage was considered categorized ordinal response variable ( ranging 
+ from 0 - no leakage to 5 - leakage up to the fifth millimeter ) .
+the correspondence 
+ analysis is a method that leads to visualize the association between two categorical 
+ variables , in this case microleakage and the type of gap .
+the generalized linear model 
+ with poisson which is an extension of usual regression model was performed to quantify 
+ the distribution of types of gaps .
+this result could be explained by two hypotheses : ( 1 ) 
+ the low degree of conversion of the epiphany sealer and ( 2 ) the formation of hydrogel at the bond interface resulting 
+ from the incomplete evaporation of the epiphany primer solvent .
+the second hypothesis could also explain the inefficacy 
+ of epiphany primer in improving the sealing capacity of ah plus .
+moreover , there is a 
+ chemical incompatibility between these two materials , since the epoxy resin sealers do 
+ not copolymerize with methacrylate resin - based adhesives .
+other studies should be carried out to clarify the 
+ sealing ability of the root - filled materials studied .
+it may be concluded that none of the tested materials completely sealed the apical 5 mm . 
+
+the presence 
+ of gaps had an effect on apical microleakage for all materials . comparing the materials , 
+ epiphany system presented more regions containing gaps between the dentin and the sealer 
+ ( type 1 ) . in view of these findings ,
+clinically , it can be suggested that ah plus would 
+ provide a better apical seal .
+this study was partially supported by capes ( coordenao de 
+ aperfeioamento de pessoal de nvel superior)/institutional 
+ qualification program ( pqi n : 0090/03 - 4 ) .

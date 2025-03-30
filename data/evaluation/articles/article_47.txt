@@ -1,0 +1,68 @@
+urinary tract infection ( uti ) is a frequent cause of morbidity both in the community and in the hospital setting .
+the causative pathogen can vary greatly geographically , and so it is prudent to identify those with resistant strains and have current data on the appropriate empirical therapy within a region .
+the most frequently encountered organisms associated with utis include enteric gram - negative bacteria ( with escherichia coli being the most predominant ) , coagulase negative staphylococcus saprophyticus along with proteus mirabilis , klebsiella , and enterococcus , which account for less than 5% . however , recent studies have reported the increasing prevalence of staphylococcus aureus ( sa ) in utis .
+sa is an opportunistic pathogen affecting both immune competent and immunocompromised individuals , frequently resulting in significant morbidity
+. many strains of sa carry a wide variety of multidrug - resistant genes on plasmids , which aid the spread of resistance among species .
+methicillin - resistant sa ( mrsa ) is widespread in many irish hospitals and is increasingly seen in community health care units such as nursing homes .
+globally , it is considered that there has been an epidemic of mrsa within health care institutions . bacteriuria with sa is hypothesized to occur through a number of mechanisms that includes catheterization , urologic procedures , or seeding of the genitourinary tract  including nephrologically excreted bacteria in overt bacteremia .
+bacteremia itself is associated with bacteriuria in patients infected with sa , which suggests that bacteremia is an important precursor for bacteriuria in some patient groups .
+herein , we chronologically assessed the source , patient demographics , and antimicrobial susceptibilities of mrsa - positive isolates from the hospital and community setting over a 5-year period in university hospital waterford  a tertiary referral hospital with the primary microbiology laboratory for 4 acute hospitals , serving a total catchment area of almost 500,000 people .
+the microbiology laboratory in university hospital waterford processes all inpatient urines in the catchment area of almost 500,000 , excluding 2 small private elective inpatient institutions .
+it also processes all urine samples sent from the community ( i.e. , all samples from general practice and nursing homes ) and all specimens from the catchments emergency departments .
+laboratory diagnosis of mrsa bacteriuria was performed using accredited microbiological microscopy analysis with culture identification criteria and standardized susceptibility testing protocols .
+our laboratory utilized clinical and laboratory standards institute ( clsi ; 20102014 ) and european committee on antimicrobial susceptibility testing ( eucast ; 2014 ) methodologies .
+a retrospective data extraction was performed , from the hospital 's electronic microbiological system  cognos  and de - duplication was executed .
+we considered a  separate episode  as a urine specimen culturing mrsa at least 6 months following a previous positive culture .
+further urine specimens sent within a 6-month period following an initial laboratory diagnosis mrsa bacteriuria were excluded .
+resistance rates were then calculated for the pathogen 's susceptibility to 5 commonly used antimicrobial agents  ciprofloxacin , coamoxiclav , flucloxacillin , nitrofurantoin , and trimethoprim . for unwell patients ,
+that is , those in whom there was clinical suspicion of sepsis or invasive infection , teicoplanin and vancomycin were also tested for sensitivity profiling . in order to obtain further clinical information from our patient group , we also assessed those patients who had an mrsa - positive swab ( usually from groin , nose , or perineum ) , those who had documented mrsa bacteremia , and we analyzed their demographic details .
+ethical approval was waived for this retrospective observational study in light of its non - interventional nature .
+over a consecutive 5-year period , the laboratory cultured 425,013 urine samples from all sources , with a mean number of 85,003 specimens per year received ( table 1 ) .
+a total of 542 unique urine isolates cultured sa and 151 of species ( 27.9% ) were methicillin resistant , meaning that 0.04% of all urine samples tested cultured mrsa .
+number of urine cultures by year . of these 151 samples that tested positive for mrsa , 92 ( 61% ) were from mid - stream urine ( msu ) samples , 50 ( 33% ) from catheter specimen urine ( csu ) samples , and 9 ( 6% ) were from an unspecified source ( fig .
+csu  =  catheter specimen urine , mrsa  =  methicillin resistant staphylococcus aureus , msu  =  mid - stream urine .
+mrsa was slightly more common in msu samples ; however , the findings were not statistically significant ( 18.2% vs 13.9% , p  =  0.388 ) .
+forty - nine ( 32.5% ) specimens were from an inpatient cohort , 9 ( 6% ) were from the emergency department , 79 ( 52.3% ) from general practitioners , 12 ( 7.9% ) were from nursing homes , with 2 ( 1.3% ) from an unrecorded source ( fig .
+mrsa was seen in a similar proportion of inpatient and outpatient samples indicating that this is not solely a hospital - acquired phenomenon ( 29.1% vs 26.9% , p  =  0.587 ) .
+mrsa  =  methicillin resistant staphylococcus aureus . the mean age of our patients who cultured mrsa within their urine was 72.7 years ( range 10.9790.2 ) and most patients were aged between 70 and 90 years ( table 2 ) .
+patients who cultured an mrsa bacterium were older than patients with mssa , and this was statistically significant ( 53 vs 73 years , p    0.001 ) .
+the number of sa isolates grown over the 5-year study period doubled from 77 in 2010 to 161 in 2014 .
+the number of mrsa isolates had also increased ; however , the percentage of sa isolates that were methicillin resistant has decreased ( p  =  0.145 ) .
+this is true for both inpatient and outpatient samples ( p  =  0.313 , p  =  0.254 , figs .
+mrsa  =  methicillin resistant staphylococcus aureus , mssa  =  methicillin sensitive staphylococcus aureus , sa  =  staphylococcus aureus . inpatient trends in sa
+mrsa  =  methicillin resistant staphylococcus aureus , mssa  =  methicillin sensitive staphylococcus aureus , sa  =  staphylococcus aureus .
+mrsa  =  methicillin resistant staphylococcus aureus , mssa  =  methicillin sensitive staphylococcus aureus , sa  =  staphylococcus aureus .
+regarding the clinical stance of patients within the cohort , 9 patients ( 7% ) with mrsa - positive urine cultures had a documented history of mrsa bacteremia at that time .
+each of these patients cultured mrsa isolates that were sensitive to nitrofurantoin , and 8 of the 9 patients ( 88.9% ) were sensitive to trimethoprim .
+it was noted that all 9 patients in this cohort were aged 70 years or above ( p  =  0.079 ) , although this did not reach statistical significance .
+further antimicrobials agents were introduced to the testing panel in 59 ( 39% ) samples , where there was a clinical concern regarding invasive infection or sepsis  including the 9 patients with mrsa bacteremia . all 59 samples ( 100% ) were sensitive to both vancomycin and teicoplanin .
+eighty - eight ( 66.8% ) of our 128 patients cultured mrsa - positive isolates on routine swabs from either mucosal or skin sites .
+all 3 patients with resistance to nitrofurantoin in their urine had a positive swab from either groin or nose .
+eight of the 10 patients ( 80% ) who had trimethoprim - resistant mrsa bacteriuria and 87 of the 125 ( 69.6% ) of the ciprofloxacin - resistant mrsa bacteriuria also had mrsa - positive mucosal or skin swabs .
+there was no association between age and having an mrsa - positive swab in our cohort . throughout the study period
+, there was 100% resistance of all mrsa isolates to flucloxacillin and coamoxiclav , as expected .
+ninety - eight percent of isolates were resistant to ciprofloxacin , but of these samples , there was 97.2% sensitivity for nitrofurantoin and 92.4% sensitivity for trimethoprim ( fig .
+overall , there was only 2.7% resistance for nitrofurantoin , but all of these samples were sensitive to trimethoprim .
+trimethoprim itself had a 7.4% resistance level , but all of these samples were sensitive to nitrofurantoin , meaning that no sample was resistant to both oral agents , that is , nitrofurantoin and trimethoprim .
+there was a statistically significant association between nitrofurantoin resistance and younger patients , in that 75% of patients with nitrofurantoin resistance were younger than 70 years ( p  =  0.025 ) .
+there was no statistically significant association between age and resistance profile in any other of the antimicrobial panel .
+the impact of mrsa is considerable ; in ireland , approximately 40% to 50% of isolates sa recovered from bloodstream infections are methicillin resistant . despite available publications and guidelines on the management of mrsa skin - colonized patients ,
+little has been published on the colonization of urine from patients with indwelling urinary catheters .
+the identification of an mrsa isolate in a urine culture has important ramifications for patients , both in the community and in the hospital setting .
+a recent study demonstrated that 22% of patients with mrsa bacteriuria went on to develop invasive mrsa infection within 12 months .
+mrsa in urine clearly warrants treatment in symptomatic patients , but even in asymptomatic patients , it may require eradication before certain elective procedures  such as endourological surgery .
+it also has consequences for patients and health care providers when it comes to providing isolation and other barrier precautions that should be administered in a nosocomial setting .
+the european association of urology guidelines outlines that colonization with microorganisms is a special risk factor for urological procedures ( http://uroweb.org/guideline/urological-infections/ ) , and furthermore , that an indwelling catheter is one of the most important risk factors for complications .
+patients with asymptomatic bacteriuria who undergo traumatic genitourinary procedures associated with mucosal bleeding have a high rate of post - procedure bacteremia and sepsis .
+bacteremia occurs in up to 60% of bacteriuric patients who undergo transurethral prostatic resection , and sepsis is clinically confirmed in 6% to 10% of these patients .
+retrospective analysis and prospective , randomized clinical trials support the effectiveness of antimicrobial treatment in preventing these complications in bacteriuric men undergoing transurethral resection of the prostate .
+there is little information relevant to other genitourinary procedures , but any intervention with a high probability of mucosal bleeding should be considered as a risk for post - procedure sepsis  and treatment of mrsa bacteriuria should be considered .
+some studies have documented that eradication of asymptomatic bacteriuria is not required before nonurologic procedures , such as arthroplasty  but s. aureus is the most pathogenic of all staphylococci and this study did not include patients with mrsa bacteriuria .
+our study would suggest that when it comes to urine - colonizing mrsa eradication , or for treating a patient who is not critically unwell , oral therapy with nitrofurantoin or trimethoprim would be a suitable first - line agent , as none of the patients in our cohort were resistant to both trimethoprim and nitrofurantoin . in the unwell or septic patient , vancomycin or teicoplanin
+interestingly , less than one - third ( 32.5% ) of our mrsa urine samples came from hospital inpatient sources , implying that mrsa bacteriuria diagnosis is more frequently a community - based phenomenon .
+national recommendations dictate that hospital patients colonized with mrsa should be isolated in single rooms  and expert opinion would surmise that there is an increased risk of spread from mrsa - colonized catheterized patients  due to increased interventions and manipulations required from staff ( e.g. changing catheter drainage devices ) .
+however , within the community , these patients are not recommended to be isolated as would happen within the nosocomial environment and this could contribute to further bacterial spread
+. the limitations of our study include its retrospective nature  which meant that causation was not addressed , and not all key information was available to our research group .
+also , acting as a potential confounder is the fact that mrsa bacteriuria is not a common pathology 
+meaning we had only small number of urine isolates ( 167 from 106 patients ) despite the large sample size ( 425,013 ) . to this author 's knowledge
+, there are no prospective mrsa bacteriuria studies underway  and a supra - regional or national study of this type could provide further relevant data in this field .

@@ -45,7 +45,6 @@ docker-compose.override.yml
 .dockerignore
 
 # Datasets and model weights
-data/
 datasets/
 *.csv
 *.tsv

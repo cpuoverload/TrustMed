@@ -1,0 +1,51 @@
+neonatal diabetes mellitus ( ndm ) presenting within the first 6 months of life includes permanent neonatal diabetes mellitus ( pndm ) , which require lifelong therapy , and transient neonatal diabetes mellitus ( tndm ) where the condition shows remission during infancy but relapses in adolescence .
+almost all cases of neonatal diabetes have monogenic etiology in contrast to the autoimmune diabetes presenting in children beyond 6 months of age .
+pndm is associated with defects in pancreatic beta cell development and function . activating mutations in the kcnj11 gene , encoding the subunit kir6.2 , and abcc8 gene ,
+encoding the sulfonylurea receptor 1 ( sur1 ) of atp - sensitive potassium ( katp ) channel , which has a key role in insulin secretion in glucose metabolism , are the most common causes and account for approximately 40% of all cases of pndm12 ) .
+mutations in the glucokinase ( gck ) and insulin ( ins ) genes have also been reported in patients with pndm .
+sulfonylureas close the katp channel by an atp - independent route , leading to increase insulin secretion4 ) .
+therefore , in many patients with pndm with kir6.2 and sur1 mutations , insulin therapy can be replaced by oral sulfonylureas which offer more improvement in glycemic control and better quality of life35 ) .
+we report a case of pndm caused by a novel p.h186d heterozygous mutation in the kcnj11 gene whose treatment was successfully transitioned from insulin to oral sulfonylurea .
+her parents were unrelated , and her family was healthy and had no history of diabetes .
+laboratory results at diagnosis were : blood glucose , 1,041 mg / dl ; ph , 7.025 ; hco3 , 5.1
+mmol / l ; pco2 , 19.8 mmhg ; sodium , 147 mmol / l ; potassium , 5.6 mmol / l ; chloride , 113 mmol / l ; blood urea nitrogen , 31 mg / dl ; creatinine , 1.2 mg / dl ; urine ketone , + + + ; glycosylated hemoglobin ( hba1c ) , 7.7% ; and c - peptide , 0.2 ng / ml . after recovery from diabetic ketoacidosis , she had injections of neutral protamine hagedorn ( nph ) insulin two times a day and regular insulin ( ri ) four times a day .
+her maximal daily insulin dose was at 1.5 u / kg . her insulin requirement was gradually decreased to 0.44 u / kg / day by 4 months of age .
+although there were several hypoglycemic events , insulin injection for glucose control after the infancy period could not be stopped .
+genetic study for neonatal diabetes using genomic dna extracted from peripheral lymphocyte was done at 4.5 years of age , and a novel heterozygous mutation of the kcnj11 gene located on chromosome 11p15.1 and encoding kir6.2 , c.556c > g ( p.his186asp ) , was found ( fig .
+transition of treatment from insulin to sulfonylurea was attempted at the age of 4.8 . before the trial ,
+laboratory findings were as follows : hba1c , 6.9% ; fasting glucose , 205 mg / dl ; c - peptide , 0.84 ng / ml ; 24-hour urine c - peptide , 2.2 g ; negative for islet cell antibody ; anti - insulin antibody ; and anti - gad antibody .
+she was 103.2 cm in height ( 25th-50th percentile ) , 17 kg in weight ( 50th-75th percentile ) and did not have any specific neurological deficit .
+oral sulfonylurea ( glibenclamide ) was initiated at a dose of 0.1 mg / kg / day divided into two equal doses .
+the glibenclamide dose was gradually increased to 0.4 mg / kg / day over 1 week and the insulin was stopped .
+oral glucose tolerance test ( glucose , 1.75 g / kg ) was done at 6 months and 1 year after completion of the sulfonylurea transition .
+insulinogenic index [ insulin ( 30 min-0 min)/glucose ( 30 min-0 min ) ] , a marker of beta cell function , became increased from 0.10 to 0.18 , and acute c - peptide response [ c - peptide ( 30 min-0 min)1,000/glucose ( 30 min-0 min ) ] became increased from 6.48 to 8.29 ( table 1 ) .
+the patient is now 7.5 years of age with a height of 121.4 cm ( 50th percentile ) and weight of 23.4 kg ( 50th percentile ) .
+blood glucose was well controlled without episodes of hypoglycemia and the hba1c has been lower than during insulin injection ( fig .
+ndm is a monogenic form of diabetes that presents within the first 6 months of life .
+heterozygous activating mutations in the kcnj11 and abcc8 gene encoding the subunits kir6.2 and sur1 of katp channel in pancreatic beta cells are the most common and account for nearly half of all cases of pndm12 ) .
+mutations in the glucokinase ( gck ) , insulin ( ins ) genes have also been reported in patients with pndm .
+the causes of rare syndromic pndm includes recessive mutations in several genes , such as pdx1 , eif2ak3 , gck , ptf1a , foxp3 , neurog3 , neurod1 , rfx6 , ier3ip1 , hnf1b , glis3 , pax6 , slc19a2 , slc2a2 , and wfs167 ) . in tndm
+, imprinted locus at chromosome 6q24 seen in more than half of cases8 ) , and kcnj11 and abcc8 gene mutations are also found in some cases .
+glucose increases intracellular atp level and it induces the closure of katp channels that lead to insulin secretion by pancreatic beta cells . activating mutations in the kcnj11 or abcc8 gene of katp channel lead to katp channels remaining open despite the presence of glucose , thus , insulin secretion can not be increased1 ) . on the contrary , loss of function mutations cause congenital hyperinsulinemia due to the closure of the katp channel and lead to increased insulin secretion
+. sulfonylureas ( su ) can close the katp channel and increase insulin secretion4 ) .
+treatment response is not expected in patients with mutations in other genes , such as glucokinase gene , foxp3 , and ipf1 .
+therefore , molecular diagnosis in neonatal diabetes may help identify patients that are likely to respond to oral sulfonylureas .
+pearson et al.3 ) reported the responses to sulfonylurea according to mutation types in diabetic patients caused by kcnj11 mutation .
+there were no differences in blood insulin , c - peptide level , and insulin injection dose between the successful group and unsuccessful group .
+v59 m , r201c , f35v , h46y , r50q , g53r , r201l , e322k , y330s , f333i mutations also belong to the successful group .
+switching to su was unsuccessful in patients with q52r , i296l , and l164p mutations .
+in addition , failure of switching to su was more related with the presence of neurologic features ( 14% in successful group and 80% in unsuccessful group ) and older age at initiation of su .
+median age was 6 years old ( intraquartile range , 3 - 12 years ) in the successful group and 18 years old ( intraquartile range , 6 - 35 years ) in the unsuccessful group3 ) .
+the report about a mother and daughter carrying the same kcnj11 mutation showed that the daughter could be switched from insulin to su at age 8.5 years , but her mother had an imcomplete response9 ) .
+the trial of su switching in a poorly controlled diabetic 19 years old patient with r201h mutation , a mutation type expected to respond successfully , failed10 ) .
+these observations suggest that factors that can affect the success of switching to su include ; mutation type , severity of mutation , and duration of the diabetes .
+a long - standing diabetes may lead to islet beta cell exhaustion resulting in nonresponse to su9 ) .
+ndm caused by kcnj11 gene mutations is inherited in autosomal dominant pattern , but most of these cases result from new mutations without family history . the patient in this case has a novel mutation ( p.h186d ) in the kcnj11 gene and presented with a mild form of pndm .
+switching to su with an initial dose 0.4 mg / kg / day was successful at 4.8 years of age .
+oral glucose tolerance test in index patient showed improvement in insulin secretion during the treatment at 6 months and 12 months after the use of su .
+although she had hypoglycemia every 2 or 3 weeks and experienced a few episodes of hypoglycemia with mental change during insulin treatment , there was no more hypoglycemia after changing to su treatment . oral sulfonylurea therapy is both safe and better than insulin for metabolic control .
+reported side effects of oral su are transitory diarrhea and tooth discoloration in a few patients311 ) .
+mean hba1c was 8.1% in patients with insulin injection and 6.4% in patients with su therapy312 ) .
+chronic su treatment seems to develop no beta cell desensitisation in pndm patients with kcnj11 mutation13 ) .
+early su therapy at disease onset can permit insulin hypersensitivity and maintained basal insulin secretion , then provide long - term remission in animal subset14 ) . allowing for the potential beneficial effect on neurodevelopmental outcome and glycemic control , empiric tiral of su before genetic testing in neonatal diabetes patients can be considered15 ) . in conclusion , as the mutation type , severity of mutation , and duration of the diabetes are the major factors affecting the success of switching to su , early genetic analysis and trial of sulfonylurea is important in the management of neonatal diabetes .
+further studies looking at the result of su treatment and long term follow in pndm patients are needed .

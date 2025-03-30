@@ -1,0 +1,150 @@
+this in vitro study was conducted in the chemistry and biochemistry institute , university of veterinary medicine , vienna , austria between june and august 2013 in accordance with the guidelines of the european union council ( 86/609/eu ) for the use of laboratory animals .
+the work does not require approval from the ethics committee as it used mouse embryos under the fifteenth day of gestation .
+primary mesencephalic cell cultures were prepared from c57/b16 embryos according to radad et al.10 to summarize , embryonic mouse mesencephala were dissected on the fourteenth day of gestation and cut into small pieces in a drop of dulbecco s phosphate - buffered saline ( dpbs ) ( invitrogen , darmstadt , germany ) , 2 ml of 0.2% trypsin solution ( invitrogen , darmstadt , germany ) and 2 ml of 0.02% dnase i solution ( roche , berlin , germany ) were added and the tissue was subsequently incubated in a water bath at 37c for 7 minutes ( min ) .
+then , 2 ml of trypsin inhibitor ( 0.125mg / ml ) ( invitrogen , darmstadt , germany ) were added , the tissue was centrifuged at 100 g for 4 min and the supernatant was aspirated .
+the tissue pellet was triturated 2 - 3 times with a fire - polished pasteur pipette , each time 0.02% dnase i ( invitrogen , darmstadt , germany ) was included in the medium .
+dissociated cells were plated at a density of 257,000 cells / cm in dulbecco s modified eagle s medium ( dmem ) ( sigma aldrich , hamburg , germany ) supplemented with 4 mm glutamine , 10 mm 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid ( hepes ) buffer , 30 mm glucose , 100 iu / ml penicillin , 0.1 mg / ml streptomycin , and 10% heat - inactivated fetal calf serum ( sigma aldrich , hamburg , germany ) .
+the medium was exchanged on the first day in vitro ( div ) and on the third div . on the fifth div ,
+half of the medium was replaced by serum - free dmem containing 0.02 ml b-27/ml ( invitrogen , darmstadt , germany ) dmem .
+serum - free supplemented dmem was used for feeding from the sixth div , and subsequently replaced every second day . a stock solution of tq ( sigma aldrich , hamburg , germany ) ( 10 mm )
+four sets of cultures were treated as follows : the first set of cultures was treated with dmso and kept as untreated controls .
+the second set of cultures was treated with tq ( 0.01 , 0.1 , 1 , and 10 m ) on the eighth div for 4 consecutive days to investigate the effect of tq on the survival of dopaminergic neurons .
+the third set of cultures was treated with 10 m of mpp on the tenth div for 48 hours ( h ) .
+the fourth set of cultures was concomitantly treated with tq ( 0.01 , 0.1 , 1 , and 10  ) , and 10 m of mpp on the tenth div for 48 h. dopaminergic neurons were identified immunocytochemically by staining tyrosine hydroxylase .
+cultures were rinsed carefully with phosphate buffered saline ( pbs , ph 7.2 ) at the end of each treatment and fixed in 4% paraformaldehyde for 45 min at 4c . after washing with pbs , cells were permeabilized with 0.4% triton x-100 for 30 min at room temperature .
+cultures were washed 3 times with pbs and incubated with 5% horse serum ( vectastain abc elite kit , biozol diagnostica vertrieb gmbh , eching , germany ) for 90 min to block nonspecific binding sites . to determine the number of thir in cultures
+, cells were sequentially incubated with anti - th primary antibody overnight at 4c , biotinylated secondary antibody ( vectastain ) , and avidin - biotin - horseradish peroxidase complex ( vectastain ) for 90 min at room temperature and washed with pbs between stages .
+the reaction product was developed in a solution of diaminobenzidine ( 1.4 mm ) in pbs containing 3.3 mm hydrogen peroxide and stained cells were counted with a nikon inverted microscope in 10 randomly selected fields per well at 10x magnification .
+cellular injury was quantitatively assessed by measuring the activity of lactate dehydrogenase ( ldh ) released from damaged cells into the culture medium .
+the reaction was initiated by mixing 0.2 ml of cell - free supernatant ( diluted 1:1 with aqua dest . ) with potassium phosphate buffer containing  - nicotinamide adenine dinucleotide ( nadh ) and sodium pyruvate ( 0.18 and 0.62 mm in potassium phosphate buffer ) in a final volume of 0.5 ml in 1 ml cuvettes .
+the decrease of nadh was spectrophotometrically ( novaspec ii , ge healthcare europe gmbh , freiburg , germany ) monitored .
+the ldh activity was calculated from the slope of the decrease in optical density at 334 nm over a 3 min - time period .
+the ldh release is proportional to the number of damaged or destroyed cells.11,12 lysotracker deep red ( life technologies , invitrogen , grand island , ny , usa ) is a red fluorescence dye used for labeling acidic organelles in live cells including autophagolysosomes .
+cultures were treated with 1 m of tq ( a concentration that significantly protected dopaminergic neurons in mpp - treated cultures ) on the eighth div and co - administered with mpp ( 10 m ) on the tenth div for 2 days . on the twelfth div ,
+culture medium was aspirated and cultured cells were incubated with a new medium containing 100 nm lysotracker deep red fluorescence dye ( life technologies , invitrogen , grand island , ny , usa ) for 15 - 30 min at 37c . after washing with dpbs
+, cultured cells were photographed on a nikon inverted microscope equipped with epifluorescence attachment using a rhodamine filter set ( 580/590 , g-2a ) and a coolpix 990 digital camera ( nikon , otawara , japan ) .
+5,5,6,6-tetrachloro-1,1,3,3-tetraethylbenzimidazolyl - carbocyanine ( jc-1 ) is a lipophilic cationic dye that selectively enters into mitochondria . in healthy cells with high mitochondrial membrane potential ( m )
+the dye remains in the monomeric from with green fluorescence in case of apoptotic or damaged cells .
+the jc-1 red : green ratio is used to estimate changes in m.13 the jc-1 was dissolved in dmso and further diluted in dmem ( 10 g / ml final concentration ) .
+after removal of the culture medium , cells were loaded with jc-1 for 15 min at 37c , rinsed twice with pbs , and photographed on a nikon inverted microscope equipped with epifluorescence attachment using a rhodamine filter set ( 520 dm/520 ba , b-2a ) and a coolpix 990 digital camera ( nikon , otawara , japan ) .
+fluorescence intensity of the red : green ratio was determined semi quantitively by using adobe photoshop software .
+cells were fixed with 4% paraformaldehyde for 45 min at 4c . after washing with pbs ( ph 7.2 ) ,
+the dapi solution ( 2 m final concentration ) was added to the cultures at room temperature for 5 min in the dark .
+after washing with dpbs , 3 photos were taken randomly from each well with a coolpix 990 digital camera connected to an inverted microscope with epifluorescence attachment using an ultraviolet filter ( nikon , otawara , japan ) .
+nuclei with condensed and fragmented chromatin were counted when the photos were analyzed with adobe photoshop software .
+data was obtained from 12 wells ( from 2 repeats ) for each treatment condition .
+comparisons were made using anova and post - hoc duncan s test using the statistical analysis system program 1998 ( sas institute inc . ,
+this in vitro study was conducted in the chemistry and biochemistry institute , university of veterinary medicine , vienna , austria between june and august 2013 in accordance with the guidelines of the european union council ( 86/609/eu ) for the use of laboratory animals .
+the work does not require approval from the ethics committee as it used mouse embryos under the fifteenth day of gestation .
+primary mesencephalic cell cultures were prepared from c57/b16 embryos according to radad et al.10 to summarize , embryonic mouse mesencephala were dissected on the fourteenth day of gestation and cut into small pieces in a drop of dulbecco s phosphate - buffered saline ( dpbs ) ( invitrogen , darmstadt , germany ) , 2 ml of 0.2% trypsin solution ( invitrogen , darmstadt , germany ) and 2 ml of 0.02% dnase i solution ( roche , berlin , germany ) were added and the tissue was subsequently incubated in a water bath at 37c for 7 minutes ( min ) .
+then , 2 ml of trypsin inhibitor ( 0.125mg / ml ) ( invitrogen , darmstadt , germany ) were added , the tissue was centrifuged at 100 g for 4 min and the supernatant was aspirated .
+the tissue pellet was triturated 2 - 3 times with a fire - polished pasteur pipette , each time 0.02% dnase i ( invitrogen , darmstadt , germany ) was included in the medium .
+dissociated cells were plated at a density of 257,000 cells / cm in dulbecco s modified eagle s medium ( dmem ) ( sigma aldrich , hamburg , germany ) supplemented with 4 mm glutamine , 10 mm 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid ( hepes ) buffer , 30 mm glucose , 100 iu / ml penicillin , 0.1 mg / ml streptomycin , and 10% heat - inactivated fetal calf serum ( sigma aldrich , hamburg , germany ) .
+the medium was exchanged on the first day in vitro ( div ) and on the third div . on the fifth div ,
+half of the medium was replaced by serum - free dmem containing 0.02 ml b-27/ml ( invitrogen , darmstadt , germany ) dmem .
+serum - free supplemented dmem was used for feeding from the sixth div , and subsequently replaced every second day .
+a stock solution of tq ( sigma aldrich , hamburg , germany ) ( 10 mm ) was prepared in dimethyl sulfoxide ( dmso ) .
+four sets of cultures were treated as follows : the first set of cultures was treated with dmso and kept as untreated controls .
+the second set of cultures was treated with tq ( 0.01 , 0.1 , 1 , and 10 m ) on the eighth div for 4 consecutive days to investigate the effect of tq on the survival of dopaminergic neurons .
+the third set of cultures was treated with 10 m of mpp on the tenth div for 48 hours ( h ) .
+the fourth set of cultures was concomitantly treated with tq ( 0.01 , 0.1 , 1 , and 10  ) , and 10 m of mpp on the tenth div for 48 h.
+cultures were rinsed carefully with phosphate buffered saline ( pbs , ph 7.2 ) at the end of each treatment and fixed in 4% paraformaldehyde for 45 min at 4c . after washing with pbs , cells were permeabilized with 0.4% triton x-100 for 30 min at room temperature .
+cultures were washed 3 times with pbs and incubated with 5% horse serum ( vectastain abc elite kit , biozol diagnostica vertrieb gmbh , eching , germany ) for 90 min to block nonspecific binding sites . to determine the number of thir in cultures
+, cells were sequentially incubated with anti - th primary antibody overnight at 4c , biotinylated secondary antibody ( vectastain ) , and avidin - biotin - horseradish peroxidase complex ( vectastain ) for 90 min at room temperature and washed with pbs between stages .
+the reaction product was developed in a solution of diaminobenzidine ( 1.4 mm ) in pbs containing 3.3 mm hydrogen peroxide and stained cells were counted with a nikon inverted microscope in 10 randomly selected fields per well at 10x magnification .
+cellular injury was quantitatively assessed by measuring the activity of lactate dehydrogenase ( ldh ) released from damaged cells into the culture medium .
+the reaction was initiated by mixing 0.2 ml of cell - free supernatant ( diluted 1:1 with aqua dest . ) with potassium phosphate buffer containing  - nicotinamide adenine dinucleotide ( nadh ) and sodium pyruvate ( 0.18 and 0.62 mm in potassium phosphate buffer ) in a final volume of 0.5 ml in 1 ml cuvettes .
+the decrease of nadh was spectrophotometrically ( novaspec ii , ge healthcare europe gmbh , freiburg , germany ) monitored .
+the ldh activity was calculated from the slope of the decrease in optical density at 334 nm over a 3 min - time period .
+lysotracker deep red ( life technologies , invitrogen , grand island , ny , usa ) is a red fluorescence dye used for labeling acidic organelles in live cells including autophagolysosomes .
+cultures were treated with 1 m of tq ( a concentration that significantly protected dopaminergic neurons in mpp - treated cultures ) on the eighth div and co - administered with mpp ( 10 m ) on the tenth div for 2 days . on the twelfth div ,
+culture medium was aspirated and cultured cells were incubated with a new medium containing 100 nm lysotracker deep red fluorescence dye ( life technologies , invitrogen , grand island , ny , usa ) for 15 - 30 min at 37c . after washing with dpbs ,
+cultured cells were photographed on a nikon inverted microscope equipped with epifluorescence attachment using a rhodamine filter set ( 580/590 , g-2a ) and a coolpix 990 digital camera ( nikon , otawara , japan ) .
+5,5,6,6-tetrachloro-1,1,3,3-tetraethylbenzimidazolyl - carbocyanine ( jc-1 ) is a lipophilic cationic dye that selectively enters into mitochondria . in healthy cells with high mitochondrial membrane potential ( m )
+the dye remains in the monomeric from with green fluorescence in case of apoptotic or damaged cells .
+the jc-1 red : green ratio is used to estimate changes in m.13 the jc-1 was dissolved in dmso and further diluted in dmem ( 10 g / ml final concentration ) .
+after removal of the culture medium , cells were loaded with jc-1 for 15 min at 37c , rinsed twice with pbs , and photographed on a nikon inverted microscope equipped with epifluorescence attachment using a rhodamine filter set ( 520 dm/520 ba , b-2a ) and a coolpix 990 digital camera ( nikon , otawara , japan ) .
+fluorescence intensity of the red : green ratio was determined semi quantitively by using adobe photoshop software .
+cells were fixed with 4% paraformaldehyde for 45 min at 4c . after washing with pbs ( ph 7.2 ) ,
+the dapi solution ( 2 m final concentration ) was added to the cultures at room temperature for 5 min in the dark . after washing with dpbs
+, 3 photos were taken randomly from each well with a coolpix 990 digital camera connected to an inverted microscope with epifluorescence attachment using an ultraviolet filter ( nikon , otawara , japan ) .
+nuclei with condensed and fragmented chromatin were counted when the photos were analyzed with adobe photoshop software .
+data was obtained from 12 wells ( from 2 repeats ) for each treatment condition .
+comparisons were made using anova and post - hoc duncan s test using the statistical analysis system program 1998 ( sas institute inc . ,
+treatment of cultures with tq ( 0.01 , 0.1 , 1 , and 10 m ) on the eighth div for 4 consecutive days produced no significant effects on either the survival rate or the morphology of thir neurons ( data not shown ) .
+treatment of cultures with mpp ( 10 m on the eighth div for 48 h ) decreased the number of dopaminergic neurons by around 40% compared with untreated control cultures ( figure 1a ) .
+surviving neurons after mpp treatment showed fewer , shortened , and thickened neurites ( figure 1b ) .
+co - treatment of cultures with tq ( on the eighth div for 4 days ) and mpp ( 10 m on the tenth div for 48 h ) prevented dopaminergic cell loss by around 25% at 0.1 and 1 m ( figure 1a ) , and improved the morphology of surviving neurons compared to mpp - treated cultures ( figure 1b ) .
+anti - th immunohistochemical staining of cultured cells showing : a ) survival of dopaminergic neurons in primary mesencephalic cell cultures .
+100% corresponds to the total number of thir neurons after 12 div in untreated controls .
+values represent the meansem of 3 independent experiments with 4 wells in each treatment . in each well , 10 randomly selected fields were counted for th immunocytochemistry ( # p=0.001 , * p=0.008 , + p=0.009 ) .
+the mpp - treated cultures showed thir neurons with few , shortened and thickened neuritis ( arrows ) .
+treatment with tq improves the morphology of thir neurons compared to mpp - treated cultures .
+th - tryosine hydrolase , thir - tyrosine hydroxylase immunoreactive , div - day in vitro , sem - standard error of mean , mpp - 1-methyl-4-phenylpyridinium , tq - thymoquinone the tq attenuated mpp - induced ldh increase in primary mesencephalic cell culture .
+the mpp ( 10 m from the tenth to twelfth div ) increased ldh release in the culture medium by 145% compared with untreated cultures ( figure 2 ) .
+the tq significantly decreased ldh release in the culture medium by around 70% at 0.1 and 0.1 m concentrations compared with mpp - treated cultures ( figure 2 ) .
+div - day in vitro , sem - standard error of mean , mpp - 1-methyl-4-phenylpyridinium , tq - thymoquinone the tq increased lysotracker deep red fluorescence and the red : green fluorescence ratio of jc-1 , and decreased mpp - induced apoptotic cell death in primary mesencephalic cell culture .
+lysotracker deep red fluorescent intensity increased 3 folds ( 682% ) in the cultures co - treated with tq and mpp compared with the cultures treated with mpp alone ( 222% ) ( figure 3a ) . in parallel , cultures co - treated with mpp and tq showed higher red fluorescence than the cultures treated with mpp alone ( figure 3b ) .
+lysotracker deep red fluorescence staining of cultured cells showing : a ) lysotracker deep red fluorescence intensity in primary mesencephalic cell cultures .
+100% corresponds to the density of lysotracker deep red in primary mesencephalic cell cultures after 12 div .
+fluorescence intensity was determined densitometrically from 12 randomly selected micrographs in each experiment ( 3 photos from each well ) .
+( # p=0.05 , * p=0.0001 ) b ) representative micrographs showing that treatment of cultures with tq increased lysotracker deep red fluorescence intensity compared with mpp - treated cultures .
+div - day in vitro , sem - standard error of mean , tq - thymoquinone , mpp - 1-methyl-4-phenylpyridinium treatment of cultures with mpp ( 10 m on the tenth div for 48 h ) caused dissipation of m .
+cultures treated with mpp showed a significant decrease in red : green fluorescence ratio of jc-1 by around 17% compared with untreated controls ( figure 4a ) . however , co - treatment of mpp - treated cultures with 1 m tq from the eighth - twelfth div significantly increased m as it increased the red : green fluorescence ratio of jc-1 by around 24% compared with mpp - treated cultures ( figure 4a ) .
+as shown in figure 4b , mpp - treated cultures co - administered with tq displayed much higher red fluorescence than the cultures treated with mpp alone .
+5,5,6,6-tetrachloro-1,1,3,3-tetraethylbenzimidazolyl - carbocyanine ( jc-1 ) fluorescence staining of cultured cells showing : a ) red : green fluorescence ratio of jc-1 in primary mesencephalic cell cultures .
+100% corresponds to the red : green fluorescence ratio of jc-1 in primary mesencephalic cell cultures after 12 div .
+red : green fluorescence ratio of jc-1 was determined densitometrically from 12 randomly selected micrographs in each experiment ( 3 photos from each well ) .
+( # p=0.0001 , * p=0.0001 ) b ) representative micrographs showing that treatment of cultures with tq increased red fluorescence compared to mpp+-treated cultures which exhibits marked green fluorescence .
+tq - thymoquinone , mpp - 1-methyl-4-phenylpyridinium staining of cultured cells with the nuclear fluorescence dye , dapi revealed that mpp ( 10 m on the tenth div for 48 h ) increased the number of nuclei showing apoptotic features by 139% compared with untreated cultures ( figure 5a ) .
+against mpp , tq was shown to decrease the number of apoptotic nuclei by around 100% compared with mpp - treated cultures ( figure 5a ) .
+4,6-diamidino-2-phenylindole fluorescence staining of cultured cells showing : a ) number of nuclei showing apoptotic features with condensed and fragmented chromatin in primary mesencephalic cell cultures .
+100% corresponds to the number of apoptotic nuclei in untreated control cultures after 12 div .
+( # p=0.0001 , * p=0.0001 ) b ) representative micrographs showing that treatment of cultures with tq decreased the number of apoptotic nuclei compared to mpp - treated cultures .
+tq - thymoquinone , mpp - 1-methyl-4-phenylpyridinium summary of the neuroprotective effect of tq against mpp treatment in primary mesencephalic cell culture .
+treatment of cultures with tq ( 0.01 , 0.1 , 1 , and 10 m ) on the eighth div for 4 consecutive days produced no significant effects on either the survival rate or the morphology of thir neurons ( data not shown ) .
+treatment of cultures with mpp ( 10 m on the eighth div for 48 h ) decreased the number of dopaminergic neurons by around 40% compared with untreated control cultures ( figure 1a ) .
+surviving neurons after mpp treatment showed fewer , shortened , and thickened neurites ( figure 1b ) .
+co - treatment of cultures with tq ( on the eighth div for 4 days ) and mpp ( 10 m on the tenth div for 48 h ) prevented dopaminergic cell loss by around 25% at 0.1 and 1 m ( figure 1a ) , and improved the morphology of surviving neurons compared to mpp - treated cultures ( figure 1b ) .
+anti - th immunohistochemical staining of cultured cells showing : a ) survival of dopaminergic neurons in primary mesencephalic cell cultures .
+100% corresponds to the total number of thir neurons after 12 div in untreated controls .
+values represent the meansem of 3 independent experiments with 4 wells in each treatment . in each well , 10 randomly selected fields were counted for th immunocytochemistry ( # p=0.001 , * p=0.008 , + p=0.009 ) .
+the mpp - treated cultures showed thir neurons with few , shortened and thickened neuritis ( arrows ) .
+treatment with tq improves the morphology of thir neurons compared to mpp - treated cultures .
+th - tryosine hydrolase , thir - tyrosine hydroxylase immunoreactive , div - day in vitro , sem - standard error of mean , mpp - 1-methyl-4-phenylpyridinium , tq - thymoquinone the tq attenuated mpp - induced ldh increase in primary mesencephalic cell culture .
+the mpp ( 10 m from the tenth to twelfth div ) increased ldh release in the culture medium by 145% compared with untreated cultures ( figure 2 ) .
+the tq significantly decreased ldh release in the culture medium by around 70% at 0.1 and 0.1 m concentrations compared with mpp - treated cultures ( figure 2 ) .
+div - day in vitro , sem - standard error of mean , mpp - 1-methyl-4-phenylpyridinium , tq - thymoquinone the tq increased lysotracker deep red fluorescence and the red : green fluorescence ratio of jc-1 , and decreased mpp - induced apoptotic cell death in primary mesencephalic cell culture .
+lysotracker deep red fluorescent intensity increased 3 folds ( 682% ) in the cultures co - treated with tq and mpp compared with the cultures treated with mpp alone ( 222% ) ( figure 3a ) . in parallel , cultures co - treated with mpp and tq showed higher red fluorescence than the cultures treated with mpp alone ( figure 3b ) .
+lysotracker deep red fluorescence staining of cultured cells showing : a ) lysotracker deep red fluorescence intensity in primary mesencephalic cell cultures .
+100% corresponds to the density of lysotracker deep red in primary mesencephalic cell cultures after 12 div .
+fluorescence intensity was determined densitometrically from 12 randomly selected micrographs in each experiment ( 3 photos from each well ) .
+( # p=0.05 , * p=0.0001 ) b ) representative micrographs showing that treatment of cultures with tq increased lysotracker deep red fluorescence intensity compared with mpp - treated cultures .
+div - day in vitro , sem - standard error of mean , tq - thymoquinone , mpp - 1-methyl-4-phenylpyridinium treatment of cultures with mpp ( 10 m on the tenth div for 48 h ) caused dissipation of m .
+cultures treated with mpp showed a significant decrease in red : green fluorescence ratio of jc-1 by around 17% compared with untreated controls ( figure 4a ) . however , co - treatment of mpp - treated cultures with 1 m tq from the eighth - twelfth div significantly increased m as it increased the red : green fluorescence ratio of jc-1 by around 24% compared with mpp - treated cultures ( figure 4a ) .
+as shown in figure 4b , mpp - treated cultures co - administered with tq displayed much higher red fluorescence than the cultures treated with mpp alone .
+5,5,6,6-tetrachloro-1,1,3,3-tetraethylbenzimidazolyl - carbocyanine ( jc-1 ) fluorescence staining of cultured cells showing : a ) red : green fluorescence ratio of jc-1 in primary mesencephalic cell cultures .
+100% corresponds to the red : green fluorescence ratio of jc-1 in primary mesencephalic cell cultures after 12 div .
+red : green fluorescence ratio of jc-1 was determined densitometrically from 12 randomly selected micrographs in each experiment ( 3 photos from each well ) .
+( # p=0.0001 , * p=0.0001 ) b ) representative micrographs showing that treatment of cultures with tq increased red fluorescence compared to mpp+-treated cultures which exhibits marked green fluorescence .
+tq - thymoquinone , mpp - 1-methyl-4-phenylpyridinium staining of cultured cells with the nuclear fluorescence dye , dapi revealed that mpp ( 10 m on the tenth div for 48 h ) increased the number of nuclei showing apoptotic features by 139% compared with untreated cultures ( figure 5a ) .
+against mpp , tq was shown to decrease the number of apoptotic nuclei by around 100% compared with mpp - treated cultures ( figure 5a ) .
+4,6-diamidino-2-phenylindole fluorescence staining of cultured cells showing : a ) number of nuclei showing apoptotic features with condensed and fragmented chromatin in primary mesencephalic cell cultures .
+100% corresponds to the number of apoptotic nuclei in untreated control cultures after 12 div .
+( # p=0.0001 , * p=0.0001 ) b ) representative micrographs showing that treatment of cultures with tq decreased the number of apoptotic nuclei compared to mpp - treated cultures .
+tq - thymoquinone , mpp - 1-methyl-4-phenylpyridinium summary of the neuroprotective effect of tq against mpp treatment in primary mesencephalic cell culture .
+in the present study , tq was investigated to ascertain whether it protected mesencephalic dopaminergic neurons against mpp - induced cell death through activation of enzymatic degradation , preservation of mitochondrial function , and inhibition of apoptotic cell death .
+clearly , mpp was found to significantly decrease the survival of dopaminergic neurons and increase the release of ldh into the culture medium .
+the mpp toxicity involves its selective uptake by dopaminergic neurons through the dopamine transporter and inhibition of mitochondrial complex i activity with subsequent mitochondrial depolarization.14 in parallel , the use of jc-1 fluorescence dye in our current study showed that mpp significantly decreased the m of cultured cells as indicated by the decreasing red : green fluorescence ratio of jc-1 .
+similar mpp - induced reduction of m was reported in other in vitro disease models.15,16 mitochondrial damage has long been implicated in the death of nigrostriatal dopaminergic neurons in both pd patients and experimental models.17,18 staining of primary dopaminergic cultures with blue - fluorescent dapi nucleic acid stain showed that a significant number of the cells displayed features of apoptosis , most notably chromatin condensation , and fragmentation .
+previously , tang et al19 and xu et al16 demonstrated that mpp caused apoptotic cell death in pc12 and sh - sy5y cells .
+the mpp - induced apoptosis was reported to occur as the result of disruption of mitochondrial transmembrane potential and opening of the permeability transition pore.20 similar to our previous report,9 co - treatment of primary mesencephalic cell cultures with tq and mpp was found to protect dopaminergic neurons and decreased the release of ldh into the culture medium . since that time , no evidence in the literature has shown how tq protected dopaminergic neurons in the primary mesencephalic cell culture .
+staining of cultures with lysotracker deep red showed that tq significantly increased the red fluorescence of the dye compared with mpp - treated cultures , indicating enhancement of the formation of many autophagolysosomes , the sites of lysosomal degradation , by tq .
+this is supported by the findings of he and klionsky21 who correlated the fluorescent signals of lysotracker deep red to the upregulation of autophagy in zebrafish . increased red fluorescence of lysotracker deep red
+is attributed to the formation of many autophagosomes and autophagolysosomes that retain much dye as the result of increasing their acidification . using jc-1 fluorescent dye showed that tq significantly enhanced m as it increased the red : green fluorescence ratio of jc-1 compared with mpp - treated cultures .
+the tq was similarly found to protect rat cortical neurons against ethanol- and a1 - 42-induced neurotoxicity through inhibition of mitochondrial membrane depolarization.22,23 counting of apoptotic nuclei using blue - fluorescent dapi nucleic acid stain indicated that tq decreased mpp - induced apoptotic cell death in primary mesencephalic cell cultures . in accordance ,
+ullah et al22 reported that tq inhibited apoptotic cell death in ethanol - treated rat cortical neurons and attributed this effect of tq to the preservation of mitochondrial integrity .
+zhang et al24 reported that mitochondrial clearance protected cultured cortical neurons against ischemia - reperfusion - induced cell damage . in conclusion , correlating such results would therefore suggest that tq might activate a lysosomal degradative process in dopaminergic neurons , where clearance of damaged mitochondria results in reduced mitochondria - mediated apoptotic cell death .
+this might raise the possibility of using tq as a potentially therapeutic intervention in pd patients .
+whenever a manuscript contains material ( tables , figures , etc . ) which is protected by copyright ( previously published ) , it is the obligation of the author to obtain written permission from the holder of the copyright ( usually the publisher ) to reproduce the material in neurosciences .
+please submit copies of the material from the source in which it was first published .

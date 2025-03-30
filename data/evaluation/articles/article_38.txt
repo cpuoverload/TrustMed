@@ -1,0 +1,75 @@
+the study of long bones and the cells of the bone marrow is central to a myriad of research disciplines , including , but not limited to , bone biology , cancer biology , immunology , hematology , and biomechanics .
+the bone is a highly dynamic organ that together with the cartilage forms the skeleton to provide mechanical support against loading and protection of the internal organs .
+in addition , the mineral components of bone are a storage sink for the critical signaling molecules calcium and phosphorus , as well as other factors .
+finally , bones house the bone marrow and , together with metabolically active bone forming osteoblasts and bone resorbing osteoclasts , provide the stem cell niche necessary for the maintenance of hematopoietic and lymphoid cell populations .
+bone and bone marrow are affected in many disorders , often leading to bone marrow dysfunction , severe bone pain , and pathologic fracture .
+bone is a common site of metastasis in many solid tumors , most notably breast cancer and prostate cancer , where tumor cells directly engage the bone marrow niche to initiate the vicious cycle of bone metastasis and displace hematopoietic stem cells .
+hematopoietic malignancies including myeloma and leukemia are characterized by bone marrow dysfunction as well as deregulation of healthy bone remodeling .
+other non - malignant skeletal disorders are also active areas of research , such as osteoarthritis , osteoporosis , scoliosis , and rickets . even in an otherwise healthy individual , biomechanical failure in a bone
+all of these disorders represent active areas of research with the goal of identifying new preventative measures and treatment regimens to reduce morbidity and mortality . to research the plethora of roles of the bone and the bone marrow , both under physiologic and pathologic conditions
+, it is critical for researchers to have a simple and efficient standardized method for dissection of the mouse long bones for rapid processing of large in vivo experiments .
+the dissection protocol outlined here is suitable for all long bone analyses including ex vivo imaging , histology , histomorphometry , and strength testing , among others .
+similarly , a standardized bone marrow isolation method with high bone marrow cell recovery and low inter - user variability is important for experimental analysis such as fluorescence - activated cell sorting ( facs ) or quantitative pcr ( qpcr ) as well as downstream applications such as primary cell culture of bone marrow cells .
+all animal work was approved by the institutional animal care and use committee in accordance with the recommendations outlined in the guide for the care and use of laboratory animals of the national institutes of health .
+position the mouse in a supine position and affix by pinning all four legs through the mouse paw pads below the ankle joint . spray the mouse with 70% ethanol , thoroughly dousing the legs . make a small incision to the right of midline in the lower abdomen , just above the hip .
+pull back the skin and cut the quadriceps muscle anchored to proximal end of the femur to expose the anterior side of the femur and pin out from the leg , placing the pin at a 45-degree angle from the board . with the blade of the scissors against the posterior side of the femur , cut the hamstrings away from the knee joint . pull back the skin and the hamstring muscles anchored to proximal end of the femur to expose the posterior side of the femur and pin out from the leg , placing the pin at a 45-degree angle from the board . with the forceps , hold the distal end of the femur , just above the knee joint . guide the blades of the scissors on either side of the femoral shaft towards the hip joint , being careful not to cut into the femur itself . after reaching the femoral head , indicated by the scissors opening slightly ,
+twist the scissors with the top blade of the scissors moving directly over the femoral head to dislocate the femur , being careful not to snap the bone below the femoral head .
+grasp the top of the femoral shaft with the forceps , cut the soft tissue away from the femoral head to release it from the acetabulum .
+pull the entire leg bone , including femur , knee , and tibia , up and away from the body , carefully cutting away the connective tissue and muscle connecting the leg to the skin .
+overextend the ankle joint and again use the scissors in a twisting motion to dislocate the tibia . grasping the distal end of the tibia , taking care not to sever the tendons , pull the tibia up and away from the body and the pin board .
+cut any remaining connective tissue attaching the long bone to the mouse at the knee . remove any additional muscle or connective tissue attached to the femur and the tibia .
+for any applications that require the bone to remain intact ( histology , histomorphometry , biomechanical testing , etc . ) , proceed with standard in - house protocols ( as in ) . to isolate bone marrow , proceed to section 2 . using the forceps ,
+grasp the femur with the patella facing away and the proximal end ( femoral head ) down .
+overextend the knee joint and use the scissors in a twisting motion to dislocate the tibia and femur .
+grasp the femur with the anterior side facing away and the proximal end ( femoral head end ) down .
+rotate the scissors back and forth to remove the condyles , the patella , and the epiphysis to expose the metaphysis .
+remove any additional muscle or connective tissue attached to the femur using forceps , scissors , and kimwipes . using the forceps ,
+grasp the tibia with the anterior side facing away and the distal end ( ankle end ) down .
+if the tibial epiphysis is intact , guide the scissors up the tibia shaft to the condyles . gently rotate the scissors back and forth to remove the condyles and epiphysis to expose the metaphysis .
+remove any additional muscle or connective tissue attached to the tibia using forceps , scissors , and kimwipes .
+push an 18 g needle through the bottom of a 0.5 ml  microcentrifuge tube . place the long bones ( maximum of 2 femurs and 2 tibiae ) into the tube , knee - end
+verify that the bone marrow has been spun out of the bones by visual inspection .
+the bones should appear white and there should be a large visual pellet in the larger tube .
+suspend the bone marrow in appropriate solution ( e.g. , pbs , culture media , facs buffer ) and proceed with experimental protocol ( dna , rna , or protein isolation , facs analysis , or primary cell culture ) .
+euthanize the mouse in accordance with institutional guidelines . position the mouse in a supine position and affix by pinning all four legs through the mouse paw pads below the ankle joint . spray the mouse with 70% ethanol , thoroughly dousing the legs . make a small incision to the right of midline in the lower abdomen , just above the hip .
+pull back the skin and cut the quadriceps muscle anchored to proximal end of the femur to expose the anterior side of the femur and pin out from the leg , placing the pin at a 45-degree angle from the board . with the blade of the scissors against the posterior side of the femur , cut the hamstrings away from the knee joint .
+pull back the skin and the hamstring muscles anchored to proximal end of the femur to expose the posterior side of the femur and pin out from the leg , placing the pin at a 45-degree angle from the board . with the forceps , hold the distal end of the femur , just above the knee joint .
+guide the blades of the scissors on either side of the femoral shaft towards the hip joint , being careful not to cut into the femur itself . after reaching the femoral head , indicated by the scissors opening slightly ,
+twist the scissors with the top blade of the scissors moving directly over the femoral head to dislocate the femur , being careful not to snap the bone below the femoral head . grasp the top of the femoral shaft with the forceps , cut the soft tissue away from the femoral head to release it from the acetabulum . pull the entire leg bone , including femur , knee , and tibia , up and away from the body , carefully cutting away the connective tissue and muscle connecting the leg to the skin .
+overextend the ankle joint and again use the scissors in a twisting motion to dislocate the tibia . grasping the distal end of the tibia , taking care not to sever the tendons , pull the tibia up and away from the body and the pin board .
+cut any remaining connective tissue attaching the long bone to the mouse at the knee . remove any additional muscle or connective tissue attached to the femur and the tibia .
+for any applications that require the bone to remain intact ( histology , histomorphometry , biomechanical testing , etc . ) , proceed with standard in - house protocols ( as in ) . to isolate bone marrow , proceed to section 2 .
+using the forceps , grasp the femur with the patella facing away and the proximal end ( femoral head ) down .
+overextend the knee joint and use the scissors in a twisting motion to dislocate the tibia and femur .
+grasp the femur with the anterior side facing away and the proximal end ( femoral head end ) down .
+rotate the scissors back and forth to remove the condyles , the patella , and the epiphysis to expose the metaphysis .
+remove any additional muscle or connective tissue attached to the femur using forceps , scissors , and kimwipes . using the forceps ,
+grasp the tibia with the anterior side facing away and the distal end ( ankle end ) down .
+if the tibial epiphysis is intact , guide the scissors up the tibia shaft to the condyles . gently
+rotate the scissors back and forth to remove the condyles and epiphysis to expose the metaphysis .
+remove any additional muscle or connective tissue attached to the tibia using forceps , scissors , and kimwipes .
+push an 18 g needle through the bottom of a 0.5 ml  microcentrifuge tube . place the long bones ( maximum of 2 femurs and 2 tibiae ) into the tube , knee - end
+verify that the bone marrow has been spun out of the bones by visual inspection .
+the bones should appear white and there should be a large visual pellet in the larger tube .
+suspend the bone marrow in appropriate solution ( e.g. , pbs , culture media , facs buffer ) and proceed with experimental protocol ( dna , rna , or protein isolation , facs analysis , or primary cell culture ) .
+the protocol described here is optimized for rapid dissection of the mouse femur and tibia with a minimum of damage to the bone tissue .
+this technique is suitable for a number of downstream analyses , including biomechanics studies , histomorphometry ( figure 1a - b ) , and histology ( figure 1c ) .
+the representative histomophometric micoct 3d reconstruction ( figure 1a - b ) demonstrates that both the cancellous bone and cortical shell are maintained that allows for accurate quantitation of the standardized structural parameters for bone histomorphometry , including trabecular number , thickness , and spacing ;  bone volume ;  and cortical thickness , among other measures .
+the representative histologic section shows an h&e stained formalin - fixed and decalcified tibia ( figure 1c ) .
+the image demonstrates the integrity of both the calcified bone and cellular bone marrow for histologic analysis .
+the bone marrow isolation procedure preserves the sterility of the bone marrow space , has low handling to reduce contamination , and does not require cutting of the long bone , thus reducing loss of bone marrow yield .
+this bone marrow is suitable for many downstream applications , including flow cytometry and pcr analyses . in addition
+, this procedure can be used to isolate bone marrow for primary cell culture of bone marrow cells , including osteoclasts and osteoblasts ( figure 2a - b ) .
+three - dimensional microct reconstruction of a mouse tibia showing ( a ) the outer cortical shell and ( b ) trabecular bone ( scale bar = 0.5 mm ) .
+( c ) histological h&e stain of a decalcified and sectioned tibia ( 4x ) .
+( a ) trap staining for multinucleated osteoclasts after 7 days in osteoclastogenic media ( 4x ) .
+( b ) alkaline phosphatase ( purple color ) for osteoblasts and alizarin red ( red color ) stain for mineralization after 21 days in osteogenic media .
+we present a simple and efficient method for removal of mouse hind long bones and subsequent bone marrow isolation .
+this method maintains the high structural and cellular integrity of the bones and bone marrow and has low handling time , minimizing the likelihood of user - induced fracture or bone scoring that may influence downstream analyses .
+in addition , the centrifugation method for isolating bone marrow does not require cutting the bone to expose the bone marrow space or fluid to flush the bone marrow , reducing potential points of contamination .
+moreover , the centrifuge technique is relatively high - throughput with lower hands - on time than other methods , thus reducing processing time .
+high variation is inherent to in vivo mouse studies due to high mouse - to - mouse phenotypic variation . in order to maximize the research impact of expensive and labor - intensive mouse studies , it is critical to minimize technical experimental error .
+time from animal sacrifice to downstream analysis or tissue fixation introduces experimental variation that may overcome subtle changes and reduce large differences between groups .
+the long bone dissection and bone marrow isolation techniques described here are optimized for rapid processing of animals and samples to reduce technical variation .
+this protocol can be widely applied to many research fields , including investigation of the bone tissue itself or interrogation of the cells of the bone marrow .
+in addition , this straightforward approach to long bone dissection will enable researchers in related fields to directly interrogate bone contributions in order to expand our knowledge of bone marrow dysfunction in otherwise understudied pathologies .

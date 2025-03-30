@@ -1,0 +1,205 @@
+determinar a presena de anticorpos ige especficos para superantgenos estafiloccicos e o grau de sensibilizao mediada por esses , assim como se esses esto associados  gravidade da asma em pacientes adultos .
+estudo transversal incluindo asmticos adultos em acompanhamento ambulatorial em um hospital universitrio tercirio no rio de janeiro ( rj ) .
+os pacientes foram alocados consecutivamente em dois grupos de gravidade da asma segundo critrios da global initiative for asthma : asma leve ( al ) , com asmticos leves intermitentes ou persistentes , e asma moderada ou grave ( amg ) .
+foram determinados os nveis sricos de anticorpos ige antitoxinas estafiloccicas , e os resultados foram comparados por anlise estatstica .
+foram includos 142 pacientes no estudo : 72 no grupo al ( mediana de idade = 46 anos ; 59 do sexo feminino ) e 70 do grupo amg ( mediana de idade = 56 anos ; 60 do sexo feminino ) .
+na amostra geral , 62 pacientes ( 43,7% ) apresentaram resultados positivos para dosagens de anticorpos ige antitoxinas estafiloccicas : enterotoxina ( tx ) a , em 29 ( 20,4% ) ; txb , em 35 ( 24,6% ) ; txc , em 33 ( 23,2% ) ; e toxic shock syndrome toxin ( tsst ) , em 45 ( 31,7% ) . as mdias das dosagens sricas de anticorpos ige especficos anti - txa , txb , txc e tsst foram , respectivamente , de 0,96 u / l , 1,09 u / l , 1,21 u / l , e 1,18 u / l .
+a presena de anticorpos ige sricos anti - txa , txb , txc e tsst , foi detectada em 43,7% nessa amostra de pacientes , mas no houve associao estatisticamente significativa entre seus resultados qualitativos ou quantitativos e gravidade clnica da asma .
+
+ staphylococcus aureus is a gram - positive bacterium that can colonize the human skin and respiratory tract .
+the most important are toxic shock syndrome toxin ( tsst ) , staphylococcal enterotoxin a ( sea ) , seb , sec , sed , see , seg , seh , and sei , the activities of which include superantigen activity , pyrogenicity , and potentiation of lethality of other toxins . 
+
+
+
+ 
+the superantigen activity of staphylococcal toxins consists of direct stimulation of class ii mhc receptors and t cells , independently of antigen presentation by antigen - presenting cells , stimulating the proliferation and activity of cd4 and cd8 t lymphocytes .
+this mechanism is related to the worsening of allergic diseases by the production of staphylococcal toxin - specific ige antibodies , as well as by a direct effect on tissue mast cells , leading to their degranulation . 
+
+
+
+  in asthma patients
+, staphylococcal toxins also act as superantigens , stimulating cd4 t lymphocyte proliferation and activity and leading to an increased production of staphylococcal toxin - specific ige antibodies , causing an allergic - type reaction by biding to mast cells in the respiratory tract .
+this reaction results in the release of mediators such as histamine , kinins , platelet - activating factor , and arachidonic acid metabolites ( prostaglandins and leukotrienes ) , as well as of chemokines , eliciting immediate and late inflammatory responses ( by the recruitment and activation of neutrophils and eosinophils ) and culminating in asthma worsening . 
+
+
+
+ 
+staphylococcal superantigens have been shown to play roles in atopic dermatitis , rhinosinusitis , and asthma , being correlated with their severity . 
+
+
+  with regard to asthma , kowalski et al . found ige antibodies to sea , sec , and tsst in 89.7% of 237 asthma patients ( mean levels of 1.096  3.25 ku / l ) ; although there was no significant difference between those with severe asthma and those with non - severe asthma in terms of the prevalence of staphylococcal toxin - specific ige antibodies ( 81.4% vs. 69.2% ) , mean levels were higher in the former than in the latter ( 1.65  3.25 ku / l vs. 0.54  0.72 ku / l ) . 
+  in another study ( n = 210 ) , the same authors obtained similar results , the prevalence of staphylococcal toxin - specific ige antibodies being 76.1% in patients with severe asthma and 71.1% in those with non - severe asthma , mean levels being three times higher in the former than in the latter . 
+ 
+bachert et al . found a significant increase in staphylococcal toxin - specific ige antibodies in patients with severe asthma when compared with those with mild asthma and controls ( n = 70 ) . 
+  in a more recent study ( n = 387 ) , the same group of authors found a significant increase in staphylococcal toxin - specific ige antibodies in patients with severe uncontrolled asthma ( 59.6% ) when compared with those with controlled asthma ( 40.8% ) and controls ( 13.0% ) .
+high levels of staphylococcal toxin - specific ige antibodies have been found to be a risk factor for asthma ( or = 7.6 ) and severe asthma ( or = 11.09 ) . 
+
+  in latin
+america , there have been no studies correlating staphylococcal superantigens with the severity of asthma .
+therefore , we investigated a population of asthma patients treated at a university hospital in the city of rio de janeiro , brazil , and having no risk factors for increased staphylococcal colonization or infection in order to correlate the clinical severity of asthma with the presence of staphylococcal toxin - specific ige antibodies and degree of ige - mediated sensitization .
+this was a cross - sectional study including adult patients clinically and functionally diagnosed with asthma and receiving outpatient treatment at the clementino fraga filho university hospital , located in the city of rio de janeiro , brazil . between 2009 and 2013 ,
+consecutive patients were divided into two groups according to the clinical severity of asthma based on the global initiative for asthma criteria 
+
+
+ : the mild asthma ( ma ) group , comprising patients with mild intermittent or persistent asthma ; and the moderate or severe asthma ( msa ) group .   according to the global initiative for asthma
+, 
+
+
+  asthma severity can be evaluated on the basis of the treatment required in order to control the disease .
+patients with mild asthma are defined as those requiring only rescue medication , low - dose inhaled corticosteroids / leukotriene receptor antagonists , or a combination of the two .
+patients with moderate asthma are defined as those using long - acting 2 agonists and inhaled corticosteroids at low or moderate doses .
+patients with severe asthma are defined as those using long - acting 2 agonists and inhaled corticosteroids at high doses or other bronchodilators and anti - inflammatory drugs for asthma control .  
+the criteria for inclusion in the present study were as follows : being an adult patient clinically and functionally diagnosed with asthma , 
+
+
+  regardless of the presence of rhinitis and positive skin test results to aeroallergens .  
+the exclusion criteria were as follows : presence of copd , atopic dermatitis , or both ; asthma exacerbation in the last four weeks ; presence of respiratory infection or use of antimicrobial agents in the last six weeks ; use of systemic corticosteroid therapy for seven or more days in the last four weeks ; history of immunodeficiency , neoplasia , connective tissue disease , kidney failure , sinonasal polyposis , chronic sinus disease , cystic fibrosis , or bronchiectasis ; pregnancy ; smoking in the last twelve months ; and declining to participate in the study or give written informed consent .  
+the sample size calculation was based on a study by kowalski et al . 
+  and was performed with a specific statistical calculation program ( openepi ) . for a paired relationship , with a 95% confidence interval and a power of 80% ,
+the required sample size was calculated to be 140 ( 70 per group ) .  
+procedures included the following : clinical history taking ; physical examination ; routine tests ( including blood count , esr measurement , determination of total ige levels , parasitological stool examination , chest x - rays , and sinus x - rays ) ; pulmonary function tests ( spirometry and pef measurement ) ; skin prick tests to aeroallergens ; and determination of serum levels of ige antibodies ( to sea , seb , sec , and tsst ) .
+spirometry was performed with a spirometer ( jaeger , wrzburg , germany ) , in accordance with the american thoracic society guidelines 
+
+
+  and the reference values proposed by knudson et al . 
+ 
+a finding of obstruction and positive bronchodilator test results with reversal or significant improvement were consistent with asthma . 
+
+
+  for pef measurement , a peak flow meter ( mini - wright afs ;
+clement clarke international , essex , england ) was used , the reference values being those proposed by nunn and gregg . 
+ 
+skin tests to aeroallergens were performed with the use of the puncture technique and standard antigens . 
+  for determination of serum levels of staphylococcal toxin - specific ige antibodies , an immunoassay system ( immunocap 100 ; phadia , uppsala , sweden ) was used . 
+ 
+, we used the student 's t - test or the mann - whitney test , as appropriate , through the analysis of the kolmogorov - smirnov and shapiro - wilk coefficients . in order to compare categorical variables
+, we used the chi - square test or fisher 's exact test , as appropriate .
+the sample size was calculated in order to provide a power of 80% , and values of p < 0.05 were considered statistically significant .  
+the present study was approved by the research ethics committee of the federal university of rio de janeiro clementino fraga filho university hospital .
+all participating patients gave written informed consent , and the treatment provided to those who declined to participate in the study was in no way affected by their decision .
+this was a cross - sectional study including adult patients clinically and functionally diagnosed with asthma and receiving outpatient treatment at the clementino fraga filho university hospital , located in the city of rio de janeiro , brazil . between 2009 and 2013 ,
+consecutive patients were divided into two groups according to the clinical severity of asthma based on the global initiative for asthma criteria 
+
+
+ : the mild asthma ( ma ) group , comprising patients with mild intermittent or persistent asthma ; and the moderate or severe asthma ( msa ) group .   according to the global initiative for asthma
+, 
+
+
+  asthma severity can be evaluated on the basis of the treatment required in order to control the disease .
+patients with mild asthma are defined as those requiring only rescue medication , low - dose inhaled corticosteroids / leukotriene receptor antagonists , or a combination of the two .
+patients with moderate asthma are defined as those using long - acting 2 agonists and inhaled corticosteroids at low or moderate doses .
+patients with severe asthma are defined as those using long - acting 2 agonists and inhaled corticosteroids at high doses or other bronchodilators and anti - inflammatory drugs for asthma control .  
+the criteria for inclusion in the present study were as follows : being an adult patient clinically and functionally diagnosed with asthma , 
+
+
+  regardless of the presence of rhinitis and positive skin test results to aeroallergens .  
+the exclusion criteria were as follows : presence of copd , atopic dermatitis , or both ; asthma exacerbation in the last four weeks ; presence of respiratory infection or use of antimicrobial agents in the last six weeks ; use of systemic corticosteroid therapy for seven or more days in the last four weeks ; history of immunodeficiency , neoplasia , connective tissue disease , kidney failure , sinonasal polyposis , chronic sinus disease , cystic fibrosis , or bronchiectasis ; pregnancy ; smoking in the last twelve months ; and declining to participate in the study or give written informed consent .  
+the sample size calculation was based on a study by kowalski et al . 
+  and was performed with a specific statistical calculation program ( openepi ) . for a paired relationship , with a 95% confidence interval and a power of 80% ,
+procedures included the following : clinical history taking ; physical examination ; routine tests ( including blood count , esr measurement , determination of total ige levels , parasitological stool examination , chest x - rays , and sinus x - rays ) ; pulmonary function tests ( spirometry and pef measurement ) ; skin prick tests to aeroallergens ; and determination of serum levels of ige antibodies ( to sea , seb , sec , and tsst ) . spirometry was performed with a spirometer ( jaeger , wrzburg , germany ) , in accordance with the american thoracic society guidelines 
+
+
+  and the reference values proposed by knudson et al . 
+ 
+a finding of obstruction and positive bronchodilator test results with reversal or significant improvement were consistent with asthma . 
+
+
+  for pef measurement , a peak flow meter ( mini - wright afs ;
+clement clarke international , essex , england ) was used , the reference values being those proposed by nunn and gregg . 
+ 
+skin tests to aeroallergens were performed with the use of the puncture technique and standard antigens . 
+  for determination of serum levels of staphylococcal toxin - specific ige antibodies , an immunoassay system ( immunocap 100 ; phadia , uppsala , sweden ) was used . 
+ 
+in order to compare numerical variables , we used the student 's t - test or the mann - whitney test , as appropriate , through the analysis of the kolmogorov - smirnov and shapiro - wilk coefficients . in order to compare categorical variables
+, we used the chi - square test or fisher 's exact test , as appropriate .
+the sample size was calculated in order to provide a power of 80% , and values of p < 0.05 were considered statistically significant .
+the present study was approved by the research ethics committee of the federal university of rio de janeiro clementino fraga filho university hospital .
+all participating patients gave written informed consent , and the treatment provided to those who declined to participate in the study was in no way affected by their decision .
+a total of 142 patients were studied . of those , 72 ( 17 with mild intermittent asthma and 55 with mild persistent asthma )
+were allocated to the ma group and 70 ( 53 with moderate asthma and 17 with severe asthma ) were allocated to the msa group .
+the median age was 52.5 years ( 46 years in the ma group and 56 years in the msa group ) , females and white individuals having predominated . in the sample as a whole , the mean body mass index ( bmi ) was 27.09 kg / m ,
+128 patients had rhinitis , 131 had positive skin test results to aeroallergens , and 99 had a family history of atopy . only 37 ( 26.1% ) had a history of smoking .
+mean percent predicted pef was 72.59% , mean percent predicted pre - bronchodilator fev1 was 71.55% , and mean percent predicted post - bronchodilator fev1 was 81.48% .
+mean eosinophil count was 4.4% , and mean total ige levels were 574.92 iu / ml .
+table 1 shows the distribution of sociodemographic and clinical variables , and table 2 shows lung function parameters and laboratory findings in the ma and msa groups .  
+
+student 's t - test ( for age ) and chi - square test or fisher 's test ( for the remaining parameters ) . 
+ 
+* student 's t - test ( for age ) and chi - square test or fisher 's test ( for the remaining parameters ) . 
+
+table 2lung function parameters and laboratory findings in the study population , by asthma severity . 
+
+student 's t - test or mann - whitney test . of the sample as a whole ,
+62 patients ( 43.7% ) tested positive for staphylococcal toxin - specific ige antibodies : sea , in 29 ( 20.4% ) ; seb , in 35 ( 24.6% ) ; sec , in 33 ( 23.2% ) ; and tsst , in 45 ( 31.7% ) .
+the mean serum levels of ige antibodies to sea , seb , sec , and tsst were 0.96 u / l , 1.09 u / l , 1.21 u / l , and 1.18 u / l , respectively .  
+as can be seen in tables 3 and 
+ , there were no statistically significant differences between the two groups regarding the frequency of ige - mediated sensitization and serum levels of staphylococcal toxin - specific ige antibodies .  
+
+table 3frequency of ige - mediated sensitization to staphylococcal toxins in the study population , by asthma severity .
+sea : staphylococcal enterotoxin a ; seb : staphylococcal enterotoxin b ; sec : staphylococcal enterotoxin c ; and tsst : toxic shock syndrome toxin .
+sea : staphylococcal enterotoxin a ; seb : staphylococcal enterotoxin b ; sec : staphylococcal enterotoxin c ; and tsst : toxic shock syndrome toxin .
+table 4serum levels of staphylococcal toxin - specific ige antibodies in the study population , by asthma severity .
+sea : staphylococcal enterotoxin a ; seb : staphylococcal enterotoxin b ; sec : staphylococcal enterotoxin c ; and tsst : toxic shock syndrome toxin . * chi - square test or mann - whitney test . 
+ 
+sea : staphylococcal enterotoxin a ; seb : staphylococcal enterotoxin b ; sec : staphylococcal enterotoxin c ; and tsst : toxic shock syndrome toxin . * chi - square test or mann - whitney test .
+there were statistically significant differences between the two groups of patients in the present study regarding their clinical and sociodemographic characteristics ( including age , bmi , and prevalence of rhinitis ) .
+the fact that the patients in the msa were significantly older than were those in the ma group might be due to the fact that asthma tends to be more severe in older individuals , especially those in whom the onset of asthma occurred at an older age . 
+
+
+ 
+our finding of a significantly higher bmi in the msa group is consistent with the literature , obesity having been reported to be a risk factor for and an aggravator of asthma .
+recent studies have established a relationship between obesity - induced changes in the gastrointestinal and respiratory microbiome and the etiopathogenesis of obesity - related asthma . 
+
+
+
+
+ 
+our finding of a higher prevalence of rhinitis in the ma group suggests that atopy was more common in the ma group than in the msa group , supporting the concept that atopic manifestations tend to be less common in asthma patients with disease that is more severe . 
+
+
+
+  with regard to the lung function parameters assessed in the present study , absolute and percent predicted pef
+were significantly lower in the msa group , as were percent predicted pre - bronchodilator fev1 and percent predicted post - bronchodilator fev1 .
+these findings were expected and are consistent with the literature , showing the usual correlation between clinical severity and lung function parameters . 
+
+
+
+  of the 142 patients studied , 62 ( 43.7% ) tested positive for staphylococcal toxin - specific ige antibodies , ige antibodies to tsst being the most prevalent .
+our findings are different from those of two studies in the literature and similar to those of two other studies . in one study , kowalski et al . found an 89.7% prevalence of positivity for staphylococcal toxin - specific ige antibodies in severe and non - severe asthma patients ; in another study , they found a 76.1% prevalence in patients with severe refractory asthma and a 71.1% prevalence in patients with non - severe asthma . 
+
+
+ 
+in one study , bachert et al . found a 38.1% prevalence of positivity for staphylococcal toxin - specific ige antibodies in patients with asthma ( independently of disease severity ) and a 62% prevalence in patients with severe asthma ; in another study , they found a 59.6% prevalence in patients with severe uncontrolled asthma and a 40.8% prevalence in patients with controlled asthma , 
+
+
+  the latter prevalence being closer to that found in the present study .  
+aureus , such as sinonasal polyposis , bronchiectasis , chronic bronchitis , and atopic dermatitis , were not included in the present study . by facilitating colonization or infection with s .
+aureus , the aforementioned conditions can lead to increased quantities of staphylococcal toxins in the body , resulting in increased ige - mediated sensitization and , consequently , a heterogeneous population of asthma patients .
+the studies conducted by kowalski et al . 
+
+
+  and bachert et al . 
+
+
+  had no such exclusion criteria and included patients with chronic sinus disease and sinonasal polyposis , as was the case with the most recent study by kowalski et al . , 
+  who nevertheless found no statistically significant differences between asthma patients with polyposis and those without regarding their levels of staphylococcal toxin - specific ige antibodies .
+this might explain the differences between our results and those obtained by the two aforementioned groups of authors regarding the degree of ige - mediated sensitization .
+aureus in the brazilian population ; therefore , it is currently impossible to determine whether or not it is lower than that in the european population .
+it is also impossible to determine whether the allergic immune response to staphylococcal toxins is lower in asthma patients in brazil than in those in other countries .   in the present study
+, there were no statistically significant differences between the two groups regarding the frequency of staphylococcal toxin - specific ige antibodies .
+our results are qualitatively similar to but quantitatively different from those obtained by kowalski et al . , 
+
+
+  who found significantly higher levels of staphylococcal toxin - specific ige antibodies in patients with severe asthma .
+in addition , our results are qualitatively and quantitatively different from those obtained by bachert et al . 
+
+
+ 
+these differences are also due to the exclusion criteria used in the present study , which were not used in any of the aforementioned studies , and to specific characteristics of our study population , as previously mentioned .   in the present study , ige antibodies to sea , seb , sec , and tsst
+were found in 62 ( 43.7% ) of the 142 asthma patients analyzed , and neither the frequency of staphylococcal toxin - specific ige antibodies nor the serum levels of those antibodies were associated with the clinical severity of asthma .
+these results are extremely relevant because this is the first study on this topic in latin america , the results of which differed from those of previous studies conducted in europe , indicating a " negative " association
+.   the limitations of the present study lie in the fact that it was a single - center study conducted at a tertiary care university hospital , in a single demographic area of brazil .
+our primary objective was to evaluate the influence of serum levels of staphylococcal toxin - specific ige antibodies and their association with asthma severity , meaning that this was not a population prevalence study of ige sensitization in asthma patients and healthy individuals in our region . if that had been the case , a much larger sample size would have been required , and it would have been impossible to obtain that in a single - center study .
+therefore , in the present study , each group served as the control group for the other , without the use of a third group , comprising healthy individuals .  
+multicenter studies in brazil and other latin american countries are needed in order to determine more accurately the role of ige - mediated sensitization to staphylococcal toxins as an aggravator of asthma , as well as to determine its prevalence in asthma patients and healthy individuals .
+such studies should include asthma patients with and without diseases that can lead to increased colonization or infection with s .

@@ -1,0 +1,117 @@
+global and regional left ventricular ( lv ) functions are well - known indicators of cardiac disease . quantitative values of ventricular volumes and of myocardial mass are independent predictors of morbidity and mortality in patients with coronary artery disease .
+classically , echo has been used to evaluate lv volume and function because it is relatively inexpensive and noninvasive . however ,
+a component of operator dependence and poor contrast between blood and myocardium are considerable limitations of this technique . cardiac magnetic resonance imaging ( mri )
+is considered the clinical  gold standard for lv function assessment , but it is expensive , of limited availability , and can not be performed in patients with implanted pacemakers or defibrillators . in recent years , multidetector ct ( mdct ) has gained acceptance as a promising imaging method for coronary arteries .
+mdct acquired in a single breath - hold with retrospective electrocardiogram ( ecg ) gating can cover the entire heart with 1-mm slice thickness with a temporal resolution of 125 - 250 ms .
+when performed for coronary imaging , this method provides excellent opportunity to create , image reformation in any desired plane , including anatomically optimized long axis , short axis , or four - chamber views .
+diastolic and systolic images can easily be produced from the same data set with a retrospective ecg - gating technique , thus obtaining lv end - diastolic and end - systolic volumes ( edvs and esvs ) .
+mdct has a potential of being utilized as tool for the combined assessment of the coronary anatomy and lv function .
+in addition , ventricular wall motion can be assessed visually by the use of cine loop displays of multiple cardiac phases .
+recently we observed increasing tendency for utilizing low radiation dose , prospective gating for coronary angiography , thus limiting possibility of volumetric assessment of ventricular function .
+however , a small number of patients may need a retrospective gating , thus providing possibility of reconstructions in various phases of cardiac activity . according to published reports ,
+measurements for various lv functional parameters with mdct were well - correlated and agree with measurements obtained with mri , two - dimensional transthoracic echocardiography ( 2d - tte ) , and ecg - gated single photon emission ct ( spect ) .
+experience with 64-slice mdct for cardiac function assessment remains limited by small patient numbers and the inclusion of homogeneous patient populations .
+the purpose of this study was to assess lv ejection fraction ( lvef ) using 64-slice as a byproduct of mdct coronary examination and to compare efficacy of technique with 2d - tte in a heterogeneous patient population . also , review the role of mdct lv function with a relation to evolution in the technology of coronary mdct imaging .
+study included 113 patients referred for 64-slice mdct coronary angiography for evaluation of coronary artery disease .
+all patients were scanned on 64 slice ge - helical ct ( ge high speed advantage ) scanner and had an echo done within 1 week of the ct scan .
+this prospective study was approved by the institutional review board and written informed consent was obtained from all patients .
+patients with absolute contraindication to contrast or radiation were excluded from the study . in patients with relative contraindications such as atopy , asthma , and renal failure scan was performed if the benefit of examination outweighed the risk in such patients .
+patients with arrhythmias and ectopic heart beats were excluded as stable heart rate is required for ct coronary angiogram .
+apart from the routine contraindications , patients with pacemaker and ventricular septal defect were excluded from the study as successful segmentation of the lv blood pool is not possible in these patients due to artifacts and incorrect segmentation by software .
+all patients undergoing ct coronary angiogram , who had heart rate of more than 60 bpm , were premedicated with 50 - 200 mg oral b adrenergic blocking agent : metoprolol , 1-h prior to the study . a 60 - 120 mg calcium channel blocker : diltiazem ,
+cta was performed with contrast volume of 1.2 ml / kg body weight of iohexol 350 .
+the intravenous contrast agent was followed by 30 ml of saline chaser bolus at the same injection rate .
+scan parameters were 0.35 s rotation time , 120 kv tube voltage , 600 - 800 effective ma , 0.6 mm collimation , and a helical pitch of 0.22:1 .
+the image acquisition was caudocranial for post - coronary artery bypass grafting ( cabg ) patients and craniocaudal for the rest of the patients .
+no complications encountered in any of the patients . retrospectively , ecg - correlated image reconstruction was performed .
+the reconstruction was performed with the reconstruction window starting at 10% of r - r interval and up to 90% r - r interval with increment of 10% .
+this included data sets reconstructed in systole , if diastolic data sets showed motion artifact .
+diastolic and systolic axial image sets were then transferred to the scanner 's workstation - ge advanced workstation advantage windows 4.4 p. image data were evaluated with a prototype version of a commercially available program ( auto ejection fraction , circulation ; ge medical solutions ) that performs a fully automatic segmentation of the blood volume in the lv by defining the mitral valve plane and the lv .
+the software uses this mitral valve plane as an upper boundary for the segmentation of the lv .
+the software identifies the hinges of the mitral and aortic valve leaflets closest to the ventricle wall and selects these as defining points for the plane [ figure 1a ] .
+all ct scans were analyzed according to this method , which allowed for optimal segmentation of the lv .
+papillary muscles were automatically excluded from the blood pool , which allows for precise determination of blood volume in the lv .
+multiplanar reformats are then performed by the software in long and short axes of left ventricle .
+the long axis image is obtained parallel to the interventricular septum connecting the lv apex and the middle level of mitral valve .
+the short axis images are obtained parallel to the plane of mitral valve [ figure 1b ] .
+lv = left ventricular ( b ) line perpendicular to long axis of left ventricle ( parallel to mitral valve ) 
+plane for short axis images once the region of interest is finalized , the edv and esv are measured by this software using simpson 's method by summing the endocardial area of all lv ed and es short - axis slices multiplied by the slice thickness [ figure 2a and b ] .
+the stroke volume ( sv ) and ef were automatically calculated from these values and displayed by the software [ figure 3a  d ] .
+( a ) lv short axis image in diastole ( b ) short axis image in systole 3d display of volumetric data in different patients . ( a ) patient 1 : left ventricular ejection fraction by ct  58.4% ( echo  58% ) . ( b )
+patient 2 : left ventricular ejection fraction by ct  55.7% ( echo  53% ) .
+( c ) patient 3 : left ventricular ejection fraction by ct  60.0% ( echo  60% ) .
+( d ) patient 4 : left ventricular ejection fraction by ct  38.3% ( echo  35% ) .
+3d = three - dimensional , echo = echocardiography , ct = computed tomography two - dimensional echo examination was performed either 1 week before or after coronary cta in either of two ultrasound units , an acuson sequoia ( siemens medical systems usa , mountain view , ca ) or a ge vivid 3 ( ge healthcare , milwaukee , wi ) .
+images were obtained using a 3.5 mhz transducer and images were acquired in standard apical and parasternal two- and four - chamber views .
+the chamber and wall dimensions were measured using standard recommendations for chamber quantification in consensus .
+results on continuous measurements are presented on mean  sd ( min  max ) and results on categorical measurements are presented in number ( % ) . the mean  standard deviation ( sd ) lvef calculated by clinical echo
+similarly mean  sd of lvef calculated by fully automated software based on cta data was obtained [ table 2 ] .
+agreement for lvef was determined by the use of pearson 's regression analysis [ figure 4 ] and calculating correlation coefficient ( r ) .
+bland - altman analysis [ figure 5 ] was used to compare the lvef measured with mdct and that with 2d - tte .
+mountain plot [ figure 6 ] was used to see the relationship between two groups .
+echo - ejection fraction ( ef ) mean  standard deviation ( sd ) : 58.67  4.53 , echo = echocardiography ct - ejection fraction ( ef ) mean  standard deviation ( sd ) : 58.93  5.43 , ct = computed tomography pearson regression analysis between echo - ef and ct - ef .
+r = pearson correlation coefficient , p = p - value , ef = ejection fraction bland and altman showing the correlation of echo - ef and ct - ef
+sd = standard deviation mountain plot showing the correlation of echo - ef and ct - ef .
+in our study , 86 ( 76.1% ) were males and 27 ( 23.9% ) were females .
+the mean age of the patients was 51.19  10.10 years and majority of subjects belonged to age group between 51 and 60 years .
+28.3% were between 41 and 50 years , 15.9% subjects were between 61 and 70 years , and 12.4% subjects between 31 and 40 years .
+most of the patients had at least one symptom , the commonest being chest pain in 88 ( 77.9% ) cases .
+the most common coronary risk factor association was hypertension , accounting for 77.9% of the cases .
+the mean heart rate of the patients at the time of scan was 61.5  8.6 bpm with maximum patients having a heart rate range of 61 - 70 bpm .
+the mean lvef calculated by clinical echo was 58.67  4.53% with maximum number of patients having an ef range of 56 - 60% .
+the mean lvef calculated by fully automated software based on cta data was 58.93  5.43% with maximum number of patients having an ef range of 61 - 65% . in our study using the fully automated software , the pearson 's regression analysis showed a good interstudy correlation , with a correlation coefficient of 0.503 ( p < 0.001 ) .
+bland - altman analysis showed a trend towards mdct resulting in slightly higher values for lvef when compared with echo ; however , this observation was not statistically significant .
+the mountain plot analysis reinforced that ef measured by ct correlated well with that measured by echo .
+mdct coronary angiography has emerged as a valuable technique for the evaluation of coronary artery disease in patients with low to intermediate pretest probability of ischemic heart disease . utilizing analytic software ,
+gated volumetric ct data can be processed to provide quantitative functional analysis of the lv in patients with coronary artery disease .
+we were able to obtain satisfactory artifact free datasets from 113 consecutive subjects who underwent coronary cta .
+all of our patients were either known cases of coronary artery disease or had suggestive clinical symptoms .
+patients with pacemaker , ventricular septal defect were excluded from the study as successful segmentation of the lv blood pool was not possible . achieving a stable heart rate for
+the examination was variable component of the examination . however , no examination had to be postponed or cancelled due to this limitation .
+our study using automated software showed a good interstudy correlation , with a correlation coefficient of 0.503 ( p < 0.001 ) .
+the bland - altman plot revealed a slight mean difference between ef measurements on ct and echo with most differences falling within two sds of the mean .
+hence , we found that software is user - friendly and capable of providing good reproducibility for ef measurements in comparison with echo . in a previous study by krishnam et al .
+, similar results were recorded , though the number of subjects was small . in a study by cury et al . , a trend of mdct slightly underestimating lvef compared with tte was observed .
+we observed a trend towards mdct resulting in slightly higher values for lvef when compared with echo , contrary to expected mild reduction in beta blocked patients .
+trend however was not statistically significant , could be due to recognized limitation of evaluation technique leading to over or underestimation .
+mean difference in ef measurements between cta and echo is small ; although standard deviation of the mean difference is quite high , leading to wide limits of agreement .
+possibly observation results from the fact that the ef measurements from echo were obtained in a clinical setting , on visual estimation and calculation of ef using simpson 's method based on geometrical assumptions .
+our observations are in accordance with the previous studies of 64-slice coronary ct , confirming that lvef estimation is feasible with the mdct data and may be regarded as a useful clinical index , correlating with results of echo .
+there are studies with semiautomated software for quantitative functional analysis of lv with user defined mitral valve plane and an arbitrary point within the lv , with the option to expand or reduce the area of segmentation .
+many earlier studies have compared the use of 4- , 8- , and 16-slice ct scanners for evaluation of lv volumes .
+larger detector configuration in 64-slice ct scanner , has the advantage of being faster , capable of smaller slice thickness and higher temporal resolution .
+relatively higher radiation dose results from the protocol optimized for thin slice high - resolution imaging of the coronary arteries .
+the ecg - dependent tube current modulation is currently the most effective tool for dose reduction and may reduce patient dose by up to 50% .
+it is important to note that two points of the cardiac cycle ( end - systole and end - diastole ) with modulation of tube current were not used in our study because ecg - gated dose modulation was only applicable to 50 - 90% of the rr interval on ecg .
+if the aim is to evaluate coronary arteries only , it is recommended to use an ecg - dependent dose modulation technique or newer prospective gated techniques .
+new developments in mdct technology is allowing examination of patients with higher heart rates and reducing the dose of beta - blockers . presently , mdct examination is possible which contains all the phases with a considerably lower dose of the order of 2 - 3.3 msv .
+the software identifies the lv blood pool based on hounsfield unit values and continuity of adjacent voxels . in patients with a ventricular septal defect
+, there is contrast opacification in both ventricles and a bridge of contrast through the septal defect .
+therefore , the software identifies the right and lv blood pools as a single chamber , resulting in incorrect segmentation and thus inaccurate assessment of lv functional parameters . in patient with pacemakers
+, software identifies a pacemaker wire as high - density contrast and segments the pacing wire as part of the ventricle , resulting in failed segmentation . the version of the software used for this study it was not able to segment the myocardium in order to quantify the lv myocardial mass , which may be important in certain cardiac diseases such as hypertrophic cardiomyopathy .
+it is important to note that cardiac mri is considered as a  gold standard for lv function assessment .
+cardiac mri ( cmri ) provides excellent temporal and spatial resolution , image acquisition in any desired plane , and a high degree of accuracy and reproducibility . concerning quantitative measurements
+cine mri technique is potentially the most comprehensive cardiac imaging modality available because of its excellent contrast between blood - filled ventricles and the surrounding myocardium .
+yamamuro et al . , have shown high linear correlation between ef measurements on ct and on mri .
+the temporal resolution of many available mdct is still considerably lower than that of echo and cine mri .
+this lower temporal resolution can make evaluation of isovolumetric ed and es phases of the cardiac cycle , and thus ef , less precise .
+there is considerable improvement in temporal resolution of mdct with improvement in gantry rotation , multiple and partial segment processing techniques .
+tr of 80 - 250 ms has been achieved in state of the art units .
+though it is short of fluoroscopic resolution , currently available options are more than sufficient for motion free systolic and diastolic cardiac imaging with heart rate below 100/min . additionally , the use of a b - blocker to reduce the heart rate to less than 65 bpm can influence the functional parameters that are to be measured . beta blocker do influence the lvef , lead to underestimation .
+overestimation or underestimation of the lv volume has been reported because of the different criteria for selecting the endocardial boundary or the inclusion / exclusion of papillary muscle .
+ideally estimation of the real - ef from all 20 phases is more precise ; however , this significantly increases effort and processing time .
+effect of beta - blocker has to be factored in interpretation of ef by mdct .
+introduction of new ct imaging methods , including dual source ct in clinical practice will overcome these two problems significantly owing to its two - fold increase in temporal resolution . also , newer options in mdct technology may partially obviate need for use of beta blockers .
+functional parameters derived from 2d - tte are compared with ct derived 3d volumetric data , which are not strictly comparable .
+our study design did not allow realistic comparison of mdct and echo lv volume data .
+it would be interesting to compare the same for assessment of accuracy of respective data .
+with evolution of speckle - tracking 3d echography and new low radiation , high tr scanning such studies are possible .
+the delay time between ct and echo and premedication with -blockers could have changed myocardial contraction and lv volumes as measured with the two methods . in the present
+set up , the number of patients referred to coronary angiography who will have volumetric data will be significantly smaller , limiting the application of this utility to a smaller offset of patients .
+the radiation issue will certainly be an important consideration to use this technique in the larger group of patients .
+emerging new applications of echography in the form of 2d and 3d speckle - tracking echo certainly will have a greater role to play in the future noninvasive assessment of the myocardial function . in conclusion
+our study confirms useful complementary functional information in coronary cta datasets , using fully automated analysis software for rapid assessment of lvef .
+it is irrational to utilize mdct alone to assess lv function in clinical patients , given the radiation exposure involved .
+however , additional clinically useful information from a clinically indicated coronary ct examination with a lowest possible radiation dose is invaluable in patients known or suspected of ischemic heart disease .
+validating consistency of results with mri will further lend support to the use of mdct derived results .
+going forward with changing trends in ccta imaging , it is conceivable that number of patients undergoing cta with retrospective gating will substantially be reduced , thus limiting the functionality to a small group of patients .

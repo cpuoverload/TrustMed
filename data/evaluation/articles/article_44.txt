@@ -1,0 +1,300 @@
+neurosurgery is characterized by the delicate balance between surgical success and potential for devastating side effects . thanks to multiple technological improvements
+, the morbidity of neurosurgical interventions has substantially decreased over the last decades , allowing for the resection of previously inoperable lesions . in particular , image - guided neurosurgery ( igns ) devices allow the use of coregistered and fused multimodality 3d images to guide the surgeon 's hand and help define preoperatively the boundaries of pathological and predefined functional structures . meanwhile
+, new modes of medical imaging have also improved the localization of pathological lesions and their characterization .
+medical imaging nowadays includes a wealth of different techniques , such as computed tomography ( ct ) , structural and functional magnetic resonance imaging ( smri and fmri ) , diffusion tensor imaging ( dti ) , and positron emission tomography ( pet ) .
+although the overall accuracy of igns is estimated to be 12  mm , current neuronavigation systems can not , however , adapt to changing conditions over time .
+skull - opening brain shift , brain retraction , cerebrospinal fluid suction , lesion resection , perfusion , and pharmacological manipulation during surgery indeed all alter the 3d morphology of the structures [ 25 ] .
+these changes can lead to localization errors that are one order of magnitude larger that igns accuracy [ 1 , 2 , 6 ] and may result in incomplete resections or unexpected damage to normal brain .
+such inaccuracies could be reduced if one could acquire , throughout surgery , fresh images of the same modalities and quality as the preoperative ones
+intraoperative images such as intraoperative mr ( imr ) images are  with the exception of a handful surgical facilities  usually acquired using low - field mri scanners that provide lower resolution and contrast than their preoperative counterparts , and , to this date , several useful imaging modalities , such as pet and possibly meg , can not be acquired intraoperatively .
+one solution is to  bring over  the high - quality preoperative multimodality images into the intraoperative configuration of the brain using a nonrigid registration technique [ 710 ] .
+one category of nonrigid registration techniques uses physics - based models , where landmarks are tracked in successive reduced - quality intraoperative images , and their displacement fields drive the deformation of a biomechanical model .
+so far , most of the mechanical conditions of the brain can not be estimated in the operating room , such as the volume of cerebrospinal fluid flowing out of the skull cavity , intercellular fluid volume changes that result from mannitol injection , or changes in blood volume and vessel permeability .
+the fact that an intraoperative image can provide the knowledge of the current state of the brain after some deformation partly eliminates the need for a complete evaluation of these mechanical conditions .
+the nonrigid registration technique replaces them with the landmark displacements evaluated from successive intraoperative images . using a nonrigid registration technique based on a biomechanical model , three types of brain deformations
+have been identified that require specific modeling , although they depend on common parameters , such as csf suction , perfusion , or pharmacological manipulation .
+the first deformation is the brain shift , which appears at the beginning of surgery with the opening of the skull and dura .
+the suction or leakage of csf , as well as the release of intracranial pressure caused by tumor growth , generally cause such shift of the brain ( note that in this work , we name  brain shift  the specific shift of the brain that occurs after the opening of the skull and dura , before any other surgical act has happened ) .
+however , for these deformations , we will consider that the shift is a part of these two deformations .
+the second deformation is the retraction ; when target tissues are located deep inside the brain , the surgeon incises brain tissues and inserts a retractor to spread out the tissues , and to create a path towards the target .
+the third deformation is the resection , that is , the removal , of lesion tissues .
+three deformations can thus be defined in terms of the two elemental actions that change the topology of the brain : the introduction of a discontinuity and the removal of some tissues .
+most studies of brain deformation based on biomechanical models have focused on shifts ( the topology of the brain is not modified ) , that occurs just after the opening of the skull and dura [ 1125 ] .
+a good review of these different studies can be found in [ 24 , 2628 ] .
+resection and retraction are more complex to model than ( brain ) shift . until recently ,
+their modeling for the specific application of preoperative image update has received much less attention .
+one of the difficulty for modeling resection and retraction is that both induce a topological change of the brain because some tissue are cut .
+a method of mesh adaptation [ 2931 ] or remeshing [ 3235 ] must be used in conjunction with fem if an accurate representation of the location of the cut , for example , the resection cavity or retraction path , is needed to deform the model . indeed , fem can not directly handle discontinuities that go through the fes , and requires to realign the discontinuity with fe boundaries . in the field of fracture mechanics , which studies the growth and propagation of cracks in mechanical parts
+, some methods were developed to avoid using fem in conjunction with mesh adaptation or remeshing .
+the extended finite element method ( xfem or x - fem ) appeared in 1999   and has been the object of considerable research since then .
+xfem works by allowing the displacement field to be discontinuous within some fes of the mesh .
+the mesh does not have to conform to the discontinuities , so that these can be arbitrarily located with respect to the underlying fe mesh . because xfem allows an accurate representation of the discontinuities
+while avoiding mesh adaption or remeshing , and because of the similarity between cracks in mechanical parts and cuts in tissue , we proposed the use of xfem for handling cut , resection , and retraction in the updating of preoperative images .
+this paper presents a complete 3d framework for updating multimodal preoperative images with respect to surgical brain deformations , due to brain shift and successive resections , followed and quantified using imr images .
+our approach is modular , and is applied iteratively each time a new intraoperative image is acquired .
+we take into account successive deformations based on a linear elastic biomechanical model which is deformed using fem or xfem , depending on the type of deformation occurring between the pair of imr images under consideration , namely , brain shift or resection .
+while some 3d results have already been presented for brain shift , and initial 3d results for resection   modelings , this paper is the first complete and detailed account of the generalization to 3d of our 2d previous work .
+we present the state - of - the - art of resection modeling for preoperative image update . in section 3
+, we describe our basic strategy for updating preoperative images based on successive intraoperative images . in section 4 , we give detail about our methods and algorithms . in section 5 ,
+we consider two patient cases that illustrate our approach for handling brain shift followed by successive resections .
+among studies that take into account resection for preoperative image update , one should distinguish two categories .
+the first category of studies models brain deformation using two time - point images , the first image being acquired before surgery has started , the second image being acquired after resection . in this category ,
+the methods that existed for a second image showing some brain shift are adapted for a second image showing some resection .
+the second category of studies models brain deformation using more than two time - point images , and models at least two successive resections . among the first category of studies ,
+hagemann et al .   developed a 2d method for modeling brain deformation between a preoperative mr image and a postoperative mr image , the postoperative image showing a complete resection .
+the 2d mesh of the biomechanical model corresponded to the underlying pixel grid of the 2d image .
+the biomechanical model included four different linear elastic laws for the skull / skin region , the whole - brain region , the csf region , and the image background .
+they computed the correspondence of the skull boundary , the whole - brain region boundary in the neighborhood of the tumor , and the posterior midline between the two images .
+they also computed the correspondence between the internal tumor region boundary visible in the preoperative image , and the resection cavity boundary visible in the postoperative image , both boundaries corresponding under the assumption that the resection is complete .
+the displacements fields of these landmarks drove the deformation of the biomechanical model . as a result , the biomechanical model presented high deformation in the tumor region , which is not physically plausible .
+however , the resection was complete , and , thus , they were not interested by the displacement field of the biomechanical model in the tumor region itself .
+clatz et al .   developed a 3d method for modeling the brain deformation between a preoperative mr image and an imr image , the latter showing partial or complete resection .
+the biomechanical model was deformed based on a sparse volume displacement field evaluated from the two images , using a block matching algorithm . in their algorithm , blocks of voxels that presented discriminant structures were selected in the preoperative image .
+the blocks were then matched to blocks in the imr image using a similarity criterion , for example , a coefficient of correlation .
+the value of the similarity criterion was used as a value of confidence in the displacement measured by the block matching algorithm .
+the biomechanical model was then deformed iteratively , driven by the sparse displacement field of the matched blocks , where a block rejection step was included for measured block displacements initially selected but considered as outliers . in the imr image , a part , or the totality , of the tumor tissues
+the blocks were thus selected and matched in only the healthy - brain region of the two images .
+they tested their algorithm on six patient cases , and used for validation nine landmarks picked up manually in each image .
+they found a mean and maximum error on displacements of 0.75  mm and 2.5  mm , respectively .
+they explained this phenomenon by the fact that a substantial number of block matchings were rejected in the tumor neighborhood .
+the deformation of the biomechanical model in the tumor neighborhood was thus essentially governed by the linear elastic law , and the result might show the limitation of this model .
+archip et al .   also tested the nonrigid registration method presented in   on eleven patient cases , and used the 95% hausdorff distance   for evaluating the alignment of the nonrigidly registered images . as a result
+, they obtained a mean error of 1.82  mm . among the second category of studies , miga et al .  
+they built a linear poroelastic biomechanical model and preoperatively tagged the tetrahedron fes that were going to be removed to simulate the brain deformation due to successive resections .
+second , a boundary condition was applied to the new boundary of the resection cavity , in order to model the relaxation of strain energy , induced by preoperative tumor growth or surgery acts , stored in the resected tissues , and released after their removal . in this approach ,
+the tissue discontinuity was represented as best as possible with a jagged topology defined by the fe facets defining the boundary of the resection cavity .
+[ 45 , 46 ] also modeled the removal of tetrahedra in order to model the action of an ultrasonic aspirator in the context of real - time surgery simulation .
+[ 13 , 47 , 48 ] modeled successive resections based on several time - point imr images . between two successive images
+, they deformed the biomechanical model , in its current state of update , to take into account the ( partial ) resections(s ) that took place between these two images .
+first , the biomechanical model , in its current state of update , was deformed in accordance with the displacement field of the healthy - brain boundary between the pair of images under consideration .
+second , the fes that fell into the resection cavity in the second image of the pair were removed , while the fes that laid across the resection - cavity boundary were cut . to ensure the link between the successive deformed configuration of the biomechanical model , their algorithm kept track of the topology modification between fes and nodes of the mesh before and after the removal of fes .
+they tested their algorithm on one patient case including five imr images ( the first two imr images being used for brain shift modeling ) , and used for validation thirty - two landmarks picked up manually in each image .
+they found a mean and maximum error on the displacements of 0.9  0.7  mm ( mean  standard deviation ) and 3.7  mm , respectively .
+they explained this phenomenon by the limited accuracy in the process of picking landmarks in that region , and because the retraction occurring between the second and third images was modeled as a resection , that is , a removal of tissues , even though the tissues were not removed but simply spread out .
+the methods described above have been all developed using an fem - based biomechanical model for intraoperative image registration .
+the objective of a surgical simulator is to provide an interactive manipulation with force feedback of the anatomical part to be operated using various surgical instruments . in order to model a large range surgical procedures ,
+jebkov and kuhlen   have applied nonlinear xfem for simulating cut , and have shown that xfem is successfully efficient for such purpose .
+the block diagram of figure 1 shows our global approach for updating preoperative images using successive imr images acquired at different critical points during surgery .
+although the principles of the approach are quite general , they are tailored for use based on images acquired with a 0.5  tesla intraoperative ge signa scanner , which guarantees that the full volume of brain tissues is included in the image field of view . in our present strategy ,
+the preoperative images are updated incrementally . at the end of each update , the preoperative images should be in the best possible alignment with the last imr image acquired .
+prior to surgery , a patient - specific biomechanical model is built from the set of preoperative images . because the patient does not necessarily lie in the same position during the acquisition of each of the preoperative images
+, one may need to perform a rigid registration ( involving translations , rotations , and scales ) to bring these images into correspondence , assuming , in first approximation , there is no local , that is , nonuniform , brain deformation between preoperative images .
+once the 1st imr image has been acquired prior to the opening of the skull , the set of registered preoperative images and the biomechanical model are registered to the 1st imr image via a rigid transformation . in the present situation , it is assumed that the patient 's brain imaged in the 1st imr image has the same physical shape as the brain imaged in the preoperative images ( note that in the following , when an imr image is defined by a number , this number is the index of the imr image in the series for a specific patient case .
+the 1st imr image thus corresponds to the very first imr image of the series ) . as each imr image
+is acquired , this new image and the preceding imr image are used to estimate the deformation of the brain .
+the update of the preoperative images is done incrementally with each new pair of successive imr images . for each pair , we proceed as follows . a set of common anatomical landmarks
+the use of surface structures rather than volume structures   seems more appropriate given the reduced - quality of typical intraoperative images , and would be more easily adapted to intraoperative modalities other than imr , such as ius .
+the landmark surface displacement fields resulting from the matching are then applied to the biomechanical model , which is deformed using fem or xfem , depending on the type of deformation occurring between the acquisition times of the imr images in the pair under consideration , namely , brain shift , or resection .
+the resulting displacement field of the biomechanical model is finally used to warp the set of preoperative images in their current state of updating .
+note that , for each deformation modeling , the biomechanical model is deformed in accordance with the landmark displacements tracked between the pair of successive imr images under consideration . because intraoperative deformation can follow a reverse direction , it is important to track the landmarks between the next - to - last and the last acquired imr images , rather than track the landmarks between the first and the last acquired imr images . for the patient cases treated in section 5 , we assume that the brain undergoes relatively small deformations ( small strains and small displacements ) , and we use a linear finite - element formulation in the biomechanical model .
+a consequence of using this linear formulation ( linear elasticity ) is that the equations of solid mechanics can be solved based on the initial configuration of the solid .
+actually , knowing the displacement field increment un = u  u at the anatomical landmarks between configuration n and increment n + 1 , one can apply this constrained displacement field increment un to the initial configuration , and the finite element analysis will lead to the deformation tensor increment n between the configuration n and n + 1 .
+the final deformation tensor or the body is thus simply obtained from  = k=0k .
+remark that rigorously , the increment of constrained displacement field at the landmark should be applied to the balanced solution of the solid reached after increment n , but as we are using a linear elasticity model , this step can be skipped owing to the superposition principle : if  = c , then  = k=0k = ck=0k = c , where c is the hooke tensor . as a summary , with this approach ,
+the process of deformations is modeled as a succession of deformations k , for example , brain deformation composed of shift followed by successive resections and the current configuration of the brain biomechanical model , after a specific deformation can then be recovered by adding the computed volume displacements for all successive incremental deformations . remark
+that this is not a limitation of the method as we could easily extend it to nonlinear model by simply keeping in memory the previous deformed configuration n and adding the constrained displacement field increment un to compute the new deformed configuration at increment n + 1 , simply this would be less computationally efficient . because we use a linear formulation ( and , thus , the incremental volume displacement fields can be added to recover the current configuration of the biomechanical model ) , we could theoretically obtain an identical deformed configuration of the biomechanical model using the two following approaches .
+the first one would consist of computing and adding the successive incremental deformations of the biomechanical model based on the landmarks tracked between the next - to - last and the last acquired imr images .
+the second approach would consist in computing directly the deformed configuration of the biomechanical model based on the landmarks tracked between the first and the last acquired imr images .
+however , the landmarks selected to drive the deformation of the biomechanical model vary depending on the type of deformation , namely , brain shift or resection .
+in addition , part of the biomechanical model is  cut ,  using xfem , to model resection .
+consequently , we would not get an identical deformed configuration of the biomechanical model by these two approaches .
+in order to use a maximum of information from the imr images , we track , as explained for the first approach , the landmarks between the next - to - last and the last acquired imr images .
+the problem of updating preoperative images between more than two critical points during surgery , that is , based on more than two imr images , is addressed in only a small number of studies . in our previous work [ 39 , 41 ] , and in
+, the biomechanical model was successively deformed , and this was done using a linear formulation .
+the framework proposed here , where the initial biomechanical model is always used , instead of using it in its successive states of deformation , has the important advantage of using a good quality mesh for each deformation modeling rather than using a mesh whose quality progressively deteriorates with each successive deformation modeling , and which would require remeshing or mesh adaptation for getting back good fe quality . to summarize ,
+for each deformation , the landmarks are tracked between the two successive imr images under consideration . because we use a linear formulation ,
+the displacement fields of these landmarks are applied to the initial , rather than current , configuration of the biomechanical model .
+the resulting volume displacement field corresponds to the deformation that the brain undergoes between the two imr images .
+this volume displacement field is used to deform the preoperative images in their current state of update , that is , registered ( at the previous step , if any ) to the first imr image of the pair .
+after the deformation , the preoperative images are thus in as good as possible registration to the second imr image of the pair . in all the rest of this work ,
+we make a simplification of the approach just presented , by using the 1st imr image as a substitute for the preoperative images .
+the biomechanical model is thus built based on structures visible in the 1st imr image , instead of in the preoperative images , and the structures used in the model are limited to the ones visible in the intraoperative image . except for the rigid registration between the preoperative images , the biomechanical model , and the 1st imr image , this simplified approach allows us to discuss , illustrate , and test all key aspects of the system .
+the above strategy allows us to focus on the main issue of this paper , that is , the estimation and handling of 3d deformations .
+even though the issues involved in the update of preoperative images will need to be addressed in a operational image update system , the present strategy of deforming the imr images remains useful for calibration purpose , even in the operating room .
+this section details the different methods that are commonly used for updating preoperative images in presence of brain shift and resection .
+more specifically , the block diagram of figure 2(a ) shows the building of the biomechanical model from the preoperative images .
+specific regions from the preoperative images are segmented , meshed , and assigned appropriate constitutive laws .
+the block diagram of figure 2(b ) shows , for any pair of successive imr images , a detailed view of the calculation of the volume displacement field of the initial biomechanical model that corresponds to the deformation that has occurred between the acquisition time of these images . all along surgery , the patient is lying inside the 0.5 tesla intraoperative ge signa scanner .
+although the patient 's head is fixed , one can not totally rule out the possibility of slight head motion .
+imr images thus have to be rigidly coregistered to take into account this potential rigid motion .
+the rigid registration that we use is the point - based landmark transform available in vtk ( http://www.vtk.org/ ) .
+the segmentation of imr images into specific regions , for example , healthy - brain and tumor regions , is first performed manually using 3d slicer ( http://www.slicer.org/ ) and then smoothed to minimize the dependance of the results on segmentation roughness .
+it is clear that performing a manual segmentation in the operating room is not acceptable , and that this process needs to be automated as completely as possible to test the feasibility of our framework online .
+however , while there exist sophisticated segmentation algorithms that could be used [ 5052 ] , in particular for extracting the whole - brain region ( skull and external cerebrospinal fluid masked out ) , the segmentation of the tumor region is still challenging . as mentioned above , the biomechanical model is built , in the present context , from the 1st imr image rather than from the preoperative images . thanks to the use of xfem instead of fem for modeling discontinuities , this biomechanical model can be built offline before the operation starts and does not need to be repeated ( through remeshing ) during the surgery . with respect to fem - based approaches ,
+the execution time thus ceases to be a limiting parameter , which is a remarkable advantage of our approach .
+it thus requires specific techniques , and we use the meshing software tool isosurf ( http://svr-www.eng.cam.ac.uk/~gmt11/software/isosurf/isosurf.html ) . our goal is to model the boundaries of healthy - brain and tumor regions as two connected surfaces meshes .
+however , isosurf can only mesh the boundaries of one or several separate regions , and , thus , does not allow one to mesh connected region boundaries with common nodes at their intersections .
+we thus start by building two separate surfaces meshes that we connect using our own routines based on vtk .
+the two connected triangle surfaces are then jointly meshed into a single volume mesh of tetrahedra that conform to the two surface meshes using gmsh ( http://www.geuz.org/gmsh/ ) .
+further details on the building of the biomechanical model , in particular the building of the connected surface meshes , can be found in .
+a linear elastic law is assigned to the biomechanical model , with young modulus e = 3000  pa and poisson ratio  = 0.45 . because displacements , rather than forces , are applied to the model using a linear formulation , the fem or xfem solution is independent of young modulus e .
+we choose as surface landmarks the whole - brain and internal tumor region boundaries . to evaluate the surface deformations of these region boundaries between two imr images , we use an active surface algorithm [ 55 , 56 ] .
+because these region boundaries to match must be closed surfaces , we thus use as surface landmarks the whole - brain and healthy - brain region boundaries .
+the surface deformation of the internal tumor region boundary will be derived from the active surface algorithm of the healthy - brain region boundary . in our active surface algorithm coming from [ 13 , 47 , 48 ] , the external forces f(x ) are computed using a gradient descent on a distance map of the region boundary . with such external forces , the active surface algorithm is not able to take correctly into account local rigid motion due , as an example , to lateral or tangential movement depending on the head orientation . for the whole - brain region , any rigid transformation that could have occurred
+has already been taken into account by the rigid registration of the imr images ( section 4.1 ) . however , for the healthy - brain region , it can happen that the internal tumor region boundary moves partly in a rigid way .
+therefore , the active surface , initialized from the healthy - brain region boundary in the first imr image , is first locally transformed in a rigid way along the internal tumor region boundary using the iterative closest point transform available in vtk .
+then , this resulting surface is deformed using the active surface algorithm as explained above .
+further details on the local rigid registration of the healthy - brain region boundary can be found in . before applying the displacements whole - brain and internal tumor region boundaries to the biomechanical model nodes ,
+the two surface displacement fields are smoothed based on a weighted - distance average , that is , the displacement of each node is averaged with the displacements of its n closest neighbor nodes .
+this smoothing will make them consistent with each other , and compatible with the volume mesh in order to avoid element flipping , in particular at the intersections between whole - brain and internal tumor region boundaries .
+the displacement fields of the surface landmarks are applied to the biomechanical model , which deforms according to the laws of solid mechanics .
+the equations of solid mechanics are solved using fem or xfem , depending upon the type of circumstances , namely , brain shift or resection .
+we use the fem - software tool metafor ( http://metafor.ltas.ulg.ac.be/ )   developed in our mechanical - engineering department , to which we have added an xfem module .
+the initial stress state of the brain is unknown and is thus set to zero for each fem or xfem computation , as in [ 10 , 13 ] .
+fem discretizes the solid of interest into a mesh , that is , into a set of fes interconnected by nodes , and approximates the displacement field u(x ) by the fem displacement field u(x ) defined as 
+ ( 1)ufem(x)=iii(x)ui , 
+							 where i is the set of nodes , the i(x ) 's are the nodal shape functions ( nsfs ) , and the ui 's are the nodal degrees of freedom ( dofs ) .
+each i(x ) is defined as being continuous on its compact support i , which corresponds to the union of the domains of the fes connected to node i . in our approach , we use linear nsfs .
+in contrast , xfem handles a discontinuity by allowing the displacement field to be discontinuous within fes [ 37 , 5860 ] .
+the xfem displacement field generalises the fem displacement field ( 1 ) with 
+ ( 2)uxfem(x)=iii(x)ui+iji(x)j=1neigj(x)aji . 
+							
+the first term corresponds to the fem displacement field ( 1 ) , where i is the set of nodes , the i(x ) 's are the fem nsfs , and the ui 's are the nodal fem dofs . the heart of xfem is the  enrichment  that adds a number , n , of dofs aji to each node i of the set j , which is the subset of nodes of i whose support is intersected by the discontinuity of interest .
+these dofs are multiplied by the nsfs i(x ) and the discontinuous functions gj(x ) .
+the use of specific xfem enrichment functions gj(x ) for a node i  j depends on the type of discontinuity , for example , crack , hole , material interface , and so forth , to be modeled .
+suppose that our goal is to model a crack , characterized by a discontinuity in the displacement field ( as opposed to a material interface for instance , characterized by a discontinuity in the derivative of the displacement field ) .
+when the crack fully intersects the support of the node , a simple choice is a piecewise - constant unit function that changes sign at the boundary across the crack , that is , the heaviside function 
+ ( 3)h(x)={1for  ( xx)en>0,1for  ( xx)en<0 , 
+							 where x is again the position of a point of the solid , x * is the position of the point on the crack that is the closest to x , and en is the outward normal to the crack at x * . in case of resection deformation , the goal is to model a discontinuity such that the part of tissues corresponding to tissue removed by the resection has no influence on the deformation of the remaining part of the tissues .
+one is actually interested in the deformation of the remaining part of the tissues only . in that sense ,
+the hole function    as the following equation :  
+ ( 4)v(x)={1for  ( xx)en>0,0for  ( xx)en<0 , 
+							 could be used as xfem enrichment function , instead of the heaviside function , and would be totally sufficient .
+the results that we would obtain on the remaining part of the tissues would be identical .
+however , because the heaviside function is necessary for retraction modeling , we have used the same function for the resection modeling even if it was not strictly necessary . when minimizing the total deformation energy , the resulting xfem equations remain sparse and symmetric as for fem .
+whereas fem requires a remeshing and the duplication of the nodes along the crack to take into account any discontinuity , xfem requires the identification of the nodes whose support is intersected by the crack and the addition of dofs : ( 1 ) any node whose support is not intersected by the discontinuity remains unaffected and thus possesses three dofs ; ( 2 ) any node whose support is fully intersected by the discontinuity is enriched with three heaviside dofs and thus possesses six dofs . to qualitatively estimate the similarity between two images , we compare the edges extracted from these images using the canny edge detector available in itk ( http://www.itk.org/ ) .  
+indeed , although potentially useful for the sake of comparing methods on a mathematical basis and defining unique correspondences , landmark - based target analysis presents several relevant limitations in the present setting . having experts picking landmarks introduces significant intra- and interobserver variability . picking landmark points , as ferrant et al .  
+did , is rather difficult when it comes to define enough visible landmarks  especially in the tumor region  on the 5 different images ( and not 2 images only , as majority of studies focusing on brain shift are using ) . rather than point targets , linear tumor contours , and limits between structures and potential eloquent structures matter most in the practical case of tumor ablation neurosurgery . 
+					
+these are the reason why we chose to use the canny edges in order to evaluate the registration . besides
+, while it is true that these edges do not necessarily physically correspond between the successive imr images , these images have been acquired with the same image protocol ( mr sequence , voxel size , grayscale value range ) , which should limit this problem .
+to quantitatively estimate the similarity of the two edge maps , we compute the modified hausdorff distance between the sets of edge points , that is , voxels representing the edges , in these two images .
+the modified hausdorff distance (a , b )   between two sets of points a and b is defined as 
+ ( 5)(a , b)=max(h(a , b),h(b , a ) )  with  h(a , b)=1naaad(a , b ) , 
+							 where the directed hausdorff distance h(a , b ) is a measure of the distance of the point set a to the point set b , na is the number of points in set a , and d(a , b ) is the distance of point a  a to the closest point in b , that is , d(a , b ) = minbb||a  b|| , where ||a  b|| is the euclidean distance .
+the directed hausdorff distance h(a , b ) thus computes the average distance of points of a to points of b. the averaging minimizes the effects of outlier points , for example , due to image noise .
+the value of the modified hausdorff distance (a , b ) increases with the amount of difference between the two sets of edges points . in the following ,
+we denote by (ia , ib ) the modified hausdorff distance of the edges extracted from the whole - brain region of the images ia and ib , that is , with the skull and external cerebrospinal fluid masked out from them .
+in this section , we apply our methods , respectively , of brain shift and resection ( imr images are acquired with the 0.5  tesla intraoperative ge signa scanner of the brigham and women 's hospital , boston , usa .
+imr image size is 256  256  60 voxels , and voxel size is 0.9375  0.9375  2.5  mm ) .
+two patient cases , each including five imr images , are treated to illustrate our modeling and brain shift followed by successive resections . in both cases , the 1st imr image was acquired prior to the opening of the skull ; the 2nd imr image was acquired after the opening of the skull and dura , and shows some brain shift ; the 3rd , 4th , and 5th imr images were acquired after successive resections .
+the modelings of brain shift , 1st , 2nd , and 3rd resection are performed using different techniques , as detailed below . except where otherwise noted
+, the following discussion applies to both patient cases ( the result of each deformation modeling is shown for the two patient cases at the end of section 5.2.3 ) . to model brain shift based on the 1st and 2nd imr images
+, we estimate the surface displacement fields of the whole - brain region boundary and the internal tumor region boundary from the two imr images .
+no tissue discontinuity is involved in the brain shift deformation , so the biomechanical model is deformed using fem .
+this results in the volume displacement field of the biomechanical model , which is illustrated in figure 3 for the first patient case .
+this volume displacement field is used to warp the part of the 1st imr image corresponding to the whole - brain region . in the following sections ,
+the three successive resections are modeled separately , because they require different types of processing .
+matching two region boundaries to get a displacement field makes sense only if they correspond to the same physical entity .
+once the resection has started , we can no longer rely on the entirety of the whole - brain region boundary , since a part of it is now missing . for modeling the successive resections , we thus evaluate the displacement field for the boundary of the healthy - brain region only .
+the 1st resection occurs between the times the 2nd and 3rd imr images are acquired .
+however , since the corresponding removal of tissues is most likely accompanied by deformation , one can not exactly determine what tissue is removed based just on the two imr images .
+we thus decided to model the 1st resection by still relying on the displacement fields of key surfaces , here the healthy - brain region boundary , to deform the biomechanical model .
+this indeed appears to be the only reliable information concerning the deformation due to resection that we can extract from the 2nd and 3rd imr images .
+consequently , we do not model explicitly the removal of tissue , but we model directly the deformation resulting from it , without introducing any tissue discontinuity . using the surface displacement field of the healthy - brain region boundary , we compute the deformation of the biomechanical model via fem . then , using the resulting volume displacement field , we warp the part of the 2nd imr image corresponding to the whole - brain region , in the same way as we did in the case of for brain shift .
+the image resulting from the 1st resection modeling is now registered to the 3rd imr image , except outside of the healthy - brain region boundary , that is , for the tumor region . finally , we alter the resulting image to reflect the effect of resection . for this
+, we assign the background color to the voxels corresponding to the resected tissue volume 
+the significant feature of the 2nd resection is that some tissue has already been removed by the 1st resection , which means that this tissue can not have any physical influence on subsequent brain deformations because it does not 
+recall that the biomechanical model has been deformed to model the brain shift and the 1st resection and is thus registered to the 3rd imr image .
+so , using the 3rd imr image , we can define the boundary of the 1st resection , that is , the tissue discontinuity to include in the deformed biomechanical model ( figures 4(a ) and 4(b ) ) .
+we then enrich the nodes whose supports are intersected by the discontinuity with heaviside dofs .
+consequently , when the xfem - based biomechanical model deforms , the part corresponding to tissue removed by the 1st resection has no influence on the deformation of the remaining part of the brain .
+for the first patient case illustrated in figure 4 , the tetrahedron mesh consists of 3,317 nodes , which corresponds to 9,951 fem dofs .
+the biomechanical model is deformed in accordance with the displacement field of the healthy - brain region boundary evaluated from the 3rd and 4th imr images .  
+the bottom part of the mesh , representing the tissue remaining after the 1st resection , has been deformed according to the displacement field of the healthy - brain region boundary , while the top part , representing the tissue removed by the 1st resection , has been subjected to a translation , but only for visualization purposes . even though the mesh is displayed as two separate parts , it is , in fact , a single entity .
+indeed , a main feature of xfem is its ability to handle the effect of a discontinuity without modifying the underlying mesh , that is , without remeshing . for modeling the 2nd resection , the edges of fes straddling the discontinuity
+have been made discontinuous and their nodes moved apart . using the xfem volume displacement field , we warp the part of the 3rd imr image corresponding to the whole - brain region .
+the resulting image is then masked out with the whole - brain region segmented out from the 4th imr image .
+one significant feature of the procedure described for modeling the 2nd resection is that it can be applied repetitively for each subsequent resection visible on successive imr images , no matter how many there are .
+the modeling of the 3rd resection is thus identical to the modeling of the 2nd resection .
+the tissue discontinuity due to the 2nd resection is defined from the 4th imr image , and used to appropriately enrich the nodes of the biomechanical model .
+then , this biomechanical model is deformed using xfem , in accordance with the displacement field of the healthy - brain region boundary evaluated from the 4th and 5th imr images . for the first patient case ,
+a simplification for the modeling of the 3rd resection can be made because , by the time the 5th imr image is acquired , the resection is complete .
+this means that we only need to compute the volume displacement field of the healthy - brain region .
+since we apply displacements exactly to the boundary of the healthy - brain region , the results obtained with fem and xfem will be identical .
+using the fem ( for the first patient case ) or xfem ( for the second patient case ) volume displacement field , we warp the part of the 4th imr image corresponding to the whole - brain region . the resulting image is then masked out with the whole - brain region segmented out from the 5th imr image .
+figures 5 and 6 show the results of warping the imr images , as well as the edges extracted from them , after brain shift and each successive resection modeling for the two patient cases . as explained in section 5.2.3 , since we apply displacements exactly to the boundary of the healthy - brain region , the results obtained with fem and xfem are identical in the healthy - brain region .
+one can deduce that using xfem for modeling resection is interesting when the neurosurgeon needs to have an accurate displacement field of the remaining tumor tissues . in this case
+, it is interesting to evaluate the impact of using fem , instead of xfem , to model the resection as if no resection was performed before .
+using fem for modeling resection is equivalent to ignoring the presence of resection on intraoperative images . to illustrate the comparison between fem and xfem results , we choose the 3rd resection modeling of the second patient case
+indeed , it is the deformation with remaining tumor tissues that shows the largest magnitude , and , thus , that is likely to give a maximum difference between the two computations .  
+the healthy - brain and tumor regions segmented out from the 4th and 5th imr images are respectively shown in figures 7(a ) and 7(b ) .
+the volume displacement fields of the biomechanical model using xfem and fem are respectively shown in figures 7(c ) and 7(d ) .
+the part of the 4th imr image corresponding to the whole - brain region is warped , first with the volume displacement field obtained via fem , and then with that obtained via xfem .
+the difference between the two warped images is shown in figure 7(e ) . as expected
+however , the difference between the two volume displacement fields is smaller than the image resolution ( although the difference between the two volume displacement fields is smaller than the image resolution , the difference between the images resulting of the warping using these two volume displacement fields is nonzero .
+this is explained by the fact that the ( gray ) value of each voxel of the warped image is defined as a weighted - value of voxels of the original image .
+the weights are defined based on the overlapping ratio of the voxel of the warped image , with voxels ( determined using the volume displacement field ) of the original image ) .
+in addition , the deformed 4th imr images , using the xfem- and the fem - based deformations of the biomechanical model , show the same similarity , computed based on the modified hausdorff distance , with the 5th imr .
+two reasons explain that the differences between the fem and xfem results are so small .
+first , the brain deformation itself due to the 3rd resection is small , and , thus , it is expected to obtain small differences between the two resulting brain deformations .
+second , in the case the remaining tumor tissues are close to the healthy - brain region boundary , it implies that they are close to the boundary where surface displacement fields are applied to drive the deformation of the biomechanical model .
+although this comparison between fem and xfem should be done on more patient cases , we suggest that , in first approximation , fem could be used for modeling resection cases with small brain deformations .
+nevertheless , the presentation of the successive resections using xfem shows the generality of our framework , and details how xfem is implemented .
+note that in section 6 devoted to validation , the warped images are the ones deformed with xfem .
+for each deformation modeling based on a pair ( ik , ik+1 ) of two successive imr images that are already rigidly registered , we compare the similarity between these ik and ik+1 images , as well as the similarity between the ik and ik+1 images , where ik is the result of warping ik .
+this gives us an estimate of how well we are able to capture , and compensate for , the local deformations between ik and ik+1 .
+the goal of the nonrigid registration is , however , to deform the preoperative images . by warping ik for each deformation modeling
+, we do not take into account the fact that an error of alignment after each deformation modeling could propagate and amplify through the successive deformation modelings . to evaluate the effect of this error amplification on the results
+, we also perform the required succession of warpings on i1 , and we denote the resulting image by i1,k .
+we then compare , for each deformation modeling , the similarity between i1 and ik+1 , together with the similarity between i1,k and ik+1 .
+this allows one to evaluate the propagation , that is , the amplification , of alignment error on the results .
+the modified hausdorff distance computed for each pair of imr images are given in tables 1 and 2 . 
+
+table 1 shows , for each deformation modeling based on a pair ( ik , ik+1 ) of two successive imr images , the values of the modified hausdorff distances (ik , ik+1 ) and (ik , ik+1 ) .
+these values are computed using the canny edges extracted from the pair of images ( ik , ik+1 ) ( figures 5 ( d ) and 6 ( d ) ) and ( ik , ik+1 ) ( figures 5 ( e ) and 6 ( e ) ) .
+we observe that the values for the images nonrigidly registered are relatively constant , that is , 1  mm , for each deformation modeling .
+six out of eight deformation modelings give smaller modified hausdorff distances when the imr images are ( rigidly and subsequently ) nonrigidly registered .
+however , the modified hausdorff distance increases for the 3rd resection modeling of the first patient case , as well as for the brain shift modeling of the second patient case . to understand
+if the nonrigid registration is responsible for the increase of the misalignment of the two imr images everywhere in the whole - brain region , or if this effect is localized , we compute the modified hausdorff distance in the region and neighborhood of the tumor only ( volume region that extents by 25  mm the tumor region segmented in i1 for both patient cases ) .
+the modified hausdorff distance decreases from (i4 , i5 ) = 1.70  mm to (i4 , i5 ) = 1.37  mm for the first patient case , while it decreases from (i1 , i2 ) = 1.36  mm to (i1 , i2 ) = 1.28  mm for the second patient case .
+this indicates that the nonrigid registration enhances the alignment of the two imr images within the tumor region and its neighborhood , which is in fact the location requiring the best modeling accuracy .
+this behavior could be explained by the fact that a maximum of information from the imr images is used in this region , that is , one or two ( in case of brain shift modeling ) surface displacement fields are applied around it .
+the increase of misalignment elsewhere in the brain volume could be explained by two reasons .
+first , the landmarks tracked from the imr images are surfaces . as a consequence , the nonrigid registration is expected to give better results near the tracked surfaces than far from them in the volume .
+the volume misalignment could point out the need for better parameters values and/or other constitutive laws . 
+
+table 2 shows , for each deformation modeling based on a pair ( ik , ik+1 ) of two successive imr images , the values of the modified hausdorff distances (i1 , ik+1 ) and (i1,k , ik+1 ) .
+so far , igns systems allow one to rigidly register preoperative and successive imr images .
+(i1 , ik+1 ) thus represents the navigation accuracy that we can obtain with an igns system at the present time .
+the comparison of (i1 , ik+1 ) with (i1,k , ik+1 ) gives the improvement that could be practically achieved in the alignment with our approach .
+as expected , table 2 shows that the igns accuracy decreases through the successive deformations .
+indeed , the modified hausdorff distance increases from (i1 , i2 ) = 1.24  mm to (i1 , i5 ) = 1.78  mm for the first patient case , and from (i1 , i2 ) = 1.01  mm to (i1 , i5 ) = 1.68  mm for the second patient case .
+six out of eight deformation modelings give smaller modified hausdorff distances when the imr images are nonrigidly registered .
+to understand if the modified hausdorff distance increases everywhere in the whole - brain region for the brain shift and 1st resection modeling of the second patient case , we compute the modified hausdorff distance in the neighborhood of the tumor region ( in the same way as explained for table 1 ) , and observe the improvement of the alignment within the tumor region and its neighborhood . as opposed to the values of the modified hausdorff distances in table 1 , the values for the images nonrigidly registered in table 2 increase through the successive resection modeling .
+this amplification error is due to the fact that , after having modeled brain deformation between a pair of imr images , the deformed biomechanical model is not in perfect alignment with the second image of the pair .
+since , for the subsequent deformation modeling , the surface landmarks are initialized based on the deformed biomechanical model , this can thus ampliy a misregistration error .
+we developed a complete 3d framework for serial preoperative image update in the presence of brain shift followed by successive resections .
+the nonrigid registration technique used an homogeneous linear elastic biomechanical model , driven by the deformations of whole - brain and internal tumor region boundaries for brain shift modeling , and healthy - brain region boundary for resection modelings , tracked between successive imr images .
+the biomechanical model was deformed using fem for brain shift modeling , and fem or xfem for resection modeling , depending upon whether some brain tissues were previously resected or not .
+we showed that our approach was modular , and could be applied each time a new imr image is acquired .
+we used a linear formulation to characterize the deformation of the brains of both patients because the brains underwent relatively small deformations and displacements .
+while nonlinear biomechanical models have proven effective to decrease  yet do not abolish  the inaccuracies of fem - based modeling methods of large brain deformations , the deformations observed in our patients during surgery remained moderate ( 47  mm ) , thus reducing the theoretical benefit of using nonlinear models .
+this allowed us to use simpler linear models and focus on the added value of xfem to simultaneously account for surgical deformations , namely , shift and resection . using a linear formulation
+implied that , for each new deformation modeling , one could use the initial configuration rather than the last - deformed configuration of the biomechanical model .
+this had the important advantage of using a good quality mesh for each deformation modeling rather than using a mesh whose quality progressively degraded with each successive deformation modeling .
+this also had the advantage that we did no longer need to reconnect the deformed mesh for each new xfem calculation , which was one drawback of our previous method , presented in [ 39 , 41 ] , where the biomechanical model was successively deformed .
+we also showed how xfem could handle a discontinuity for modeling resection without any remeshing or mesh adaptation while the representation of the discontinuity remained accurate , that is , the representation of the discontinuity was not based on a jagged topology using fe facets .
+xfem thus also avoided making the mesh resolution richer in the neighborhood of the resection - cavity boundary for improving the accuracy of the representation of the discontinuity for that purpose only .
+we showed that our nonrigid registration technique improved the alignment of the successive imr images for most of the deformation modeling of both patient cases . when our nonrigid registration failed , it still improved the alignment locally , that is , within the tumor region and its neighborhood .
+we tested the explicit modeling of the lateral ventricles ' region with a soft , compressible law in addition to the whole - brain region law used in the homogeneous biomechanical model .
+in addition to the validation that is usually performed for successive deformation modelings , that is , validation between pairs of successive intraoperative images , shown in table 1 of section 6 or in the work of ferrant et al .
+[ 13 , 47 , 48 ] , we also evaluated the fact that an error of alignment after each deformation modeling could propagate and amplify through the successive deformation modelings . as a result , shown in table 2 of section 6
+, we showed that our approach suffered from the propagation of misregistration through the successive deformation modelings .
+we expected that this was due , at least partly , to the algorithms used to evaluate intraoperative surface displacements fields from the whole - brain and healthy - brain region boundaries .
+the surface displacement fields were computed using active surface algorithms , and smoothed to make them compatible with the biomechanical model .
+because of these two smoothings , the deformed biomechanical model was likely to not be in a perfect alignment with the imr image to which it was registered .
+because the surface displacement fields evaluated for the next deformation modeling were initialized based on the deformed biomechanical model , we expected to observe an amplification of the misregistration , which was confirmed by our quantitative evaluation . at the present time
+though , commercial igns systems allow one to register preoperative images and successive imr images , but in a rigid way only .
+consequently , although the effect of error amplification exists , our technique still enhances the current capabilities of commercial igns systems .
+future work on modeling of brain shift followed by successive resection is required in five main areas .
+first , the effect of error amplification through the successive brain deformation modelings calls for further research .
+consequently , the segmentation , and the subsequent smoothing , as well as the evaluation of surface displacement fields , should be improved to minimize the effect of error amplification .
+second , further research is required to include additional structures in the biomechanical model in general , and to study the best way to include the lateral ventricles in particular .
+the use of a poroelastic model in order to model the cerebrospinal fluid filling the ventricles could be considered [ 17 , 18 ] .
+indeed , these images provide volume information ( rather than surface information only ) , are of good quality in comparison to other intraoperative modalities , and possess a field of view that includes the full volume of brain tissues ( for the 0.5 tesla ge signa scanner ) .
+these images thus allow one to evaluate what , and how , new structures of the brain could be used , to enhance the modeling of brain shift .
+some regions , for example , the lateral ventricles ' region , could be extracted from the two imr images , and used as surface landmarks to drive the deformation of the biomechanical model [ 13 , 62 ] . indeed , the workflow presented in this paper has the advantage of being easily adaptable . in case
+the tumor region would not be visible ( enough ) on the imr images , these new structures , easier to segment , could also adequately replace the tumor for driving the deformation .
+fourth , our global approach should no longer be based on the 1st imr image used as a substitute for preoperative images , but on the preoperative images themselves .
+fifth , we should implement , for the surgery cases involving large deformations of the brain , a nonlinear formulation of fem [ 63 , 64 ] , and , particularly , a nonlinear formulation of xfem , which is the subject of recent research [ 65 , 66 ] .
